@@ -1,0 +1,9 @@
+config:
+  device_id:
+    required: true
+    type: str
+  temperature:
+    required: true
+    type: float
+    min: 20.0
+    max: 40.0
