@@ -2,8 +2,9 @@ config:
   device_id:
     required: true
     type: str
+    max: 20
   temperature:
     required: true
     type: float
-    min: 20.0
-    max: 40.0
+    min: 12.0
+    max: 99.0
