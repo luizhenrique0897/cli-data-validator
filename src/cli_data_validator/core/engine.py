@@ -7,6 +7,7 @@ import sys
 from cli_data_validator.core.loader import Schema
 from cli_data_validator.core.factory import DynamicModelFactory
 from cli_data_validator.io.readers import CSVReader
+from cli_data_validator.io.writers import JSONWriter
 
 class ValidationEngine:
     """Validate each line of the dataset based on the pydantic validator"""
@@ -60,4 +61,4 @@ custom_model = DynamicModelFactory.create_model_from_schema(schema=my_schema)
 
 test = ValidationEngine.validate(data=input_data, validation_model=custom_model)
 
-print(test)
+JSONWriter.write_output(test["valid_records"], test["errors"], Path("./src/cli_data_validator/core/result.json"), Path("./src/cli_data_validator/core/errors.json"))

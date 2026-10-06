@@ -2,7 +2,7 @@ from pydantic import BaseModel, EmailStr, create_model, Field
 from datetime import datetime, date
 from typing import Any
 
-from loader import Schema
+from cli_data_validator.core.loader import Schema
 from pathlib import Path
 
 TYPE_MAPPING: dict[str, Any] = {
