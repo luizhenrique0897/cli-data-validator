@@ -75,7 +75,8 @@ class DynamicModelFactory:
         
         return create_model(model_name, **field_definition)
 
-file_path = Path("core/test.yaml")
+'''
+file_path = Path("./src/cli_data_validator/core/test.yaml")
 my_schema = Schema.load_file(file_path)
 
 my_model = DynamicModelFactory.create_model_from_schema(schema=my_schema)
@@ -98,3 +99,4 @@ try:
     my_model(**invalid_data)
 except Exception as e:
     print("Capturou o erro com sucesso!\n", e)
+'''

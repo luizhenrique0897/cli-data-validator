@@ -27,7 +27,7 @@ class Schema:
         return schema_data
 
 '''
-file = "core/test.yaml"
+file = "./src/cli_data_validator/core/test.yaml"
 file_path = Path(file)
 
 new_schema = Schema()

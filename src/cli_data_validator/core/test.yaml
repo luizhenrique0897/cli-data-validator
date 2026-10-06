@@ -1,5 +1,5 @@
 config:
-  device_id:
+  sensor_id:
     required: true
     type: str
     max: 20

@@ -11,7 +11,7 @@ class CSVReader:
     """
 
     @staticmethod
-    def read(file_path: str) -> Generator[list[str], None, None]:
+    def read(file_path: str) -> Generator[dict[str, str], None, None]:
         """
         Reads the CSV file and yields its contents as lists of strings.
 
@@ -19,12 +19,14 @@ class CSVReader:
             list: A list of strings representing a row in the CSV file.
         """
         with open(file_path, mode="r", encoding="utf-8") as file:
-            reader = csv.reader(file)
+            reader = csv.DictReader(file)
             for line in reader:
                 yield line
 
-
+'''
 mycsv = CSVReader()
-r = mycsv.read("..\\..\\samples\\MOCK_DATA.csv")
+r = mycsv.read(".\\samples\\MOCK_DATA.csv")
 for i in r:
     print(i)
+'''
+    
