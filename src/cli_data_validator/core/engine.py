@@ -1,19 +1,15 @@
-from pydantic import BaseModel, ValidationError
-from pathlib import Path
-from typing import Any
 import time
-import sys
+from typing import Any
+from collections.abc import Generator
 
-from cli_data_validator.core.loader import Schema
-from cli_data_validator.core.factory import DynamicModelFactory
-from cli_data_validator.io.readers import CSVReader
-from cli_data_validator.io.writers import JSONWriter
+from pydantic import BaseModel, ValidationError
+
 
 class ValidationEngine:
     """Validate each line of the dataset based on the pydantic validator"""
 
     @staticmethod
-    def validate(data: list, validation_model: type[BaseModel]) -> dict[str, Any]:
+    def validate(data: Generator[dict[str, str], Any, Any], validation_model: type[BaseModel]) -> dict[str, Any]:
         """Run the validation logic
 
         Returns:
@@ -30,9 +26,7 @@ class ValidationEngine:
                 valid_records.append(validated_record.model_dump())
             except ValidationError as e:
                 for error in e.errors():
-                    field_name = (
-                        str(error["loc"][0]) if error["loc"] else "unknown"
-                    )
+                    field_name = str(error["loc"][0]) if error["loc"] else "unknown"
                     errors.append(
                         {
                             "row": row_index,
@@ -50,15 +44,5 @@ class ValidationEngine:
             "error_count": len(errors),
             "elapsed_seconds": elapsed_time,
             "valid_records": valid_records,
-            "errors": errors
+            "errors": errors,
         }
-
-config_file_path = Path("./src/cli_data_validator/core/test.yaml")
-my_schema = Schema.load_file(file_path=config_file_path)
-csv_file_path = Path("./samples/MOCK_DATA.csv")
-input_data = CSVReader.read(file_path=csv_file_path)
-custom_model = DynamicModelFactory.create_model_from_schema(schema=my_schema)
-
-test = ValidationEngine.validate(data=input_data, validation_model=custom_model)
-
-JSONWriter.write_output(test["valid_records"], test["errors"], Path("./src/cli_data_validator/core/result.json"), Path("./src/cli_data_validator/core/errors.json"))

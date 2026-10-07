@@ -1,6 +1,7 @@
 import json
 from pathlib import Path
 from typing import Any
+
 import yaml
 
 
@@ -14,7 +15,7 @@ class Schema:
 
         suffix = file_path.suffix.lower()
 
-        with open(file=file_path, mode="r") as file:
+        with open(file=file_path, mode="r", encoding="utf-8") as file:
             if suffix in [".yaml", ".yml"]:
                 schema_data = yaml.safe_load(file)
             elif suffix == ".json":
@@ -25,13 +26,3 @@ class Schema:
                 )
 
         return schema_data
-
-'''
-file = "./src/cli_data_validator/core/test.yaml"
-file_path = Path(file)
-
-new_schema = Schema()
-schema = new_schema.load_file(file_path)
-
-print(schema)
-'''

@@ -1,9 +1,7 @@
-from pydantic import BaseModel, EmailStr, create_model, Field
-from datetime import datetime, date
+from datetime import date, datetime
 from typing import Any
 
-from cli_data_validator.core.loader import Schema
-from pathlib import Path
+from pydantic import EmailStr, Field, create_model
 
 TYPE_MAPPING: dict[str, Any] = {
     "str": str,
@@ -19,18 +17,21 @@ TYPE_MAPPING: dict[str, Any] = {
     "email": EmailStr,
 }
 
+
 class DynamicModelFactory:
     """Transform a dictionary into a dynamic Pydantic V2 model"""
 
     @staticmethod
-    def create_model_from_schema(schema: dict[str, Any], model_name: str = "DynamicDataModel"):
+    def create_model_from_schema(
+        schema: dict[str, Any], model_name: str = "DynamicDataModel"
+    ):
 
         fields = schema.get("config", {})
         field_definition = {}
 
         for field_name, rules in fields.items():
             if not isinstance(rules, dict):
-                raise ValueError(
+                raise TypeError(
                     f"The field configuration of '{field_name}' should be a dictionary."
                 )
 
@@ -70,33 +71,7 @@ class DynamicModelFactory:
 
             field_definition[field_name] = (
                 target_type,
-                Field(default=default_value, **field_kwargs)
+                Field(default=default_value, **field_kwargs),
             )
-        
+
         return create_model(model_name, **field_definition)
-
-'''
-file_path = Path("./src/cli_data_validator/core/test.yaml")
-my_schema = Schema.load_file(file_path)
-
-my_model = DynamicModelFactory.create_model_from_schema(schema=my_schema)
-
-print(my_model)
-for nome_campo, info in my_model.model_fields.items():
-    print(f"Atributo: {nome_campo} | Tipo: {info.annotation} | Requerido: {info.is_required()}")
-    # Exibe as restrições (gt, lt, min_length, etc.) presentes no metadata
-    print("  Restrições (Field):")
-    for meta in info.metadata:
-        print(f"    - {meta}")
-
-invalid_data = {
-    "device_id": "teste",
-    "temperature": 100
-}
-
-# VALIDAÇÃO
-try:
-    my_model(**invalid_data)
-except Exception as e:
-    print("Capturou o erro com sucesso!\n", e)
-'''

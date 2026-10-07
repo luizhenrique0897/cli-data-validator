@@ -1,6 +1,6 @@
 import csv
 from collections.abc import Generator
-
+from pathlib import Path
 
 class CSVReader:
     """
@@ -11,22 +11,14 @@ class CSVReader:
     """
 
     @staticmethod
-    def read(file_path: str) -> Generator[dict[str, str], None, None]:
+    def read(file_path: Path) -> Generator[dict[str, str], None, None]:
         """
         Reads the CSV file and yields its contents as lists of strings.
 
         Yields:
             list: A list of strings representing a row in the CSV file.
         """
-        with open(file_path, mode="r", encoding="utf-8") as file:
+        with open(file_path, mode="r", encoding="utf-8-sig") as file:
             reader = csv.DictReader(file)
             for line in reader:
                 yield line
-
-'''
-mycsv = CSVReader()
-r = mycsv.read(".\\samples\\MOCK_DATA.csv")
-for i in r:
-    print(i)
-'''
-    

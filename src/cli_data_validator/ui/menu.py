@@ -1,20 +1,23 @@
 from pathlib import Path
+from typing import Any
+
 import questionary
+import yaml
 from questionary import Choice
 from rich.console import Console
 from rich.panel import Panel
-import yaml
-from typing import Any
 
+from cli_data_validator.core.engine import ValidationEngine
 from cli_data_validator.core.factory import DynamicModelFactory
 from cli_data_validator.core.loader import Schema
-from cli_data_validator.core.engine import ValidationEngine
 from cli_data_validator.io.readers import CSVReader
 from cli_data_validator.io.writers import JSONWriter
 from cli_data_validator.ui.reporter import CLIReporter
 
 console = Console()
-DEFAULT_SQUEMA_PATH = "src/cli_data_validator/core/test.yaml"
+BASE_DIR = Path(__file__).resolve().parent.parent
+DEFAULT_SQUEMA_PATH = BASE_DIR / "core" / "test.yaml"
+
 
 def display_header() -> None:
     console.clear()
@@ -23,14 +26,14 @@ def display_header() -> None:
         "[bold cyan]CLI Data Sanitizer & Validator Engine[/bold cyan]\n"
         "[dim]Validação e higienização de dados via Pydantic V2[/dim]",
         border_style="bright_blue",
-        padding=(1,4),
+        padding=(1, 4),
     )
 
     console.print(banner)
     console.print()
 
 
-def interative_loop() -> None:
+def interactive_loop() -> None:
     """Main loop interation"""
     while True:
         # Show header
@@ -39,12 +42,12 @@ def interative_loop() -> None:
         # Interative menu
         choice = questionary.select(
             message="Choose an option: ",
-            choices = [
+            choices=[
                 Choice("🚀 Processar e Validar Dataset (CSV)", value=1),
                 Choice("✏️  Editar Esquema YAML Existente", value=2),
                 Choice("❌ Sair", value=3),
             ],
-            style = questionary.Style(
+            style=questionary.Style(
                 [
                     ("pointer", "fg:cyan bold"),
                     ("selected", "fg:cyan bold"),
@@ -57,21 +60,18 @@ def interative_loop() -> None:
         if choice == 3:
             console.print("\n[bold green]Closing the app...[/bold green]\n")
             break
-    
+
         # Actions
         if choice == 1:
             data_file = questionary.text(
-                message="Data file path (CSV or JSON):",
-                default="samples/MOCK_DATA.csv"
+                message="Data file path (CSV or JSON):", default="samples/MOCK_DATA.csv"
             ).ask()
 
             data_path = Path(data_file)
             squema_path = Path(DEFAULT_SQUEMA_PATH)
 
             if not data_path.exists():
-                console.print(
-                    "\n[bold red]Data file not found![bold red]\n"
-                )
+                console.print("\n[bold red]Data file not found![bold red]\n")
                 return
 
             with console.status(
@@ -81,8 +81,7 @@ def interative_loop() -> None:
                 model = DynamicModelFactory.create_model_from_schema(squema_data)
                 records_stream = CSVReader.read(data_path)
                 result = ValidationEngine.validate(
-                    data=records_stream,
-                    validation_model=model
+                    data=records_stream, validation_model=model
                 )
 
                 JSONWriter.write_output(
@@ -92,15 +91,18 @@ def interative_loop() -> None:
 
                 CLIReporter.print_summary(result)
                 CLIReporter.print_errors(result["errors"])
-                
+
             # Pausa para o usuário ver o resultado antes de recarregar a tela
             console.print("[bold green]Finished![/bold green]")
-            console.print(f"[bold green]You can find the results in {DEFAULT_SQUEMA_PATH}[/bold green]")
+            console.print(
+                f"[bold green]You can find the results in output folder[/bold green]"
+            )
             questionary.press_any_key_to_continue(
                 "Pressione qualquer tecla para voltar ao menu principal..."
             ).ask()
         elif choice == 2:
             _handle_edit_schema()
+
 
 def _cast_numeric_value(val_str: str | None, field_type: str) -> Any:
     """Converte a string digitada no terminal para float, int ou None."""
@@ -113,6 +115,7 @@ def _cast_numeric_value(val_str: str | None, field_type: str) -> Any:
         return int(val_str)
 
     return val_str
+
 
 def _handle_edit_schema() -> None:
     schema_path = Path(DEFAULT_SQUEMA_PATH)
@@ -129,12 +132,12 @@ def _handle_edit_schema() -> None:
 
         choice = questionary.select(
             message="Choose an option: ",
-            choices = [
+            choices=[
                 Choice("➕ Adicionar/Editar novo campo ao esquema", value=1),
                 Choice("🗑️  Remover um campo existente", value=2),
                 Choice("💾 Salvar e Voltar ao Menu Principal", value=3),
             ],
-            style = questionary.Style(
+            style=questionary.Style(
                 [
                     ("pointer", "fg:cyan bold"),
                     ("selected", "fg:cyan bold"),
@@ -150,7 +153,7 @@ def _handle_edit_schema() -> None:
                     config_file,
                     sort_keys=False,
                     allow_unicode=True,
-                    indent=2
+                    indent=2,
                 )
             break
 
@@ -161,6 +164,9 @@ def _handle_edit_schema() -> None:
 
 
 def _add_edit_field(config: dict) -> None:
+    if "config" not in config or not isinstance(config["config"], dict):
+        config["config"] = {}
+
     field_name = questionary.text(
         message="Name of the new field (or existing field to edit):",
     ).ask()
@@ -179,7 +185,7 @@ def _add_edit_field(config: dict) -> None:
             "datetime",
             "email",
         ],
-        style = questionary.Style(
+        style=questionary.Style(
             [
                 ("pointer", "fg:cyan bold"),
                 ("selected", "fg:cyan bold"),
@@ -206,21 +212,22 @@ def _add_edit_field(config: dict) -> None:
 
     if field_type in ["int", "float", "str"]:
         min_value = questionary.text(
-            message="Minimum value: ",
-            default="0",
-            validate=is_valid_number
+            message="Minimum value: ", default="1", validate=is_valid_number
         ).ask()
         max_value = questionary.text(
-            message="Maximum value:",
-            default="0",
-            validate=is_valid_number
+            message="Maximum value:", default="10", validate=is_valid_number
         ).ask()
 
         # Converte as strings para int/float nativos do Python
         parsed_min = _cast_numeric_value(min_value, field_type)
         parsed_max = _cast_numeric_value(max_value, field_type)
 
-        config["config"][field_name] = {"type": field_type, "required": is_required, "min": parsed_min, "max": parsed_max}
+        config["config"][field_name] = {
+            "type": field_type,
+            "required": is_required,
+            "min": parsed_min,
+            "max": parsed_max,
+        }
     else:
         config["config"][field_name] = {"type": field_type, "required": is_required}
 
@@ -232,7 +239,7 @@ def _remove_field(config: dict) -> None:
         message="Name of the field to remove:",
     ).ask()
 
-    if field_name in config["config"].keys():
+    if field_name in config["config"]:
         del config["config"][field_name]
         console.print(f"\n[bold green]Field {field_name} removed![/bold green]\n")
         questionary.press_any_key_to_continue(
@@ -243,6 +250,3 @@ def _remove_field(config: dict) -> None:
         questionary.press_any_key_to_continue(
             "Pressione qualquer tecla para voltar ao menu principal..."
         ).ask()
-
-if __name__ == "__main__":
-    interative_loop()

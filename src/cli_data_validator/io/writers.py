@@ -1,6 +1,7 @@
 import json
-from typing import Any
 from pathlib import Path
+from typing import Any
+
 
 class JSONWriter:
     """Export results to JSON files"""
@@ -14,8 +15,8 @@ class JSONWriter:
 
         with open(file_path, mode="w", encoding="utf-8") as file:
             json.dump(
-                data, 
-                file, 
+                data,
+                file,
                 indent=4,
                 ensure_ascii=False,
                 sort_keys=True,

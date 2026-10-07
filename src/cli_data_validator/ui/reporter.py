@@ -1,9 +1,10 @@
 from typing import Any
+
 from rich.console import Console
-from rich.panel import Panel
 from rich.table import Table
 
 console = Console()
+
 
 class CLIReporter:
     """Show the results on CLI"""
@@ -38,9 +39,7 @@ class CLIReporter:
         console.print(table)
 
     @staticmethod
-    def print_errors(
-        errors: list[dict[str, Any]], max_display: int = 5
-    ) -> None:
+    def print_errors(errors: list[dict[str, Any]], max_display: int = 5) -> None:
         """Exibe uma tabela com o detalhamento das primeiras falhas encontradas."""
         if not errors:
             console.print(
