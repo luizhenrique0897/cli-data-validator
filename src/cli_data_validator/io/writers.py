@@ -1,15 +1,23 @@
+"""Data Output Writer module.
+
+Handles exporting validated data records and error logs to JSON files.
+"""
+
 import json
 from pathlib import Path
 from typing import Any
 
 
 class JSONWriter:
-    """Export results to JSON files"""
+    """Writer class responsible for serializing dataset output records into JSON files."""
 
     @staticmethod
     def write_json(data: list[dict[str, Any]], file_path: Path) -> None:
-        """
-        Create json file
+        """Writes a list of dictionaries to a formatted JSON file.
+
+        Args:
+            data: List of dictionaries to be serialized.
+            file_path: Target path where the JSON file will be saved.
         """
         file_path.parent.mkdir(parents=True, exist_ok=True)
 
@@ -31,8 +39,13 @@ class JSONWriter:
         valid_path: Path = Path("output/valid_data.json"),
         error_path: Path = Path("output/errors.json"),
     ) -> None:
-        """
-        Write valid data and errors to json files
+        """Exports valid records and error reports to their respective JSON destination files.
+
+        Args:
+            valid_records: List of successfully validated data rows.
+            errors: List of detected validation error details.
+            valid_path: Target output path for valid records. Defaults to 'output/valid_data.json'.
+            error_path: Target output path for error logs. Defaults to 'output/errors.json'.
         """
         cls.write_json(data=valid_records, file_path=valid_path)
 

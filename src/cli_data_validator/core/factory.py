@@ -1,8 +1,14 @@
+"""Dynamic Model Factory module.
+
+Generates Pydantic V2 model classes dynamically from schema configuration dictionaries.
+"""
+
 from datetime import date, datetime
 from typing import Any
 
 from pydantic import EmailStr, Field, create_model
 
+# Mapping from string representations in schema to Python/Pydantic types
 TYPE_MAPPING: dict[str, Any] = {
     "str": str,
     "string": str,
@@ -19,12 +25,25 @@ TYPE_MAPPING: dict[str, Any] = {
 
 
 class DynamicModelFactory:
-    """Transform a dictionary into a dynamic Pydantic V2 model"""
+    """Factory class to construct dynamic Pydantic V2 models at runtime."""
 
     @staticmethod
     def create_model_from_schema(
         schema: dict[str, Any], model_name: str = "DynamicDataModel"
     ):
+        """Creates a dynamic Pydantic model from a schema dictionary.
+
+        Args:
+            schema: Dictionary containing field rules under the "config" key.
+            model_name: Name of the dynamically generated model class.
+
+        Returns:
+            A dynamically generated Pydantic BaseModel class.
+
+        Raises:
+            TypeError: If a field configuration rule is not a dictionary.
+            ValueError: If an unsupported field type is specified.
+        """
 
         fields = schema.get("config", {})
         field_definition = {}
@@ -48,20 +67,21 @@ class DynamicModelFactory:
             # Arguments for pydantic.Field
             field_kwargs = {}
 
-            # Min and Max Fields
+            # Process minimum constraints (ge for numeric, min_length for strings)
             if "min" in rules:
                 if python_type in (int, float):
                     field_kwargs["ge"] = rules["min"]
                 elif python_type == str:
                     field_kwargs["min_length"] = int(rules["min"])
 
+            # Process maximum constraints (le for numeric, max_length for strings)
             if "max" in rules:
                 if python_type in (int, float):
                     field_kwargs["le"] = rules["max"]
                 elif python_type == str:
                     field_kwargs["max_length"] = int(rules["max"])
 
-            # Required fields
+            # Define field requirement status and default value
             if not is_required:
                 target_type = python_type | None
                 default_value = rules.get("default", None)

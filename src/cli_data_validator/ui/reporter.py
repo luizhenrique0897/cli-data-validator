@@ -1,3 +1,8 @@
+"""CLI Reporter module.
+
+Renders formatted statistical summaries and error tables in the terminal using Rich.
+"""
+
 from typing import Any
 
 from rich.console import Console
@@ -7,11 +12,16 @@ console = Console()
 
 
 class CLIReporter:
-    """Show the results on CLI"""
+    """Reporter class responsible for displaying execution reports in the terminal."""
 
     @staticmethod
     def print_summary(result: dict[str, Any]) -> None:
-        """Exibe uma tabela com o resumo estatístico do processamento."""
+        """Prints a styled table summarizing dataset processing statistics.
+
+        Args:
+            result: Dictionary containing total_processed, valid_count, error_count,
+                    and elapsed_seconds metrics.
+        """
         total = result.get("total_processed", 0)
         valid = result.get("valid_count", 0)
         errors = result.get("error_count", 0)
@@ -40,7 +50,12 @@ class CLIReporter:
 
     @staticmethod
     def print_errors(errors: list[dict[str, Any]], max_display: int = 5) -> None:
-        """Exibe uma tabela com o detalhamento das primeiras falhas encontradas."""
+        """Prints a detailed breakdown table of validation errors found.
+
+        Args:
+            errors: List of error dictionaries logged during validation.
+            max_display: Maximum number of error rows to show in the CLI preview table.
+        """
         if not errors:
             console.print(
                 "\n[bold green]✨ Nenhum erro encontrado nos dados![/bold green]\n"
