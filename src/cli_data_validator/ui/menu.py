@@ -31,7 +31,7 @@ def display_header() -> None:
 
     banner = Panel.fit(
         "[bold cyan]CLI Data Sanitizer & Validator Engine[/bold cyan]\n"
-        "[dim]Validação e higienização de dados via Pydantic V2[/dim]",
+        "[dim]Data validation and sanitization engine powered by Pydantic V2[/dim]",
         border_style="bright_blue",
         padding=(1, 4),
     )
@@ -70,7 +70,7 @@ def interactive_loop() -> None:
         # Process
         if choice == 1:
             data_file = questionary.text(
-                message="Data file path (CSV):", default=BASE_DIR / "samples" / "MOCK_DATA.csv"
+                message="Data file path (CSV):", default= "./samples/MOCK_DATA.csv"
             ).ask()
 
             data_path = Path(data_file)
@@ -78,33 +78,35 @@ def interactive_loop() -> None:
 
             if not data_path.exists():
                 console.print("\n[bold red]Error: Data file not found![bold red]\n")
-                return
+                questionary.press_any_key_to_continue(
+                    "Press any key to return to the main menu..."
+                ).ask()
+            else:
+                with console.status(
+                    "[bold green]Loading configs and analyzing dataset...[bold green]"
+                ):
+                    squema_data = Schema.load_file(squema_path)
+                    model = DynamicModelFactory.create_model_from_schema(squema_data)
+                    records_stream = CSVReader.read(data_path)
+                    result = ValidationEngine.validate(
+                        data=records_stream, validation_model=model
+                    )
 
-            with console.status(
-                "[bold green]Loading configs and analyzing dataset...[bold green]"
-            ):
-                squema_data = Schema.load_file(squema_path)
-                model = DynamicModelFactory.create_model_from_schema(squema_data)
-                records_stream = CSVReader.read(data_path)
-                result = ValidationEngine.validate(
-                    data=records_stream, validation_model=model
+                    JSONWriter.write_output(
+                        valid_records=result["valid_records"],
+                        errors=result["errors"],
+                    )
+
+                    CLIReporter.print_summary(result)
+                    CLIReporter.print_errors(result["errors"])
+
+                console.print("[bold green]Validation completed successfully![/bold green]")
+                console.print(
+                    f"[bold green]Results exported to the 'output/' directory.[/bold green]"
                 )
-
-                JSONWriter.write_output(
-                    valid_records=result["valid_records"],
-                    errors=result["errors"],
-                )
-
-                CLIReporter.print_summary(result)
-                CLIReporter.print_errors(result["errors"])
-
-            console.print("[bold green]Validation completed successfully![/bold green]")
-            console.print(
-                f"[bold green]Results exported to the 'output/' directory.[/bold green]"
-            )
-            questionary.press_any_key_to_continue(
-                "Press any key to return to the main menu..."
-            ).ask()
+                questionary.press_any_key_to_continue(
+                    "Press any key to return to the main menu..."
+                ).ask()
         # Edit congfigs
         elif choice == 2:
             _handle_edit_schema()
@@ -153,7 +155,7 @@ def _handle_edit_schema() -> None:
             message="Choose an option:",
             choices=[
                 Choice("➕ Add/Edit Schema Field", value=1),
-                Choice("🗑️ Remove Existing Field", value=2),
+                Choice("🗑️  Remove Existing Field", value=2),
                 Choice("💾 Save and Return to Main Menu", value=3),
             ],
             style=questionary.Style(

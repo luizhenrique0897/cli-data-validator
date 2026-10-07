@@ -1,0 +1,548 @@
+[
+    {
+        "field": "temperature",
+        "invalid_value": "",
+        "message": "Input should be a valid number, unable to parse string as a number",
+        "row": 5
+    },
+    {
+        "field": "temperature",
+        "invalid_value": "",
+        "message": "Input should be a valid number, unable to parse string as a number",
+        "row": 25
+    },
+    {
+        "field": "temperature",
+        "invalid_value": "",
+        "message": "Input should be a valid number, unable to parse string as a number",
+        "row": 29
+    },
+    {
+        "field": "temperature",
+        "invalid_value": "",
+        "message": "Input should be a valid number, unable to parse string as a number",
+        "row": 54
+    },
+    {
+        "field": "temperature",
+        "invalid_value": "",
+        "message": "Input should be a valid number, unable to parse string as a number",
+        "row": 58
+    },
+    {
+        "field": "temperature",
+        "invalid_value": "",
+        "message": "Input should be a valid number, unable to parse string as a number",
+        "row": 65
+    },
+    {
+        "field": "temperature",
+        "invalid_value": "",
+        "message": "Input should be a valid number, unable to parse string as a number",
+        "row": 96
+    },
+    {
+        "field": "temperature",
+        "invalid_value": "",
+        "message": "Input should be a valid number, unable to parse string as a number",
+        "row": 113
+    },
+    {
+        "field": "temperature",
+        "invalid_value": "",
+        "message": "Input should be a valid number, unable to parse string as a number",
+        "row": 116
+    },
+    {
+        "field": "temperature",
+        "invalid_value": "",
+        "message": "Input should be a valid number, unable to parse string as a number",
+        "row": 118
+    },
+    {
+        "field": "temperature",
+        "invalid_value": "",
+        "message": "Input should be a valid number, unable to parse string as a number",
+        "row": 122
+    },
+    {
+        "field": "temperature",
+        "invalid_value": "",
+        "message": "Input should be a valid number, unable to parse string as a number",
+        "row": 124
+    },
+    {
+        "field": "temperature",
+        "invalid_value": "",
+        "message": "Input should be a valid number, unable to parse string as a number",
+        "row": 133
+    },
+    {
+        "field": "temperature",
+        "invalid_value": "",
+        "message": "Input should be a valid number, unable to parse string as a number",
+        "row": 144
+    },
+    {
+        "field": "temperature",
+        "invalid_value": "",
+        "message": "Input should be a valid number, unable to parse string as a number",
+        "row": 164
+    },
+    {
+        "field": "temperature",
+        "invalid_value": "",
+        "message": "Input should be a valid number, unable to parse string as a number",
+        "row": 171
+    },
+    {
+        "field": "temperature",
+        "invalid_value": "",
+        "message": "Input should be a valid number, unable to parse string as a number",
+        "row": 175
+    },
+    {
+        "field": "temperature",
+        "invalid_value": "",
+        "message": "Input should be a valid number, unable to parse string as a number",
+        "row": 176
+    },
+    {
+        "field": "temperature",
+        "invalid_value": "",
+        "message": "Input should be a valid number, unable to parse string as a number",
+        "row": 182
+    },
+    {
+        "field": "temperature",
+        "invalid_value": "",
+        "message": "Input should be a valid number, unable to parse string as a number",
+        "row": 184
+    },
+    {
+        "field": "temperature",
+        "invalid_value": "",
+        "message": "Input should be a valid number, unable to parse string as a number",
+        "row": 201
+    },
+    {
+        "field": "temperature",
+        "invalid_value": "",
+        "message": "Input should be a valid number, unable to parse string as a number",
+        "row": 231
+    },
+    {
+        "field": "temperature",
+        "invalid_value": "",
+        "message": "Input should be a valid number, unable to parse string as a number",
+        "row": 240
+    },
+    {
+        "field": "temperature",
+        "invalid_value": "",
+        "message": "Input should be a valid number, unable to parse string as a number",
+        "row": 242
+    },
+    {
+        "field": "temperature",
+        "invalid_value": "",
+        "message": "Input should be a valid number, unable to parse string as a number",
+        "row": 261
+    },
+    {
+        "field": "temperature",
+        "invalid_value": "",
+        "message": "Input should be a valid number, unable to parse string as a number",
+        "row": 295
+    },
+    {
+        "field": "temperature",
+        "invalid_value": "",
+        "message": "Input should be a valid number, unable to parse string as a number",
+        "row": 307
+    },
+    {
+        "field": "temperature",
+        "invalid_value": "",
+        "message": "Input should be a valid number, unable to parse string as a number",
+        "row": 332
+    },
+    {
+        "field": "temperature",
+        "invalid_value": "",
+        "message": "Input should be a valid number, unable to parse string as a number",
+        "row": 353
+    },
+    {
+        "field": "temperature",
+        "invalid_value": "",
+        "message": "Input should be a valid number, unable to parse string as a number",
+        "row": 354
+    },
+    {
+        "field": "temperature",
+        "invalid_value": "",
+        "message": "Input should be a valid number, unable to parse string as a number",
+        "row": 359
+    },
+    {
+        "field": "temperature",
+        "invalid_value": "",
+        "message": "Input should be a valid number, unable to parse string as a number",
+        "row": 388
+    },
+    {
+        "field": "temperature",
+        "invalid_value": "",
+        "message": "Input should be a valid number, unable to parse string as a number",
+        "row": 401
+    },
+    {
+        "field": "temperature",
+        "invalid_value": "",
+        "message": "Input should be a valid number, unable to parse string as a number",
+        "row": 403
+    },
+    {
+        "field": "temperature",
+        "invalid_value": "",
+        "message": "Input should be a valid number, unable to parse string as a number",
+        "row": 412
+    },
+    {
+        "field": "temperature",
+        "invalid_value": "",
+        "message": "Input should be a valid number, unable to parse string as a number",
+        "row": 441
+    },
+    {
+        "field": "temperature",
+        "invalid_value": "",
+        "message": "Input should be a valid number, unable to parse string as a number",
+        "row": 468
+    },
+    {
+        "field": "temperature",
+        "invalid_value": "",
+        "message": "Input should be a valid number, unable to parse string as a number",
+        "row": 470
+    },
+    {
+        "field": "temperature",
+        "invalid_value": "",
+        "message": "Input should be a valid number, unable to parse string as a number",
+        "row": 477
+    },
+    {
+        "field": "temperature",
+        "invalid_value": "",
+        "message": "Input should be a valid number, unable to parse string as a number",
+        "row": 487
+    },
+    {
+        "field": "temperature",
+        "invalid_value": "",
+        "message": "Input should be a valid number, unable to parse string as a number",
+        "row": 498
+    },
+    {
+        "field": "temperature",
+        "invalid_value": "",
+        "message": "Input should be a valid number, unable to parse string as a number",
+        "row": 509
+    },
+    {
+        "field": "temperature",
+        "invalid_value": "",
+        "message": "Input should be a valid number, unable to parse string as a number",
+        "row": 511
+    },
+    {
+        "field": "temperature",
+        "invalid_value": "",
+        "message": "Input should be a valid number, unable to parse string as a number",
+        "row": 515
+    },
+    {
+        "field": "temperature",
+        "invalid_value": "",
+        "message": "Input should be a valid number, unable to parse string as a number",
+        "row": 521
+    },
+    {
+        "field": "temperature",
+        "invalid_value": "",
+        "message": "Input should be a valid number, unable to parse string as a number",
+        "row": 537
+    },
+    {
+        "field": "temperature",
+        "invalid_value": "",
+        "message": "Input should be a valid number, unable to parse string as a number",
+        "row": 558
+    },
+    {
+        "field": "temperature",
+        "invalid_value": "",
+        "message": "Input should be a valid number, unable to parse string as a number",
+        "row": 560
+    },
+    {
+        "field": "temperature",
+        "invalid_value": "",
+        "message": "Input should be a valid number, unable to parse string as a number",
+        "row": 561
+    },
+    {
+        "field": "temperature",
+        "invalid_value": "",
+        "message": "Input should be a valid number, unable to parse string as a number",
+        "row": 565
+    },
+    {
+        "field": "temperature",
+        "invalid_value": "",
+        "message": "Input should be a valid number, unable to parse string as a number",
+        "row": 584
+    },
+    {
+        "field": "temperature",
+        "invalid_value": "",
+        "message": "Input should be a valid number, unable to parse string as a number",
+        "row": 586
+    },
+    {
+        "field": "temperature",
+        "invalid_value": "",
+        "message": "Input should be a valid number, unable to parse string as a number",
+        "row": 589
+    },
+    {
+        "field": "temperature",
+        "invalid_value": "",
+        "message": "Input should be a valid number, unable to parse string as a number",
+        "row": 590
+    },
+    {
+        "field": "temperature",
+        "invalid_value": "",
+        "message": "Input should be a valid number, unable to parse string as a number",
+        "row": 593
+    },
+    {
+        "field": "temperature",
+        "invalid_value": "",
+        "message": "Input should be a valid number, unable to parse string as a number",
+        "row": 595
+    },
+    {
+        "field": "temperature",
+        "invalid_value": "",
+        "message": "Input should be a valid number, unable to parse string as a number",
+        "row": 619
+    },
+    {
+        "field": "temperature",
+        "invalid_value": "",
+        "message": "Input should be a valid number, unable to parse string as a number",
+        "row": 628
+    },
+    {
+        "field": "temperature",
+        "invalid_value": "",
+        "message": "Input should be a valid number, unable to parse string as a number",
+        "row": 656
+    },
+    {
+        "field": "temperature",
+        "invalid_value": "",
+        "message": "Input should be a valid number, unable to parse string as a number",
+        "row": 672
+    },
+    {
+        "field": "temperature",
+        "invalid_value": "",
+        "message": "Input should be a valid number, unable to parse string as a number",
+        "row": 681
+    },
+    {
+        "field": "temperature",
+        "invalid_value": "",
+        "message": "Input should be a valid number, unable to parse string as a number",
+        "row": 686
+    },
+    {
+        "field": "temperature",
+        "invalid_value": "",
+        "message": "Input should be a valid number, unable to parse string as a number",
+        "row": 692
+    },
+    {
+        "field": "temperature",
+        "invalid_value": "",
+        "message": "Input should be a valid number, unable to parse string as a number",
+        "row": 695
+    },
+    {
+        "field": "temperature",
+        "invalid_value": "",
+        "message": "Input should be a valid number, unable to parse string as a number",
+        "row": 706
+    },
+    {
+        "field": "temperature",
+        "invalid_value": "",
+        "message": "Input should be a valid number, unable to parse string as a number",
+        "row": 710
+    },
+    {
+        "field": "temperature",
+        "invalid_value": "",
+        "message": "Input should be a valid number, unable to parse string as a number",
+        "row": 727
+    },
+    {
+        "field": "temperature",
+        "invalid_value": "",
+        "message": "Input should be a valid number, unable to parse string as a number",
+        "row": 735
+    },
+    {
+        "field": "temperature",
+        "invalid_value": "",
+        "message": "Input should be a valid number, unable to parse string as a number",
+        "row": 752
+    },
+    {
+        "field": "temperature",
+        "invalid_value": "",
+        "message": "Input should be a valid number, unable to parse string as a number",
+        "row": 771
+    },
+    {
+        "field": "temperature",
+        "invalid_value": "",
+        "message": "Input should be a valid number, unable to parse string as a number",
+        "row": 781
+    },
+    {
+        "field": "temperature",
+        "invalid_value": "",
+        "message": "Input should be a valid number, unable to parse string as a number",
+        "row": 786
+    },
+    {
+        "field": "temperature",
+        "invalid_value": "",
+        "message": "Input should be a valid number, unable to parse string as a number",
+        "row": 809
+    },
+    {
+        "field": "temperature",
+        "invalid_value": "",
+        "message": "Input should be a valid number, unable to parse string as a number",
+        "row": 817
+    },
+    {
+        "field": "temperature",
+        "invalid_value": "",
+        "message": "Input should be a valid number, unable to parse string as a number",
+        "row": 824
+    },
+    {
+        "field": "temperature",
+        "invalid_value": "",
+        "message": "Input should be a valid number, unable to parse string as a number",
+        "row": 826
+    },
+    {
+        "field": "temperature",
+        "invalid_value": "",
+        "message": "Input should be a valid number, unable to parse string as a number",
+        "row": 835
+    },
+    {
+        "field": "temperature",
+        "invalid_value": "",
+        "message": "Input should be a valid number, unable to parse string as a number",
+        "row": 847
+    },
+    {
+        "field": "temperature",
+        "invalid_value": "",
+        "message": "Input should be a valid number, unable to parse string as a number",
+        "row": 849
+    },
+    {
+        "field": "temperature",
+        "invalid_value": "",
+        "message": "Input should be a valid number, unable to parse string as a number",
+        "row": 862
+    },
+    {
+        "field": "temperature",
+        "invalid_value": "",
+        "message": "Input should be a valid number, unable to parse string as a number",
+        "row": 926
+    },
+    {
+        "field": "temperature",
+        "invalid_value": "",
+        "message": "Input should be a valid number, unable to parse string as a number",
+        "row": 927
+    },
+    {
+        "field": "temperature",
+        "invalid_value": "",
+        "message": "Input should be a valid number, unable to parse string as a number",
+        "row": 928
+    },
+    {
+        "field": "temperature",
+        "invalid_value": "",
+        "message": "Input should be a valid number, unable to parse string as a number",
+        "row": 936
+    },
+    {
+        "field": "temperature",
+        "invalid_value": "",
+        "message": "Input should be a valid number, unable to parse string as a number",
+        "row": 944
+    },
+    {
+        "field": "temperature",
+        "invalid_value": "",
+        "message": "Input should be a valid number, unable to parse string as a number",
+        "row": 946
+    },
+    {
+        "field": "temperature",
+        "invalid_value": "",
+        "message": "Input should be a valid number, unable to parse string as a number",
+        "row": 951
+    },
+    {
+        "field": "temperature",
+        "invalid_value": "",
+        "message": "Input should be a valid number, unable to parse string as a number",
+        "row": 963
+    },
+    {
+        "field": "temperature",
+        "invalid_value": "",
+        "message": "Input should be a valid number, unable to parse string as a number",
+        "row": 967
+    },
+    {
+        "field": "temperature",
+        "invalid_value": "",
+        "message": "Input should be a valid number, unable to parse string as a number",
+        "row": 992
+    },
+    {
+        "field": "temperature",
+        "invalid_value": "",
+        "message": "Input should be a valid number, unable to parse string as a number",
+        "row": 994
+    }
+]
