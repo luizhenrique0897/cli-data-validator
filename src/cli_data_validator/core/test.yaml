@@ -1,10 +1,11 @@
 config:
   sensor_id:
-    required: true
     type: str
-    max: 20
-  temperature:
     required: true
+    min: '0'
+    max: '20'
+  temperature:
     type: float
-    min: 12.0
-    max: 99.0
+    required: true
+    min: 0.0
+    max: 100.0

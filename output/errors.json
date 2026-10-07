@@ -1,14 +1,8 @@
 [
     {
         "field": "temperature",
-        "invalid_value": "6.57",
-        "message": "Input should be greater than or equal to 12",
-        "row": 2
-    },
-    {
-        "field": "temperature",
         "invalid_value": "-0.47",
-        "message": "Input should be greater than or equal to 12",
+        "message": "Input should be greater than or equal to 0",
         "row": 3
     },
     {
@@ -20,61 +14,49 @@
     {
         "field": "temperature",
         "invalid_value": "-19.95",
-        "message": "Input should be greater than or equal to 12",
+        "message": "Input should be greater than or equal to 0",
         "row": 7
     },
     {
         "field": "temperature",
-        "invalid_value": "1.11",
-        "message": "Input should be greater than or equal to 12",
-        "row": 8
-    },
-    {
-        "field": "temperature",
         "invalid_value": "-3.93",
-        "message": "Input should be greater than or equal to 12",
+        "message": "Input should be greater than or equal to 0",
         "row": 11
     },
     {
         "field": "temperature",
         "invalid_value": "-18.98",
-        "message": "Input should be greater than or equal to 12",
+        "message": "Input should be greater than or equal to 0",
         "row": 13
     },
     {
         "field": "temperature",
         "invalid_value": "-14.47",
-        "message": "Input should be greater than or equal to 12",
+        "message": "Input should be greater than or equal to 0",
         "row": 14
     },
     {
         "field": "temperature",
-        "invalid_value": "5.11",
-        "message": "Input should be greater than or equal to 12",
-        "row": 18
-    },
-    {
-        "field": "temperature",
         "invalid_value": "-18.65",
-        "message": "Input should be greater than or equal to 12",
+        "message": "Input should be greater than or equal to 0",
         "row": 21
     },
     {
         "field": "temperature",
         "invalid_value": "-0.66",
-        "message": "Input should be greater than or equal to 12",
+        "message": "Input should be greater than or equal to 0",
         "row": 22
     },
     {
         "field": "temperature",
         "invalid_value": "-19.47",
-        "message": "Input should be greater than or equal to 12",
+        "message": "Input should be greater than or equal to 0",
         "row": 23
     },
     {
         "field": "temperature",
         "invalid_value": "-10.08",
-        "message": "Input should be greater than or equal to 12",
+        "message": "Input should be greater than or equal to 0",
         "row": 24
     },
     {
@@ -86,7 +68,7 @@
     {
         "field": "temperature",
         "invalid_value": "-7.95",
-        "message": "Input should be greater than or equal to 12",
+        "message": "Input should be greater than or equal to 0",
         "row": 27
     },
     {
@@ -97,86 +79,32 @@
     },
     {
         "field": "temperature",
-        "invalid_value": "1.81",
-        "message": "Input should be greater than or equal to 12",
-        "row": 31
-    },
-    {
-        "field": "temperature",
-        "invalid_value": "8.98",
-        "message": "Input should be greater than or equal to 12",
-        "row": 32
-    },
-    {
-        "field": "temperature",
-        "invalid_value": "5.29",
-        "message": "Input should be greater than or equal to 12",
-        "row": 33
-    },
-    {
-        "field": "temperature",
-        "invalid_value": "10.18",
-        "message": "Input should be greater than or equal to 12",
-        "row": 38
-    },
-    {
-        "field": "temperature",
         "invalid_value": "-8.08",
-        "message": "Input should be greater than or equal to 12",
+        "message": "Input should be greater than or equal to 0",
         "row": 39
     },
     {
         "field": "temperature",
-        "invalid_value": "10.94",
-        "message": "Input should be greater than or equal to 12",
-        "row": 40
-    },
-    {
-        "field": "temperature",
-        "invalid_value": "0.39",
-        "message": "Input should be greater than or equal to 12",
-        "row": 41
-    },
-    {
-        "field": "temperature",
         "invalid_value": "-19.1",
-        "message": "Input should be greater than or equal to 12",
+        "message": "Input should be greater than or equal to 0",
         "row": 42
     },
     {
         "field": "temperature",
         "invalid_value": "-7.35",
-        "message": "Input should be greater than or equal to 12",
+        "message": "Input should be greater than or equal to 0",
         "row": 45
     },
     {
         "field": "temperature",
-        "invalid_value": "1.65",
-        "message": "Input should be greater than or equal to 12",
-        "row": 46
-    },
-    {
-        "field": "temperature",
         "invalid_value": "-11.09",
-        "message": "Input should be greater than or equal to 12",
+        "message": "Input should be greater than or equal to 0",
         "row": 47
     },
     {
         "field": "temperature",
-        "invalid_value": "1.14",
-        "message": "Input should be greater than or equal to 12",
-        "row": 49
-    },
-    {
-        "field": "temperature",
-        "invalid_value": "11.37",
-        "message": "Input should be greater than or equal to 12",
-        "row": 50
-    },
-    {
-        "field": "temperature",
         "invalid_value": "-3.62",
-        "message": "Input should be greater than or equal to 12",
+        "message": "Input should be greater than or equal to 0",
         "row": 52
     },
     {
@@ -187,14 +115,8 @@
     },
     {
         "field": "temperature",
-        "invalid_value": "2.37",
-        "message": "Input should be greater than or equal to 12",
-        "row": 55
-    },
-    {
-        "field": "temperature",
         "invalid_value": "-15.1",
-        "message": "Input should be greater than or equal to 12",
+        "message": "Input should be greater than or equal to 0",
         "row": 57
     },
     {
@@ -206,19 +128,19 @@
     {
         "field": "temperature",
         "invalid_value": "-1.56",
-        "message": "Input should be greater than or equal to 12",
+        "message": "Input should be greater than or equal to 0",
         "row": 60
     },
     {
         "field": "temperature",
         "invalid_value": "-5.49",
-        "message": "Input should be greater than or equal to 12",
+        "message": "Input should be greater than or equal to 0",
         "row": 62
     },
     {
         "field": "temperature",
         "invalid_value": "-19.7",
-        "message": "Input should be greater than or equal to 12",
+        "message": "Input should be greater than or equal to 0",
         "row": 63
     },
     {
@@ -230,74 +152,32 @@
     {
         "field": "temperature",
         "invalid_value": "-19.77",
-        "message": "Input should be greater than or equal to 12",
+        "message": "Input should be greater than or equal to 0",
         "row": 68
     },
     {
         "field": "temperature",
         "invalid_value": "-19.2",
-        "message": "Input should be greater than or equal to 12",
+        "message": "Input should be greater than or equal to 0",
         "row": 69
     },
     {
         "field": "temperature",
         "invalid_value": "-14.24",
-        "message": "Input should be greater than or equal to 12",
+        "message": "Input should be greater than or equal to 0",
         "row": 70
     },
     {
         "field": "temperature",
-        "invalid_value": "10.18",
-        "message": "Input should be greater than or equal to 12",
-        "row": 71
-    },
-    {
-        "field": "temperature",
-        "invalid_value": "4.53",
-        "message": "Input should be greater than or equal to 12",
-        "row": 72
-    },
-    {
-        "field": "temperature",
-        "invalid_value": "4.65",
-        "message": "Input should be greater than or equal to 12",
-        "row": 77
-    },
-    {
-        "field": "temperature",
-        "invalid_value": "3.52",
-        "message": "Input should be greater than or equal to 12",
-        "row": 78
-    },
-    {
-        "field": "temperature",
         "invalid_value": "-1.96",
-        "message": "Input should be greater than or equal to 12",
+        "message": "Input should be greater than or equal to 0",
         "row": 84
     },
     {
         "field": "temperature",
-        "invalid_value": "7.07",
-        "message": "Input should be greater than or equal to 12",
-        "row": 88
-    },
-    {
-        "field": "temperature",
         "invalid_value": "-4.87",
-        "message": "Input should be greater than or equal to 12",
+        "message": "Input should be greater than or equal to 0",
         "row": 89
-    },
-    {
-        "field": "temperature",
-        "invalid_value": "0.48",
-        "message": "Input should be greater than or equal to 12",
-        "row": 92
-    },
-    {
-        "field": "temperature",
-        "invalid_value": "0.8",
-        "message": "Input should be greater than or equal to 12",
-        "row": 93
     },
     {
         "field": "temperature",
@@ -308,44 +188,20 @@
     {
         "field": "temperature",
         "invalid_value": "-11.25",
-        "message": "Input should be greater than or equal to 12",
+        "message": "Input should be greater than or equal to 0",
         "row": 100
     },
     {
         "field": "temperature",
         "invalid_value": "-10.13",
-        "message": "Input should be greater than or equal to 12",
+        "message": "Input should be greater than or equal to 0",
         "row": 101
     },
     {
         "field": "temperature",
-        "invalid_value": "0.12",
-        "message": "Input should be greater than or equal to 12",
-        "row": 102
-    },
-    {
-        "field": "temperature",
         "invalid_value": "-9.77",
-        "message": "Input should be greater than or equal to 12",
+        "message": "Input should be greater than or equal to 0",
         "row": 104
-    },
-    {
-        "field": "temperature",
-        "invalid_value": "2.71",
-        "message": "Input should be greater than or equal to 12",
-        "row": 106
-    },
-    {
-        "field": "temperature",
-        "invalid_value": "2.66",
-        "message": "Input should be greater than or equal to 12",
-        "row": 108
-    },
-    {
-        "field": "temperature",
-        "invalid_value": "6.83",
-        "message": "Input should be greater than or equal to 12",
-        "row": 111
     },
     {
         "field": "temperature",
@@ -356,7 +212,7 @@
     {
         "field": "temperature",
         "invalid_value": "-15.27",
-        "message": "Input should be greater than or equal to 12",
+        "message": "Input should be greater than or equal to 0",
         "row": 115
     },
     {
@@ -373,14 +229,8 @@
     },
     {
         "field": "temperature",
-        "invalid_value": "4.97",
-        "message": "Input should be greater than or equal to 12",
-        "row": 119
-    },
-    {
-        "field": "temperature",
         "invalid_value": "-16.65",
-        "message": "Input should be greater than or equal to 12",
+        "message": "Input should be greater than or equal to 0",
         "row": 121
     },
     {
@@ -392,7 +242,7 @@
     {
         "field": "temperature",
         "invalid_value": "-11.64",
-        "message": "Input should be greater than or equal to 12",
+        "message": "Input should be greater than or equal to 0",
         "row": 123
     },
     {
@@ -404,19 +254,19 @@
     {
         "field": "temperature",
         "invalid_value": "-12.07",
-        "message": "Input should be greater than or equal to 12",
+        "message": "Input should be greater than or equal to 0",
         "row": 125
     },
     {
         "field": "temperature",
         "invalid_value": "-5.99",
-        "message": "Input should be greater than or equal to 12",
+        "message": "Input should be greater than or equal to 0",
         "row": 127
     },
     {
         "field": "temperature",
         "invalid_value": "-4.05",
-        "message": "Input should be greater than or equal to 12",
+        "message": "Input should be greater than or equal to 0",
         "row": 128
     },
     {
@@ -427,26 +277,20 @@
     },
     {
         "field": "temperature",
-        "invalid_value": "9.09",
-        "message": "Input should be greater than or equal to 12",
-        "row": 136
-    },
-    {
-        "field": "temperature",
         "invalid_value": "-0.6",
-        "message": "Input should be greater than or equal to 12",
+        "message": "Input should be greater than or equal to 0",
         "row": 137
     },
     {
         "field": "temperature",
         "invalid_value": "-8.0",
-        "message": "Input should be greater than or equal to 12",
+        "message": "Input should be greater than or equal to 0",
         "row": 139
     },
     {
         "field": "temperature",
         "invalid_value": "-6.97",
-        "message": "Input should be greater than or equal to 12",
+        "message": "Input should be greater than or equal to 0",
         "row": 143
     },
     {
@@ -458,61 +302,31 @@
     {
         "field": "temperature",
         "invalid_value": "-19.04",
-        "message": "Input should be greater than or equal to 12",
+        "message": "Input should be greater than or equal to 0",
         "row": 145
     },
     {
         "field": "temperature",
-        "invalid_value": "4.45",
-        "message": "Input should be greater than or equal to 12",
-        "row": 147
-    },
-    {
-        "field": "temperature",
-        "invalid_value": "6.37",
-        "message": "Input should be greater than or equal to 12",
-        "row": 151
-    },
-    {
-        "field": "temperature",
-        "invalid_value": "10.91",
-        "message": "Input should be greater than or equal to 12",
-        "row": 152
-    },
-    {
-        "field": "temperature",
-        "invalid_value": "0.79",
-        "message": "Input should be greater than or equal to 12",
-        "row": 153
-    },
-    {
-        "field": "temperature",
         "invalid_value": "-7.36",
-        "message": "Input should be greater than or equal to 12",
+        "message": "Input should be greater than or equal to 0",
         "row": 154
     },
     {
         "field": "temperature",
         "invalid_value": "-7.38",
-        "message": "Input should be greater than or equal to 12",
+        "message": "Input should be greater than or equal to 0",
         "row": 157
     },
     {
         "field": "temperature",
         "invalid_value": "-18.84",
-        "message": "Input should be greater than or equal to 12",
+        "message": "Input should be greater than or equal to 0",
         "row": 158
     },
     {
         "field": "temperature",
-        "invalid_value": "9.69",
-        "message": "Input should be greater than or equal to 12",
-        "row": 161
-    },
-    {
-        "field": "temperature",
         "invalid_value": "-10.02",
-        "message": "Input should be greater than or equal to 12",
+        "message": "Input should be greater than or equal to 0",
         "row": 163
     },
     {
@@ -524,38 +338,20 @@
     {
         "field": "temperature",
         "invalid_value": "-8.17",
-        "message": "Input should be greater than or equal to 12",
+        "message": "Input should be greater than or equal to 0",
         "row": 165
     },
     {
         "field": "temperature",
         "invalid_value": "-6.62",
-        "message": "Input should be greater than or equal to 12",
+        "message": "Input should be greater than or equal to 0",
         "row": 168
-    },
-    {
-        "field": "temperature",
-        "invalid_value": "4.82",
-        "message": "Input should be greater than or equal to 12",
-        "row": 169
     },
     {
         "field": "temperature",
         "invalid_value": "",
         "message": "Input should be a valid number, unable to parse string as a number",
         "row": 171
-    },
-    {
-        "field": "temperature",
-        "invalid_value": "2.61",
-        "message": "Input should be greater than or equal to 12",
-        "row": 173
-    },
-    {
-        "field": "temperature",
-        "invalid_value": "1.6",
-        "message": "Input should be greater than or equal to 12",
-        "row": 174
     },
     {
         "field": "temperature",
@@ -572,20 +368,14 @@
     {
         "field": "temperature",
         "invalid_value": "-6.05",
-        "message": "Input should be greater than or equal to 12",
+        "message": "Input should be greater than or equal to 0",
         "row": 178
     },
     {
         "field": "temperature",
         "invalid_value": "-15.65",
-        "message": "Input should be greater than or equal to 12",
+        "message": "Input should be greater than or equal to 0",
         "row": 180
-    },
-    {
-        "field": "temperature",
-        "invalid_value": "10.98",
-        "message": "Input should be greater than or equal to 12",
-        "row": 181
     },
     {
         "field": "temperature",
@@ -601,56 +391,26 @@
     },
     {
         "field": "temperature",
-        "invalid_value": "5.42",
-        "message": "Input should be greater than or equal to 12",
-        "row": 185
-    },
-    {
-        "field": "temperature",
         "invalid_value": "-10.47",
-        "message": "Input should be greater than or equal to 12",
+        "message": "Input should be greater than or equal to 0",
         "row": 186
     },
     {
         "field": "temperature",
-        "invalid_value": "2.29",
-        "message": "Input should be greater than or equal to 12",
-        "row": 187
-    },
-    {
-        "field": "temperature",
         "invalid_value": "-15.46",
-        "message": "Input should be greater than or equal to 12",
+        "message": "Input should be greater than or equal to 0",
         "row": 189
     },
     {
         "field": "temperature",
-        "invalid_value": "6.14",
-        "message": "Input should be greater than or equal to 12",
-        "row": 192
-    },
-    {
-        "field": "temperature",
-        "invalid_value": "8.65",
-        "message": "Input should be greater than or equal to 12",
-        "row": 194
-    },
-    {
-        "field": "temperature",
-        "invalid_value": "0.54",
-        "message": "Input should be greater than or equal to 12",
-        "row": 195
-    },
-    {
-        "field": "temperature",
         "invalid_value": "-14.41",
-        "message": "Input should be greater than or equal to 12",
+        "message": "Input should be greater than or equal to 0",
         "row": 197
     },
     {
         "field": "temperature",
         "invalid_value": "-15.7",
-        "message": "Input should be greater than or equal to 12",
+        "message": "Input should be greater than or equal to 0",
         "row": 200
     },
     {
@@ -661,62 +421,44 @@
     },
     {
         "field": "temperature",
-        "invalid_value": "9.45",
-        "message": "Input should be greater than or equal to 12",
-        "row": 203
-    },
-    {
-        "field": "temperature",
         "invalid_value": "-12.85",
-        "message": "Input should be greater than or equal to 12",
+        "message": "Input should be greater than or equal to 0",
         "row": 204
     },
     {
         "field": "temperature",
         "invalid_value": "-10.04",
-        "message": "Input should be greater than or equal to 12",
+        "message": "Input should be greater than or equal to 0",
         "row": 206
     },
     {
         "field": "temperature",
         "invalid_value": "-19.09",
-        "message": "Input should be greater than or equal to 12",
+        "message": "Input should be greater than or equal to 0",
         "row": 208
     },
     {
         "field": "temperature",
         "invalid_value": "-16.57",
-        "message": "Input should be greater than or equal to 12",
+        "message": "Input should be greater than or equal to 0",
         "row": 209
     },
     {
         "field": "temperature",
-        "invalid_value": "4.02",
-        "message": "Input should be greater than or equal to 12",
-        "row": 213
-    },
-    {
-        "field": "temperature",
-        "invalid_value": "3.95",
-        "message": "Input should be greater than or equal to 12",
-        "row": 214
-    },
-    {
-        "field": "temperature",
         "invalid_value": "-19.11",
-        "message": "Input should be greater than or equal to 12",
+        "message": "Input should be greater than or equal to 0",
         "row": 215
     },
     {
         "field": "temperature",
         "invalid_value": "-2.14",
-        "message": "Input should be greater than or equal to 12",
+        "message": "Input should be greater than or equal to 0",
         "row": 217
     },
     {
         "field": "temperature",
         "invalid_value": "-12.98",
-        "message": "Input should be greater than or equal to 12",
+        "message": "Input should be greater than or equal to 0",
         "row": 221
     },
     {
@@ -728,19 +470,19 @@
     {
         "field": "temperature",
         "invalid_value": "-2.71",
-        "message": "Input should be greater than or equal to 12",
+        "message": "Input should be greater than or equal to 0",
         "row": 237
     },
     {
         "field": "temperature",
         "invalid_value": "-13.05",
-        "message": "Input should be greater than or equal to 12",
+        "message": "Input should be greater than or equal to 0",
         "row": 238
     },
     {
         "field": "temperature",
         "invalid_value": "-14.73",
-        "message": "Input should be greater than or equal to 12",
+        "message": "Input should be greater than or equal to 0",
         "row": 239
     },
     {
@@ -757,32 +499,14 @@
     },
     {
         "field": "temperature",
-        "invalid_value": "2.81",
-        "message": "Input should be greater than or equal to 12",
-        "row": 243
-    },
-    {
-        "field": "temperature",
-        "invalid_value": "6.64",
-        "message": "Input should be greater than or equal to 12",
-        "row": 244
-    },
-    {
-        "field": "temperature",
         "invalid_value": "-1.94",
-        "message": "Input should be greater than or equal to 12",
+        "message": "Input should be greater than or equal to 0",
         "row": 251
     },
     {
         "field": "temperature",
-        "invalid_value": "1.11",
-        "message": "Input should be greater than or equal to 12",
-        "row": 257
-    },
-    {
-        "field": "temperature",
         "invalid_value": "-1.14",
-        "message": "Input should be greater than or equal to 12",
+        "message": "Input should be greater than or equal to 0",
         "row": 258
     },
     {
@@ -793,158 +517,98 @@
     },
     {
         "field": "temperature",
-        "invalid_value": "7.79",
-        "message": "Input should be greater than or equal to 12",
-        "row": 262
-    },
-    {
-        "field": "temperature",
-        "invalid_value": "9.21",
-        "message": "Input should be greater than or equal to 12",
-        "row": 264
-    },
-    {
-        "field": "temperature",
-        "invalid_value": "4.22",
-        "message": "Input should be greater than or equal to 12",
-        "row": 265
-    },
-    {
-        "field": "temperature",
         "invalid_value": "-5.44",
-        "message": "Input should be greater than or equal to 12",
+        "message": "Input should be greater than or equal to 0",
         "row": 266
     },
     {
         "field": "temperature",
-        "invalid_value": "11.34",
-        "message": "Input should be greater than or equal to 12",
-        "row": 267
-    },
-    {
-        "field": "temperature",
-        "invalid_value": "3.66",
-        "message": "Input should be greater than or equal to 12",
-        "row": 268
-    },
-    {
-        "field": "temperature",
         "invalid_value": "-7.7",
-        "message": "Input should be greater than or equal to 12",
+        "message": "Input should be greater than or equal to 0",
         "row": 269
     },
     {
         "field": "temperature",
         "invalid_value": "-12.16",
-        "message": "Input should be greater than or equal to 12",
+        "message": "Input should be greater than or equal to 0",
         "row": 270
     },
     {
         "field": "temperature",
         "invalid_value": "-3.88",
-        "message": "Input should be greater than or equal to 12",
+        "message": "Input should be greater than or equal to 0",
         "row": 272
     },
     {
         "field": "temperature",
         "invalid_value": "-9.55",
-        "message": "Input should be greater than or equal to 12",
+        "message": "Input should be greater than or equal to 0",
         "row": 273
     },
     {
         "field": "temperature",
         "invalid_value": "-6.72",
-        "message": "Input should be greater than or equal to 12",
+        "message": "Input should be greater than or equal to 0",
         "row": 274
     },
     {
         "field": "temperature",
         "invalid_value": "-1.97",
-        "message": "Input should be greater than or equal to 12",
+        "message": "Input should be greater than or equal to 0",
         "row": 275
     },
     {
         "field": "temperature",
         "invalid_value": "-9.09",
-        "message": "Input should be greater than or equal to 12",
+        "message": "Input should be greater than or equal to 0",
         "row": 277
     },
     {
         "field": "temperature",
-        "invalid_value": "7.67",
-        "message": "Input should be greater than or equal to 12",
-        "row": 278
-    },
-    {
-        "field": "temperature",
-        "invalid_value": "10.4",
-        "message": "Input should be greater than or equal to 12",
-        "row": 279
-    },
-    {
-        "field": "temperature",
-        "invalid_value": "10.03",
-        "message": "Input should be greater than or equal to 12",
-        "row": 281
-    },
-    {
-        "field": "temperature",
         "invalid_value": "-8.27",
-        "message": "Input should be greater than or equal to 12",
+        "message": "Input should be greater than or equal to 0",
         "row": 282
     },
     {
         "field": "temperature",
         "invalid_value": "-2.98",
-        "message": "Input should be greater than or equal to 12",
+        "message": "Input should be greater than or equal to 0",
         "row": 283
     },
     {
         "field": "temperature",
         "invalid_value": "-17.45",
-        "message": "Input should be greater than or equal to 12",
+        "message": "Input should be greater than or equal to 0",
         "row": 284
     },
     {
         "field": "temperature",
         "invalid_value": "-18.65",
-        "message": "Input should be greater than or equal to 12",
+        "message": "Input should be greater than or equal to 0",
         "row": 285
     },
     {
         "field": "temperature",
         "invalid_value": "-14.94",
-        "message": "Input should be greater than or equal to 12",
+        "message": "Input should be greater than or equal to 0",
         "row": 288
     },
     {
         "field": "temperature",
         "invalid_value": "-13.84",
-        "message": "Input should be greater than or equal to 12",
+        "message": "Input should be greater than or equal to 0",
         "row": 289
     },
     {
         "field": "temperature",
-        "invalid_value": "11.64",
-        "message": "Input should be greater than or equal to 12",
-        "row": 290
-    },
-    {
-        "field": "temperature",
-        "invalid_value": "2.11",
-        "message": "Input should be greater than or equal to 12",
-        "row": 291
-    },
-    {
-        "field": "temperature",
         "invalid_value": "-1.22",
-        "message": "Input should be greater than or equal to 12",
+        "message": "Input should be greater than or equal to 0",
         "row": 292
     },
     {
         "field": "temperature",
         "invalid_value": "-1.75",
-        "message": "Input should be greater than or equal to 12",
+        "message": "Input should be greater than or equal to 0",
         "row": 293
     },
     {
@@ -955,44 +619,32 @@
     },
     {
         "field": "temperature",
-        "invalid_value": "2.57",
-        "message": "Input should be greater than or equal to 12",
-        "row": 296
-    },
-    {
-        "field": "temperature",
-        "invalid_value": "9.74",
-        "message": "Input should be greater than or equal to 12",
-        "row": 300
-    },
-    {
-        "field": "temperature",
         "invalid_value": "-16.12",
-        "message": "Input should be greater than or equal to 12",
+        "message": "Input should be greater than or equal to 0",
         "row": 301
     },
     {
         "field": "temperature",
         "invalid_value": "-19.36",
-        "message": "Input should be greater than or equal to 12",
+        "message": "Input should be greater than or equal to 0",
         "row": 302
     },
     {
         "field": "temperature",
         "invalid_value": "-18.13",
-        "message": "Input should be greater than or equal to 12",
+        "message": "Input should be greater than or equal to 0",
         "row": 303
     },
     {
         "field": "temperature",
         "invalid_value": "-18.99",
-        "message": "Input should be greater than or equal to 12",
+        "message": "Input should be greater than or equal to 0",
         "row": 304
     },
     {
         "field": "temperature",
         "invalid_value": "-9.68",
-        "message": "Input should be greater than or equal to 12",
+        "message": "Input should be greater than or equal to 0",
         "row": 306
     },
     {
@@ -1004,68 +656,50 @@
     {
         "field": "temperature",
         "invalid_value": "-0.85",
-        "message": "Input should be greater than or equal to 12",
+        "message": "Input should be greater than or equal to 0",
         "row": 309
     },
     {
         "field": "temperature",
-        "invalid_value": "3.39",
-        "message": "Input should be greater than or equal to 12",
-        "row": 310
-    },
-    {
-        "field": "temperature",
-        "invalid_value": "6.92",
-        "message": "Input should be greater than or equal to 12",
-        "row": 312
-    },
-    {
-        "field": "temperature",
         "invalid_value": "-5.4",
-        "message": "Input should be greater than or equal to 12",
+        "message": "Input should be greater than or equal to 0",
         "row": 316
     },
     {
         "field": "temperature",
         "invalid_value": "-3.79",
-        "message": "Input should be greater than or equal to 12",
+        "message": "Input should be greater than or equal to 0",
         "row": 317
     },
     {
         "field": "temperature",
         "invalid_value": "-11.64",
-        "message": "Input should be greater than or equal to 12",
+        "message": "Input should be greater than or equal to 0",
         "row": 319
     },
     {
         "field": "temperature",
         "invalid_value": "-7.17",
-        "message": "Input should be greater than or equal to 12",
+        "message": "Input should be greater than or equal to 0",
         "row": 321
     },
     {
         "field": "temperature",
         "invalid_value": "-14.53",
-        "message": "Input should be greater than or equal to 12",
+        "message": "Input should be greater than or equal to 0",
         "row": 323
     },
     {
         "field": "temperature",
         "invalid_value": "-15.37",
-        "message": "Input should be greater than or equal to 12",
+        "message": "Input should be greater than or equal to 0",
         "row": 326
     },
     {
         "field": "temperature",
         "invalid_value": "-10.93",
-        "message": "Input should be greater than or equal to 12",
+        "message": "Input should be greater than or equal to 0",
         "row": 327
-    },
-    {
-        "field": "temperature",
-        "invalid_value": "7.96",
-        "message": "Input should be greater than or equal to 12",
-        "row": 330
     },
     {
         "field": "temperature",
@@ -1076,56 +710,38 @@
     {
         "field": "temperature",
         "invalid_value": "-2.16",
-        "message": "Input should be greater than or equal to 12",
+        "message": "Input should be greater than or equal to 0",
         "row": 335
     },
     {
         "field": "temperature",
         "invalid_value": "-15.23",
-        "message": "Input should be greater than or equal to 12",
+        "message": "Input should be greater than or equal to 0",
         "row": 336
     },
     {
         "field": "temperature",
         "invalid_value": "-2.36",
-        "message": "Input should be greater than or equal to 12",
+        "message": "Input should be greater than or equal to 0",
         "row": 338
     },
     {
         "field": "temperature",
         "invalid_value": "-15.07",
-        "message": "Input should be greater than or equal to 12",
+        "message": "Input should be greater than or equal to 0",
         "row": 339
     },
     {
         "field": "temperature",
-        "invalid_value": "5.85",
-        "message": "Input should be greater than or equal to 12",
-        "row": 345
-    },
-    {
-        "field": "temperature",
-        "invalid_value": "6.04",
-        "message": "Input should be greater than or equal to 12",
-        "row": 347
-    },
-    {
-        "field": "temperature",
         "invalid_value": "-18.93",
-        "message": "Input should be greater than or equal to 12",
+        "message": "Input should be greater than or equal to 0",
         "row": 349
     },
     {
         "field": "temperature",
         "invalid_value": "-18.22",
-        "message": "Input should be greater than or equal to 12",
+        "message": "Input should be greater than or equal to 0",
         "row": 350
-    },
-    {
-        "field": "temperature",
-        "invalid_value": "3.29",
-        "message": "Input should be greater than or equal to 12",
-        "row": 351
     },
     {
         "field": "temperature",
@@ -1142,13 +758,13 @@
     {
         "field": "temperature",
         "invalid_value": "-5.81",
-        "message": "Input should be greater than or equal to 12",
+        "message": "Input should be greater than or equal to 0",
         "row": 355
     },
     {
         "field": "temperature",
         "invalid_value": "-15.32",
-        "message": "Input should be greater than or equal to 12",
+        "message": "Input should be greater than or equal to 0",
         "row": 357
     },
     {
@@ -1160,49 +776,19 @@
     {
         "field": "temperature",
         "invalid_value": "-2.12",
-        "message": "Input should be greater than or equal to 12",
+        "message": "Input should be greater than or equal to 0",
         "row": 361
     },
     {
         "field": "temperature",
         "invalid_value": "-13.65",
-        "message": "Input should be greater than or equal to 12",
+        "message": "Input should be greater than or equal to 0",
         "row": 362
     },
     {
         "field": "temperature",
-        "invalid_value": "9.54",
-        "message": "Input should be greater than or equal to 12",
-        "row": 368
-    },
-    {
-        "field": "temperature",
-        "invalid_value": "1.18",
-        "message": "Input should be greater than or equal to 12",
-        "row": 373
-    },
-    {
-        "field": "temperature",
-        "invalid_value": "2.37",
-        "message": "Input should be greater than or equal to 12",
-        "row": 377
-    },
-    {
-        "field": "temperature",
-        "invalid_value": "4.93",
-        "message": "Input should be greater than or equal to 12",
-        "row": 379
-    },
-    {
-        "field": "temperature",
-        "invalid_value": "10.76",
-        "message": "Input should be greater than or equal to 12",
-        "row": 384
-    },
-    {
-        "field": "temperature",
         "invalid_value": "-9.61",
-        "message": "Input should be greater than or equal to 12",
+        "message": "Input should be greater than or equal to 0",
         "row": 387
     },
     {
@@ -1213,39 +799,21 @@
     },
     {
         "field": "temperature",
-        "invalid_value": "8.29",
-        "message": "Input should be greater than or equal to 12",
-        "row": 390
-    },
-    {
-        "field": "temperature",
         "invalid_value": "-8.05",
-        "message": "Input should be greater than or equal to 12",
+        "message": "Input should be greater than or equal to 0",
         "row": 393
     },
     {
         "field": "temperature",
-        "invalid_value": "7.93",
-        "message": "Input should be greater than or equal to 12",
-        "row": 394
-    },
-    {
-        "field": "temperature",
         "invalid_value": "-19.17",
-        "message": "Input should be greater than or equal to 12",
+        "message": "Input should be greater than or equal to 0",
         "row": 395
     },
     {
         "field": "temperature",
         "invalid_value": "-19.83",
-        "message": "Input should be greater than or equal to 12",
+        "message": "Input should be greater than or equal to 0",
         "row": 396
-    },
-    {
-        "field": "temperature",
-        "invalid_value": "10.43",
-        "message": "Input should be greater than or equal to 12",
-        "row": 400
     },
     {
         "field": "temperature",
@@ -1261,39 +829,15 @@
     },
     {
         "field": "temperature",
-        "invalid_value": "9.52",
-        "message": "Input should be greater than or equal to 12",
-        "row": 404
-    },
-    {
-        "field": "temperature",
         "invalid_value": "-17.26",
-        "message": "Input should be greater than or equal to 12",
+        "message": "Input should be greater than or equal to 0",
         "row": 406
     },
     {
         "field": "temperature",
         "invalid_value": "-2.34",
-        "message": "Input should be greater than or equal to 12",
+        "message": "Input should be greater than or equal to 0",
         "row": 407
-    },
-    {
-        "field": "temperature",
-        "invalid_value": "4.95",
-        "message": "Input should be greater than or equal to 12",
-        "row": 409
-    },
-    {
-        "field": "temperature",
-        "invalid_value": "1.54",
-        "message": "Input should be greater than or equal to 12",
-        "row": 410
-    },
-    {
-        "field": "temperature",
-        "invalid_value": "5.18",
-        "message": "Input should be greater than or equal to 12",
-        "row": 411
     },
     {
         "field": "temperature",
@@ -1303,57 +847,33 @@
     },
     {
         "field": "temperature",
-        "invalid_value": "5.37",
-        "message": "Input should be greater than or equal to 12",
-        "row": 414
-    },
-    {
-        "field": "temperature",
         "invalid_value": "-13.05",
-        "message": "Input should be greater than or equal to 12",
+        "message": "Input should be greater than or equal to 0",
         "row": 421
     },
     {
         "field": "temperature",
         "invalid_value": "-5.55",
-        "message": "Input should be greater than or equal to 12",
+        "message": "Input should be greater than or equal to 0",
         "row": 424
     },
     {
         "field": "temperature",
         "invalid_value": "-6.19",
-        "message": "Input should be greater than or equal to 12",
+        "message": "Input should be greater than or equal to 0",
         "row": 427
     },
     {
         "field": "temperature",
-        "invalid_value": "2.2",
-        "message": "Input should be greater than or equal to 12",
-        "row": 429
-    },
-    {
-        "field": "temperature",
         "invalid_value": "-18.52",
-        "message": "Input should be greater than or equal to 12",
+        "message": "Input should be greater than or equal to 0",
         "row": 433
     },
     {
         "field": "temperature",
-        "invalid_value": "8.11",
-        "message": "Input should be greater than or equal to 12",
-        "row": 434
-    },
-    {
-        "field": "temperature",
         "invalid_value": "-1.45",
-        "message": "Input should be greater than or equal to 12",
+        "message": "Input should be greater than or equal to 0",
         "row": 438
-    },
-    {
-        "field": "temperature",
-        "invalid_value": "9.39",
-        "message": "Input should be greater than or equal to 12",
-        "row": 440
     },
     {
         "field": "temperature",
@@ -1364,74 +884,50 @@
     {
         "field": "temperature",
         "invalid_value": "-1.81",
-        "message": "Input should be greater than or equal to 12",
+        "message": "Input should be greater than or equal to 0",
         "row": 443
     },
     {
         "field": "temperature",
         "invalid_value": "-0.19",
-        "message": "Input should be greater than or equal to 12",
+        "message": "Input should be greater than or equal to 0",
         "row": 444
     },
     {
         "field": "temperature",
         "invalid_value": "-0.77",
-        "message": "Input should be greater than or equal to 12",
+        "message": "Input should be greater than or equal to 0",
         "row": 447
     },
     {
         "field": "temperature",
         "invalid_value": "-19.07",
-        "message": "Input should be greater than or equal to 12",
+        "message": "Input should be greater than or equal to 0",
         "row": 450
     },
     {
         "field": "temperature",
-        "invalid_value": "2.35",
-        "message": "Input should be greater than or equal to 12",
-        "row": 451
-    },
-    {
-        "field": "temperature",
         "invalid_value": "-14.08",
-        "message": "Input should be greater than or equal to 12",
+        "message": "Input should be greater than or equal to 0",
         "row": 452
     },
     {
         "field": "temperature",
-        "invalid_value": "1.55",
-        "message": "Input should be greater than or equal to 12",
-        "row": 453
-    },
-    {
-        "field": "temperature",
         "invalid_value": "-16.23",
-        "message": "Input should be greater than or equal to 12",
+        "message": "Input should be greater than or equal to 0",
         "row": 455
     },
     {
         "field": "temperature",
-        "invalid_value": "11.26",
-        "message": "Input should be greater than or equal to 12",
-        "row": 456
-    },
-    {
-        "field": "temperature",
         "invalid_value": "-6.57",
-        "message": "Input should be greater than or equal to 12",
+        "message": "Input should be greater than or equal to 0",
         "row": 457
     },
     {
         "field": "temperature",
         "invalid_value": "-6.42",
-        "message": "Input should be greater than or equal to 12",
+        "message": "Input should be greater than or equal to 0",
         "row": 458
-    },
-    {
-        "field": "temperature",
-        "invalid_value": "2.55",
-        "message": "Input should be greater than or equal to 12",
-        "row": 461
     },
     {
         "field": "temperature",
@@ -1448,20 +944,14 @@
     {
         "field": "temperature",
         "invalid_value": "-1.06",
-        "message": "Input should be greater than or equal to 12",
+        "message": "Input should be greater than or equal to 0",
         "row": 471
     },
     {
         "field": "temperature",
         "invalid_value": "-11.71",
-        "message": "Input should be greater than or equal to 12",
+        "message": "Input should be greater than or equal to 0",
         "row": 475
-    },
-    {
-        "field": "temperature",
-        "invalid_value": "6.95",
-        "message": "Input should be greater than or equal to 12",
-        "row": 476
     },
     {
         "field": "temperature",
@@ -1472,25 +962,25 @@
     {
         "field": "temperature",
         "invalid_value": "-12.02",
-        "message": "Input should be greater than or equal to 12",
+        "message": "Input should be greater than or equal to 0",
         "row": 479
     },
     {
         "field": "temperature",
         "invalid_value": "-2.96",
-        "message": "Input should be greater than or equal to 12",
+        "message": "Input should be greater than or equal to 0",
         "row": 483
     },
     {
         "field": "temperature",
         "invalid_value": "-16.67",
-        "message": "Input should be greater than or equal to 12",
+        "message": "Input should be greater than or equal to 0",
         "row": 485
     },
     {
         "field": "temperature",
         "invalid_value": "-14.02",
-        "message": "Input should be greater than or equal to 12",
+        "message": "Input should be greater than or equal to 0",
         "row": 486
     },
     {
@@ -1501,38 +991,20 @@
     },
     {
         "field": "temperature",
-        "invalid_value": "6.46",
-        "message": "Input should be greater than or equal to 12",
-        "row": 488
-    },
-    {
-        "field": "temperature",
-        "invalid_value": "8.11",
-        "message": "Input should be greater than or equal to 12",
-        "row": 489
-    },
-    {
-        "field": "temperature",
-        "invalid_value": "3.36",
-        "message": "Input should be greater than or equal to 12",
-        "row": 492
-    },
-    {
-        "field": "temperature",
         "invalid_value": "-6.07",
-        "message": "Input should be greater than or equal to 12",
+        "message": "Input should be greater than or equal to 0",
         "row": 494
     },
     {
         "field": "temperature",
         "invalid_value": "-12.79",
-        "message": "Input should be greater than or equal to 12",
+        "message": "Input should be greater than or equal to 0",
         "row": 495
     },
     {
         "field": "temperature",
         "invalid_value": "-12.25",
-        "message": "Input should be greater than or equal to 12",
+        "message": "Input should be greater than or equal to 0",
         "row": 496
     },
     {
@@ -1544,31 +1016,25 @@
     {
         "field": "temperature",
         "invalid_value": "-3.63",
-        "message": "Input should be greater than or equal to 12",
+        "message": "Input should be greater than or equal to 0",
         "row": 499
     },
     {
         "field": "temperature",
         "invalid_value": "-3.28",
-        "message": "Input should be greater than or equal to 12",
+        "message": "Input should be greater than or equal to 0",
         "row": 500
     },
     {
         "field": "temperature",
         "invalid_value": "-13.86",
-        "message": "Input should be greater than or equal to 12",
+        "message": "Input should be greater than or equal to 0",
         "row": 501
     },
     {
         "field": "temperature",
-        "invalid_value": "8.52",
-        "message": "Input should be greater than or equal to 12",
-        "row": 503
-    },
-    {
-        "field": "temperature",
         "invalid_value": "-11.31",
-        "message": "Input should be greater than or equal to 12",
+        "message": "Input should be greater than or equal to 0",
         "row": 505
     },
     {
@@ -1580,7 +1046,7 @@
     {
         "field": "temperature",
         "invalid_value": "-15.88",
-        "message": "Input should be greater than or equal to 12",
+        "message": "Input should be greater than or equal to 0",
         "row": 510
     },
     {
@@ -1592,7 +1058,7 @@
     {
         "field": "temperature",
         "invalid_value": "-7.62",
-        "message": "Input should be greater than or equal to 12",
+        "message": "Input should be greater than or equal to 0",
         "row": 514
     },
     {
@@ -1604,7 +1070,7 @@
     {
         "field": "temperature",
         "invalid_value": "-19.74",
-        "message": "Input should be greater than or equal to 12",
+        "message": "Input should be greater than or equal to 0",
         "row": 520
     },
     {
@@ -1616,25 +1082,25 @@
     {
         "field": "temperature",
         "invalid_value": "-12.92",
-        "message": "Input should be greater than or equal to 12",
+        "message": "Input should be greater than or equal to 0",
         "row": 522
     },
     {
         "field": "temperature",
         "invalid_value": "-17.71",
-        "message": "Input should be greater than or equal to 12",
+        "message": "Input should be greater than or equal to 0",
         "row": 523
     },
     {
         "field": "temperature",
         "invalid_value": "-7.5",
-        "message": "Input should be greater than or equal to 12",
+        "message": "Input should be greater than or equal to 0",
         "row": 524
     },
     {
         "field": "temperature",
         "invalid_value": "-2.09",
-        "message": "Input should be greater than or equal to 12",
+        "message": "Input should be greater than or equal to 0",
         "row": 533
     },
     {
@@ -1645,74 +1111,50 @@
     },
     {
         "field": "temperature",
-        "invalid_value": "4.59",
-        "message": "Input should be greater than or equal to 12",
-        "row": 538
-    },
-    {
-        "field": "temperature",
-        "invalid_value": "5.43",
-        "message": "Input should be greater than or equal to 12",
-        "row": 541
-    },
-    {
-        "field": "temperature",
         "invalid_value": "-1.62",
-        "message": "Input should be greater than or equal to 12",
+        "message": "Input should be greater than or equal to 0",
         "row": 542
     },
     {
         "field": "temperature",
         "invalid_value": "-3.49",
-        "message": "Input should be greater than or equal to 12",
+        "message": "Input should be greater than or equal to 0",
         "row": 543
     },
     {
         "field": "temperature",
         "invalid_value": "-0.75",
-        "message": "Input should be greater than or equal to 12",
+        "message": "Input should be greater than or equal to 0",
         "row": 544
     },
     {
         "field": "temperature",
         "invalid_value": "-17.83",
-        "message": "Input should be greater than or equal to 12",
+        "message": "Input should be greater than or equal to 0",
         "row": 548
     },
     {
         "field": "temperature",
         "invalid_value": "-18.09",
-        "message": "Input should be greater than or equal to 12",
+        "message": "Input should be greater than or equal to 0",
         "row": 549
     },
     {
         "field": "temperature",
         "invalid_value": "-9.69",
-        "message": "Input should be greater than or equal to 12",
+        "message": "Input should be greater than or equal to 0",
         "row": 553
     },
     {
         "field": "temperature",
-        "invalid_value": "7.9",
-        "message": "Input should be greater than or equal to 12",
-        "row": 554
-    },
-    {
-        "field": "temperature",
-        "invalid_value": "3.64",
-        "message": "Input should be greater than or equal to 12",
-        "row": 555
-    },
-    {
-        "field": "temperature",
         "invalid_value": "-18.09",
-        "message": "Input should be greater than or equal to 12",
+        "message": "Input should be greater than or equal to 0",
         "row": 556
     },
     {
         "field": "temperature",
         "invalid_value": "-2.84",
-        "message": "Input should be greater than or equal to 12",
+        "message": "Input should be greater than or equal to 0",
         "row": 557
     },
     {
@@ -1724,7 +1166,7 @@
     {
         "field": "temperature",
         "invalid_value": "-18.57",
-        "message": "Input should be greater than or equal to 12",
+        "message": "Input should be greater than or equal to 0",
         "row": 559
     },
     {
@@ -1742,7 +1184,7 @@
     {
         "field": "temperature",
         "invalid_value": "-1.69",
-        "message": "Input should be greater than or equal to 12",
+        "message": "Input should be greater than or equal to 0",
         "row": 563
     },
     {
@@ -1754,67 +1196,43 @@
     {
         "field": "temperature",
         "invalid_value": "-14.47",
-        "message": "Input should be greater than or equal to 12",
+        "message": "Input should be greater than or equal to 0",
         "row": 566
     },
     {
         "field": "temperature",
         "invalid_value": "-16.3",
-        "message": "Input should be greater than or equal to 12",
+        "message": "Input should be greater than or equal to 0",
         "row": 567
     },
     {
         "field": "temperature",
         "invalid_value": "-9.9",
-        "message": "Input should be greater than or equal to 12",
+        "message": "Input should be greater than or equal to 0",
         "row": 569
     },
     {
         "field": "temperature",
-        "invalid_value": "11.69",
-        "message": "Input should be greater than or equal to 12",
-        "row": 570
-    },
-    {
-        "field": "temperature",
         "invalid_value": "-1.61",
-        "message": "Input should be greater than or equal to 12",
+        "message": "Input should be greater than or equal to 0",
         "row": 571
     },
     {
         "field": "temperature",
-        "invalid_value": "5.73",
-        "message": "Input should be greater than or equal to 12",
-        "row": 575
-    },
-    {
-        "field": "temperature",
         "invalid_value": "-3.73",
-        "message": "Input should be greater than or equal to 12",
+        "message": "Input should be greater than or equal to 0",
         "row": 576
     },
     {
         "field": "temperature",
         "invalid_value": "-18.98",
-        "message": "Input should be greater than or equal to 12",
+        "message": "Input should be greater than or equal to 0",
         "row": 578
     },
     {
         "field": "temperature",
-        "invalid_value": "4.52",
-        "message": "Input should be greater than or equal to 12",
-        "row": 580
-    },
-    {
-        "field": "temperature",
-        "invalid_value": "0.53",
-        "message": "Input should be greater than or equal to 12",
-        "row": 581
-    },
-    {
-        "field": "temperature",
         "invalid_value": "-8.14",
-        "message": "Input should be greater than or equal to 12",
+        "message": "Input should be greater than or equal to 0",
         "row": 583
     },
     {
@@ -1831,14 +1249,8 @@
     },
     {
         "field": "temperature",
-        "invalid_value": "9.53",
-        "message": "Input should be greater than or equal to 12",
-        "row": 587
-    },
-    {
-        "field": "temperature",
         "invalid_value": "-11.65",
-        "message": "Input should be greater than or equal to 12",
+        "message": "Input should be greater than or equal to 0",
         "row": 588
     },
     {
@@ -1856,7 +1268,7 @@
     {
         "field": "temperature",
         "invalid_value": "-18.12",
-        "message": "Input should be greater than or equal to 12",
+        "message": "Input should be greater than or equal to 0",
         "row": 592
     },
     {
@@ -1868,7 +1280,7 @@
     {
         "field": "temperature",
         "invalid_value": "-13.19",
-        "message": "Input should be greater than or equal to 12",
+        "message": "Input should be greater than or equal to 0",
         "row": 594
     },
     {
@@ -1879,50 +1291,38 @@
     },
     {
         "field": "temperature",
-        "invalid_value": "10.4",
-        "message": "Input should be greater than or equal to 12",
-        "row": 599
-    },
-    {
-        "field": "temperature",
         "invalid_value": "-10.66",
-        "message": "Input should be greater than or equal to 12",
+        "message": "Input should be greater than or equal to 0",
         "row": 602
     },
     {
         "field": "temperature",
-        "invalid_value": "3.73",
-        "message": "Input should be greater than or equal to 12",
-        "row": 605
-    },
-    {
-        "field": "temperature",
         "invalid_value": "-16.1",
-        "message": "Input should be greater than or equal to 12",
+        "message": "Input should be greater than or equal to 0",
         "row": 608
     },
     {
         "field": "temperature",
         "invalid_value": "-14.49",
-        "message": "Input should be greater than or equal to 12",
+        "message": "Input should be greater than or equal to 0",
         "row": 609
     },
     {
         "field": "temperature",
         "invalid_value": "-19.01",
-        "message": "Input should be greater than or equal to 12",
+        "message": "Input should be greater than or equal to 0",
         "row": 613
     },
     {
         "field": "temperature",
         "invalid_value": "-6.27",
-        "message": "Input should be greater than or equal to 12",
+        "message": "Input should be greater than or equal to 0",
         "row": 617
     },
     {
         "field": "temperature",
         "invalid_value": "-13.7",
-        "message": "Input should be greater than or equal to 12",
+        "message": "Input should be greater than or equal to 0",
         "row": 618
     },
     {
@@ -1934,19 +1334,13 @@
     {
         "field": "temperature",
         "invalid_value": "-19.29",
-        "message": "Input should be greater than or equal to 12",
+        "message": "Input should be greater than or equal to 0",
         "row": 620
     },
     {
         "field": "temperature",
-        "invalid_value": "5.61",
-        "message": "Input should be greater than or equal to 12",
-        "row": 621
-    },
-    {
-        "field": "temperature",
         "invalid_value": "-1.17",
-        "message": "Input should be greater than or equal to 12",
+        "message": "Input should be greater than or equal to 0",
         "row": 624
     },
     {
@@ -1958,79 +1352,61 @@
     {
         "field": "temperature",
         "invalid_value": "-12.76",
-        "message": "Input should be greater than or equal to 12",
+        "message": "Input should be greater than or equal to 0",
         "row": 632
     },
     {
         "field": "temperature",
         "invalid_value": "-5.45",
-        "message": "Input should be greater than or equal to 12",
+        "message": "Input should be greater than or equal to 0",
         "row": 633
     },
     {
         "field": "temperature",
         "invalid_value": "-13.38",
-        "message": "Input should be greater than or equal to 12",
+        "message": "Input should be greater than or equal to 0",
         "row": 634
     },
     {
         "field": "temperature",
         "invalid_value": "-4.98",
-        "message": "Input should be greater than or equal to 12",
+        "message": "Input should be greater than or equal to 0",
         "row": 639
     },
     {
         "field": "temperature",
-        "invalid_value": "4.68",
-        "message": "Input should be greater than or equal to 12",
-        "row": 643
-    },
-    {
-        "field": "temperature",
         "invalid_value": "-11.08",
-        "message": "Input should be greater than or equal to 12",
+        "message": "Input should be greater than or equal to 0",
         "row": 645
     },
     {
         "field": "temperature",
         "invalid_value": "-5.28",
-        "message": "Input should be greater than or equal to 12",
+        "message": "Input should be greater than or equal to 0",
         "row": 647
     },
     {
         "field": "temperature",
         "invalid_value": "-7.25",
-        "message": "Input should be greater than or equal to 12",
+        "message": "Input should be greater than or equal to 0",
         "row": 648
     },
     {
         "field": "temperature",
         "invalid_value": "-14.17",
-        "message": "Input should be greater than or equal to 12",
+        "message": "Input should be greater than or equal to 0",
         "row": 649
     },
     {
         "field": "temperature",
-        "invalid_value": "6.73",
-        "message": "Input should be greater than or equal to 12",
-        "row": 650
-    },
-    {
-        "field": "temperature",
         "invalid_value": "-3.26",
-        "message": "Input should be greater than or equal to 12",
+        "message": "Input should be greater than or equal to 0",
         "row": 651
     },
     {
         "field": "temperature",
-        "invalid_value": "9.3",
-        "message": "Input should be greater than or equal to 12",
-        "row": 652
-    },
-    {
-        "field": "temperature",
         "invalid_value": "-2.13",
-        "message": "Input should be greater than or equal to 12",
+        "message": "Input should be greater than or equal to 0",
         "row": 655
     },
     {
@@ -2041,32 +1417,26 @@
     },
     {
         "field": "temperature",
-        "invalid_value": "0.8",
-        "message": "Input should be greater than or equal to 12",
-        "row": 658
-    },
-    {
-        "field": "temperature",
         "invalid_value": "-6.2",
-        "message": "Input should be greater than or equal to 12",
+        "message": "Input should be greater than or equal to 0",
         "row": 659
     },
     {
         "field": "temperature",
         "invalid_value": "-13.99",
-        "message": "Input should be greater than or equal to 12",
+        "message": "Input should be greater than or equal to 0",
         "row": 661
     },
     {
         "field": "temperature",
         "invalid_value": "-9.51",
-        "message": "Input should be greater than or equal to 12",
+        "message": "Input should be greater than or equal to 0",
         "row": 668
     },
     {
         "field": "temperature",
         "invalid_value": "-3.24",
-        "message": "Input should be greater than or equal to 12",
+        "message": "Input should be greater than or equal to 0",
         "row": 671
     },
     {
@@ -2077,26 +1447,20 @@
     },
     {
         "field": "temperature",
-        "invalid_value": "6.13",
-        "message": "Input should be greater than or equal to 12",
-        "row": 674
-    },
-    {
-        "field": "temperature",
         "invalid_value": "-9.97",
-        "message": "Input should be greater than or equal to 12",
+        "message": "Input should be greater than or equal to 0",
         "row": 675
     },
     {
         "field": "temperature",
         "invalid_value": "-4.52",
-        "message": "Input should be greater than or equal to 12",
+        "message": "Input should be greater than or equal to 0",
         "row": 677
     },
     {
         "field": "temperature",
         "invalid_value": "-9.57",
-        "message": "Input should be greater than or equal to 12",
+        "message": "Input should be greater than or equal to 0",
         "row": 680
     },
     {
@@ -2108,7 +1472,7 @@
     {
         "field": "temperature",
         "invalid_value": "-14.92",
-        "message": "Input should be greater than or equal to 12",
+        "message": "Input should be greater than or equal to 0",
         "row": 685
     },
     {
@@ -2120,7 +1484,7 @@
     {
         "field": "temperature",
         "invalid_value": "-8.97",
-        "message": "Input should be greater than or equal to 12",
+        "message": "Input should be greater than or equal to 0",
         "row": 689
     },
     {
@@ -2132,7 +1496,7 @@
     {
         "field": "temperature",
         "invalid_value": "-15.78",
-        "message": "Input should be greater than or equal to 12",
+        "message": "Input should be greater than or equal to 0",
         "row": 693
     },
     {
@@ -2143,45 +1507,27 @@
     },
     {
         "field": "temperature",
-        "invalid_value": "9.39",
-        "message": "Input should be greater than or equal to 12",
-        "row": 696
-    },
-    {
-        "field": "temperature",
         "invalid_value": "-8.62",
-        "message": "Input should be greater than or equal to 12",
+        "message": "Input should be greater than or equal to 0",
         "row": 698
     },
     {
         "field": "temperature",
         "invalid_value": "-9.61",
-        "message": "Input should be greater than or equal to 12",
+        "message": "Input should be greater than or equal to 0",
         "row": 700
     },
     {
         "field": "temperature",
         "invalid_value": "-8.64",
-        "message": "Input should be greater than or equal to 12",
+        "message": "Input should be greater than or equal to 0",
         "row": 703
-    },
-    {
-        "field": "temperature",
-        "invalid_value": "4.36",
-        "message": "Input should be greater than or equal to 12",
-        "row": 705
     },
     {
         "field": "temperature",
         "invalid_value": "",
         "message": "Input should be a valid number, unable to parse string as a number",
         "row": 706
-    },
-    {
-        "field": "temperature",
-        "invalid_value": "7.56",
-        "message": "Input should be greater than or equal to 12",
-        "row": 707
     },
     {
         "field": "temperature",
@@ -2192,49 +1538,49 @@
     {
         "field": "temperature",
         "invalid_value": "-9.42",
-        "message": "Input should be greater than or equal to 12",
+        "message": "Input should be greater than or equal to 0",
         "row": 711
     },
     {
         "field": "temperature",
         "invalid_value": "-1.44",
-        "message": "Input should be greater than or equal to 12",
+        "message": "Input should be greater than or equal to 0",
         "row": 713
     },
     {
         "field": "temperature",
         "invalid_value": "-13.28",
-        "message": "Input should be greater than or equal to 12",
+        "message": "Input should be greater than or equal to 0",
         "row": 715
     },
     {
         "field": "temperature",
         "invalid_value": "-11.45",
-        "message": "Input should be greater than or equal to 12",
+        "message": "Input should be greater than or equal to 0",
         "row": 716
     },
     {
         "field": "temperature",
         "invalid_value": "-5.72",
-        "message": "Input should be greater than or equal to 12",
+        "message": "Input should be greater than or equal to 0",
         "row": 720
     },
     {
         "field": "temperature",
         "invalid_value": "-11.6",
-        "message": "Input should be greater than or equal to 12",
+        "message": "Input should be greater than or equal to 0",
         "row": 721
     },
     {
         "field": "temperature",
         "invalid_value": "-8.19",
-        "message": "Input should be greater than or equal to 12",
+        "message": "Input should be greater than or equal to 0",
         "row": 722
     },
     {
         "field": "temperature",
         "invalid_value": "-16.57",
-        "message": "Input should be greater than or equal to 12",
+        "message": "Input should be greater than or equal to 0",
         "row": 723
     },
     {
@@ -2246,19 +1592,19 @@
     {
         "field": "temperature",
         "invalid_value": "-3.8",
-        "message": "Input should be greater than or equal to 12",
+        "message": "Input should be greater than or equal to 0",
         "row": 730
     },
     {
         "field": "temperature",
         "invalid_value": "-16.67",
-        "message": "Input should be greater than or equal to 12",
+        "message": "Input should be greater than or equal to 0",
         "row": 731
     },
     {
         "field": "temperature",
         "invalid_value": "-10.53",
-        "message": "Input should be greater than or equal to 12",
+        "message": "Input should be greater than or equal to 0",
         "row": 734
     },
     {
@@ -2270,25 +1616,25 @@
     {
         "field": "temperature",
         "invalid_value": "-8.63",
-        "message": "Input should be greater than or equal to 12",
+        "message": "Input should be greater than or equal to 0",
         "row": 736
     },
     {
         "field": "temperature",
         "invalid_value": "-3.66",
-        "message": "Input should be greater than or equal to 12",
+        "message": "Input should be greater than or equal to 0",
         "row": 742
     },
     {
         "field": "temperature",
         "invalid_value": "-1.51",
-        "message": "Input should be greater than or equal to 12",
+        "message": "Input should be greater than or equal to 0",
         "row": 743
     },
     {
         "field": "temperature",
         "invalid_value": "-3.84",
-        "message": "Input should be greater than or equal to 12",
+        "message": "Input should be greater than or equal to 0",
         "row": 745
     },
     {
@@ -2300,50 +1646,38 @@
     {
         "field": "temperature",
         "invalid_value": "-6.59",
-        "message": "Input should be greater than or equal to 12",
+        "message": "Input should be greater than or equal to 0",
         "row": 755
     },
     {
         "field": "temperature",
         "invalid_value": "-5.56",
-        "message": "Input should be greater than or equal to 12",
+        "message": "Input should be greater than or equal to 0",
         "row": 756
     },
     {
         "field": "temperature",
-        "invalid_value": "0.12",
-        "message": "Input should be greater than or equal to 12",
-        "row": 759
-    },
-    {
-        "field": "temperature",
         "invalid_value": "-18.29",
-        "message": "Input should be greater than or equal to 12",
+        "message": "Input should be greater than or equal to 0",
         "row": 760
     },
     {
         "field": "temperature",
         "invalid_value": "-7.44",
-        "message": "Input should be greater than or equal to 12",
+        "message": "Input should be greater than or equal to 0",
         "row": 764
     },
     {
         "field": "temperature",
         "invalid_value": "-14.62",
-        "message": "Input should be greater than or equal to 12",
+        "message": "Input should be greater than or equal to 0",
         "row": 766
     },
     {
         "field": "temperature",
         "invalid_value": "-11.17",
-        "message": "Input should be greater than or equal to 12",
+        "message": "Input should be greater than or equal to 0",
         "row": 767
-    },
-    {
-        "field": "temperature",
-        "invalid_value": "9.73",
-        "message": "Input should be greater than or equal to 12",
-        "row": 768
     },
     {
         "field": "temperature",
@@ -2354,20 +1688,14 @@
     {
         "field": "temperature",
         "invalid_value": "-10.77",
-        "message": "Input should be greater than or equal to 12",
+        "message": "Input should be greater than or equal to 0",
         "row": 775
     },
     {
         "field": "temperature",
         "invalid_value": "-17.84",
-        "message": "Input should be greater than or equal to 12",
+        "message": "Input should be greater than or equal to 0",
         "row": 779
-    },
-    {
-        "field": "temperature",
-        "invalid_value": "2.95",
-        "message": "Input should be greater than or equal to 12",
-        "row": 780
     },
     {
         "field": "temperature",
@@ -2378,7 +1706,7 @@
     {
         "field": "temperature",
         "invalid_value": "-13.19",
-        "message": "Input should be greater than or equal to 12",
+        "message": "Input should be greater than or equal to 0",
         "row": 783
     },
     {
@@ -2389,50 +1717,32 @@
     },
     {
         "field": "temperature",
-        "invalid_value": "5.29",
-        "message": "Input should be greater than or equal to 12",
-        "row": 787
-    },
-    {
-        "field": "temperature",
         "invalid_value": "-19.0",
-        "message": "Input should be greater than or equal to 12",
+        "message": "Input should be greater than or equal to 0",
         "row": 789
     },
     {
         "field": "temperature",
         "invalid_value": "-3.33",
-        "message": "Input should be greater than or equal to 12",
+        "message": "Input should be greater than or equal to 0",
         "row": 790
     },
     {
         "field": "temperature",
         "invalid_value": "-17.46",
-        "message": "Input should be greater than or equal to 12",
+        "message": "Input should be greater than or equal to 0",
         "row": 796
     },
     {
         "field": "temperature",
         "invalid_value": "-11.56",
-        "message": "Input should be greater than or equal to 12",
+        "message": "Input should be greater than or equal to 0",
         "row": 798
     },
     {
         "field": "temperature",
-        "invalid_value": "9.98",
-        "message": "Input should be greater than or equal to 12",
-        "row": 799
-    },
-    {
-        "field": "temperature",
-        "invalid_value": "3.86",
-        "message": "Input should be greater than or equal to 12",
-        "row": 802
-    },
-    {
-        "field": "temperature",
         "invalid_value": "-10.56",
-        "message": "Input should be greater than or equal to 12",
+        "message": "Input should be greater than or equal to 0",
         "row": 803
     },
     {
@@ -2443,12 +1753,6 @@
     },
     {
         "field": "temperature",
-        "invalid_value": "8.78",
-        "message": "Input should be greater than or equal to 12",
-        "row": 816
-    },
-    {
-        "field": "temperature",
         "invalid_value": "",
         "message": "Input should be a valid number, unable to parse string as a number",
         "row": 817
@@ -2456,32 +1760,20 @@
     {
         "field": "temperature",
         "invalid_value": "-13.02",
-        "message": "Input should be greater than or equal to 12",
+        "message": "Input should be greater than or equal to 0",
         "row": 818
     },
     {
         "field": "temperature",
         "invalid_value": "-0.91",
-        "message": "Input should be greater than or equal to 12",
+        "message": "Input should be greater than or equal to 0",
         "row": 819
-    },
-    {
-        "field": "temperature",
-        "invalid_value": "6.22",
-        "message": "Input should be greater than or equal to 12",
-        "row": 822
     },
     {
         "field": "temperature",
         "invalid_value": "",
         "message": "Input should be a valid number, unable to parse string as a number",
         "row": 824
-    },
-    {
-        "field": "temperature",
-        "invalid_value": "8.11",
-        "message": "Input should be greater than or equal to 12",
-        "row": 825
     },
     {
         "field": "temperature",
@@ -2492,25 +1784,13 @@
     {
         "field": "temperature",
         "invalid_value": "-4.43",
-        "message": "Input should be greater than or equal to 12",
+        "message": "Input should be greater than or equal to 0",
         "row": 828
     },
     {
         "field": "temperature",
-        "invalid_value": "2.18",
-        "message": "Input should be greater than or equal to 12",
-        "row": 831
-    },
-    {
-        "field": "temperature",
-        "invalid_value": "1.02",
-        "message": "Input should be greater than or equal to 12",
-        "row": 833
-    },
-    {
-        "field": "temperature",
         "invalid_value": "-14.67",
-        "message": "Input should be greater than or equal to 12",
+        "message": "Input should be greater than or equal to 0",
         "row": 834
     },
     {
@@ -2522,31 +1802,31 @@
     {
         "field": "temperature",
         "invalid_value": "-13.25",
-        "message": "Input should be greater than or equal to 12",
+        "message": "Input should be greater than or equal to 0",
         "row": 836
     },
     {
         "field": "temperature",
         "invalid_value": "-16.9",
-        "message": "Input should be greater than or equal to 12",
+        "message": "Input should be greater than or equal to 0",
         "row": 838
     },
     {
         "field": "temperature",
         "invalid_value": "-17.03",
-        "message": "Input should be greater than or equal to 12",
+        "message": "Input should be greater than or equal to 0",
         "row": 839
     },
     {
         "field": "temperature",
         "invalid_value": "-14.66",
-        "message": "Input should be greater than or equal to 12",
+        "message": "Input should be greater than or equal to 0",
         "row": 841
     },
     {
         "field": "temperature",
         "invalid_value": "-14.09",
-        "message": "Input should be greater than or equal to 12",
+        "message": "Input should be greater than or equal to 0",
         "row": 846
     },
     {
@@ -2558,7 +1838,7 @@
     {
         "field": "temperature",
         "invalid_value": "-8.74",
-        "message": "Input should be greater than or equal to 12",
+        "message": "Input should be greater than or equal to 0",
         "row": 848
     },
     {
@@ -2570,26 +1850,8 @@
     {
         "field": "temperature",
         "invalid_value": "-16.37",
-        "message": "Input should be greater than or equal to 12",
+        "message": "Input should be greater than or equal to 0",
         "row": 851
-    },
-    {
-        "field": "temperature",
-        "invalid_value": "1.21",
-        "message": "Input should be greater than or equal to 12",
-        "row": 853
-    },
-    {
-        "field": "temperature",
-        "invalid_value": "2.72",
-        "message": "Input should be greater than or equal to 12",
-        "row": 857
-    },
-    {
-        "field": "temperature",
-        "invalid_value": "3.2",
-        "message": "Input should be greater than or equal to 12",
-        "row": 860
     },
     {
         "field": "temperature",
@@ -2599,200 +1861,98 @@
     },
     {
         "field": "temperature",
-        "invalid_value": "2.88",
-        "message": "Input should be greater than or equal to 12",
-        "row": 863
-    },
-    {
-        "field": "temperature",
-        "invalid_value": "8.66",
-        "message": "Input should be greater than or equal to 12",
-        "row": 864
-    },
-    {
-        "field": "temperature",
-        "invalid_value": "0.02",
-        "message": "Input should be greater than or equal to 12",
-        "row": 865
-    },
-    {
-        "field": "temperature",
         "invalid_value": "-8.71",
-        "message": "Input should be greater than or equal to 12",
+        "message": "Input should be greater than or equal to 0",
         "row": 866
     },
     {
         "field": "temperature",
         "invalid_value": "-4.61",
-        "message": "Input should be greater than or equal to 12",
+        "message": "Input should be greater than or equal to 0",
         "row": 871
     },
     {
         "field": "temperature",
         "invalid_value": "-11.9",
-        "message": "Input should be greater than or equal to 12",
+        "message": "Input should be greater than or equal to 0",
         "row": 872
     },
     {
         "field": "temperature",
         "invalid_value": "-7.58",
-        "message": "Input should be greater than or equal to 12",
+        "message": "Input should be greater than or equal to 0",
         "row": 873
     },
     {
         "field": "temperature",
-        "invalid_value": "0.45",
-        "message": "Input should be greater than or equal to 12",
-        "row": 876
-    },
-    {
-        "field": "temperature",
         "invalid_value": "-10.29",
-        "message": "Input should be greater than or equal to 12",
+        "message": "Input should be greater than or equal to 0",
         "row": 877
     },
     {
         "field": "temperature",
-        "invalid_value": "10.99",
-        "message": "Input should be greater than or equal to 12",
-        "row": 879
-    },
-    {
-        "field": "temperature",
-        "invalid_value": "8.53",
-        "message": "Input should be greater than or equal to 12",
-        "row": 885
-    },
-    {
-        "field": "temperature",
         "invalid_value": "-8.99",
-        "message": "Input should be greater than or equal to 12",
+        "message": "Input should be greater than or equal to 0",
         "row": 886
     },
     {
         "field": "temperature",
         "invalid_value": "-5.2",
-        "message": "Input should be greater than or equal to 12",
+        "message": "Input should be greater than or equal to 0",
         "row": 887
     },
     {
         "field": "temperature",
         "invalid_value": "-7.79",
-        "message": "Input should be greater than or equal to 12",
+        "message": "Input should be greater than or equal to 0",
         "row": 888
     },
     {
         "field": "temperature",
         "invalid_value": "-12.91",
-        "message": "Input should be greater than or equal to 12",
+        "message": "Input should be greater than or equal to 0",
         "row": 890
     },
     {
         "field": "temperature",
         "invalid_value": "-17.02",
-        "message": "Input should be greater than or equal to 12",
+        "message": "Input should be greater than or equal to 0",
         "row": 891
     },
     {
         "field": "temperature",
-        "invalid_value": "2.08",
-        "message": "Input should be greater than or equal to 12",
-        "row": 893
-    },
-    {
-        "field": "temperature",
-        "invalid_value": "4.26",
-        "message": "Input should be greater than or equal to 12",
-        "row": 894
-    },
-    {
-        "field": "temperature",
-        "invalid_value": "5.67",
-        "message": "Input should be greater than or equal to 12",
-        "row": 895
-    },
-    {
-        "field": "temperature",
         "invalid_value": "-15.22",
-        "message": "Input should be greater than or equal to 12",
+        "message": "Input should be greater than or equal to 0",
         "row": 896
     },
     {
         "field": "temperature",
         "invalid_value": "-5.32",
-        "message": "Input should be greater than or equal to 12",
+        "message": "Input should be greater than or equal to 0",
         "row": 899
     },
     {
         "field": "temperature",
-        "invalid_value": "1.03",
-        "message": "Input should be greater than or equal to 12",
-        "row": 900
-    },
-    {
-        "field": "temperature",
         "invalid_value": "-2.32",
-        "message": "Input should be greater than or equal to 12",
+        "message": "Input should be greater than or equal to 0",
         "row": 901
     },
     {
         "field": "temperature",
         "invalid_value": "-14.77",
-        "message": "Input should be greater than or equal to 12",
+        "message": "Input should be greater than or equal to 0",
         "row": 904
     },
     {
         "field": "temperature",
-        "invalid_value": "0.33",
-        "message": "Input should be greater than or equal to 12",
-        "row": 905
-    },
-    {
-        "field": "temperature",
-        "invalid_value": "4.21",
-        "message": "Input should be greater than or equal to 12",
-        "row": 911
-    },
-    {
-        "field": "temperature",
         "invalid_value": "-0.33",
-        "message": "Input should be greater than or equal to 12",
+        "message": "Input should be greater than or equal to 0",
         "row": 912
     },
     {
         "field": "temperature",
-        "invalid_value": "2.7",
-        "message": "Input should be greater than or equal to 12",
-        "row": 919
-    },
-    {
-        "field": "temperature",
-        "invalid_value": "4.69",
-        "message": "Input should be greater than or equal to 12",
-        "row": 920
-    },
-    {
-        "field": "temperature",
-        "invalid_value": "3.14",
-        "message": "Input should be greater than or equal to 12",
-        "row": 922
-    },
-    {
-        "field": "temperature",
-        "invalid_value": "7.27",
-        "message": "Input should be greater than or equal to 12",
-        "row": 923
-    },
-    {
-        "field": "temperature",
-        "invalid_value": "6.21",
-        "message": "Input should be greater than or equal to 12",
-        "row": 924
-    },
-    {
-        "field": "temperature",
         "invalid_value": "-4.31",
-        "message": "Input should be greater than or equal to 12",
+        "message": "Input should be greater than or equal to 0",
         "row": 925
     },
     {
@@ -2816,26 +1976,20 @@
     {
         "field": "temperature",
         "invalid_value": "-8.46",
-        "message": "Input should be greater than or equal to 12",
+        "message": "Input should be greater than or equal to 0",
         "row": 929
     },
     {
         "field": "temperature",
         "invalid_value": "-2.74",
-        "message": "Input should be greater than or equal to 12",
+        "message": "Input should be greater than or equal to 0",
         "row": 930
     },
     {
         "field": "temperature",
         "invalid_value": "-8.64",
-        "message": "Input should be greater than or equal to 12",
+        "message": "Input should be greater than or equal to 0",
         "row": 931
-    },
-    {
-        "field": "temperature",
-        "invalid_value": "10.94",
-        "message": "Input should be greater than or equal to 12",
-        "row": 933
     },
     {
         "field": "temperature",
@@ -2846,19 +2000,19 @@
     {
         "field": "temperature",
         "invalid_value": "-4.11",
-        "message": "Input should be greater than or equal to 12",
+        "message": "Input should be greater than or equal to 0",
         "row": 937
     },
     {
         "field": "temperature",
         "invalid_value": "-19.43",
-        "message": "Input should be greater than or equal to 12",
+        "message": "Input should be greater than or equal to 0",
         "row": 939
     },
     {
         "field": "temperature",
         "invalid_value": "-14.24",
-        "message": "Input should be greater than or equal to 12",
+        "message": "Input should be greater than or equal to 0",
         "row": 940
     },
     {
@@ -2870,7 +2024,7 @@
     {
         "field": "temperature",
         "invalid_value": "-15.5",
-        "message": "Input should be greater than or equal to 12",
+        "message": "Input should be greater than or equal to 0",
         "row": 945
     },
     {
@@ -2882,7 +2036,7 @@
     {
         "field": "temperature",
         "invalid_value": "-0.86",
-        "message": "Input should be greater than or equal to 12",
+        "message": "Input should be greater than or equal to 0",
         "row": 948
     },
     {
@@ -2894,26 +2048,20 @@
     {
         "field": "temperature",
         "invalid_value": "-7.29",
-        "message": "Input should be greater than or equal to 12",
+        "message": "Input should be greater than or equal to 0",
         "row": 957
     },
     {
         "field": "temperature",
         "invalid_value": "-6.69",
-        "message": "Input should be greater than or equal to 12",
+        "message": "Input should be greater than or equal to 0",
         "row": 959
     },
     {
         "field": "temperature",
         "invalid_value": "-6.0",
-        "message": "Input should be greater than or equal to 12",
+        "message": "Input should be greater than or equal to 0",
         "row": 961
-    },
-    {
-        "field": "temperature",
-        "invalid_value": "10.65",
-        "message": "Input should be greater than or equal to 12",
-        "row": 962
     },
     {
         "field": "temperature",
@@ -2924,13 +2072,13 @@
     {
         "field": "temperature",
         "invalid_value": "-19.77",
-        "message": "Input should be greater than or equal to 12",
+        "message": "Input should be greater than or equal to 0",
         "row": 965
     },
     {
         "field": "temperature",
         "invalid_value": "-15.69",
-        "message": "Input should be greater than or equal to 12",
+        "message": "Input should be greater than or equal to 0",
         "row": 966
     },
     {
@@ -2942,67 +2090,37 @@
     {
         "field": "temperature",
         "invalid_value": "-0.47",
-        "message": "Input should be greater than or equal to 12",
+        "message": "Input should be greater than or equal to 0",
         "row": 968
     },
     {
         "field": "temperature",
         "invalid_value": "-1.63",
-        "message": "Input should be greater than or equal to 12",
+        "message": "Input should be greater than or equal to 0",
         "row": 969
     },
     {
         "field": "temperature",
-        "invalid_value": "7.07",
-        "message": "Input should be greater than or equal to 12",
-        "row": 975
-    },
-    {
-        "field": "temperature",
-        "invalid_value": "10.21",
-        "message": "Input should be greater than or equal to 12",
-        "row": 976
-    },
-    {
-        "field": "temperature",
         "invalid_value": "-6.48",
-        "message": "Input should be greater than or equal to 12",
+        "message": "Input should be greater than or equal to 0",
         "row": 977
     },
     {
         "field": "temperature",
         "invalid_value": "-9.02",
-        "message": "Input should be greater than or equal to 12",
+        "message": "Input should be greater than or equal to 0",
         "row": 979
     },
     {
         "field": "temperature",
-        "invalid_value": "10.7",
-        "message": "Input should be greater than or equal to 12",
-        "row": 980
-    },
-    {
-        "field": "temperature",
         "invalid_value": "-3.32",
-        "message": "Input should be greater than or equal to 12",
+        "message": "Input should be greater than or equal to 0",
         "row": 982
     },
     {
         "field": "temperature",
-        "invalid_value": "5.26",
-        "message": "Input should be greater than or equal to 12",
-        "row": 983
-    },
-    {
-        "field": "temperature",
-        "invalid_value": "2.85",
-        "message": "Input should be greater than or equal to 12",
-        "row": 988
-    },
-    {
-        "field": "temperature",
         "invalid_value": "-3.1",
-        "message": "Input should be greater than or equal to 12",
+        "message": "Input should be greater than or equal to 0",
         "row": 991
     },
     {
@@ -3013,12 +2131,6 @@
     },
     {
         "field": "temperature",
-        "invalid_value": "2.01",
-        "message": "Input should be greater than or equal to 12",
-        "row": 993
-    },
-    {
-        "field": "temperature",
         "invalid_value": "",
         "message": "Input should be a valid number, unable to parse string as a number",
         "row": 994
@@ -3026,19 +2138,13 @@
     {
         "field": "temperature",
         "invalid_value": "-1.58",
-        "message": "Input should be greater than or equal to 12",
+        "message": "Input should be greater than or equal to 0",
         "row": 998
     },
     {
         "field": "temperature",
-        "invalid_value": "1.91",
-        "message": "Input should be greater than or equal to 12",
-        "row": 1000
-    },
-    {
-        "field": "temperature",
         "invalid_value": "-8.71",
-        "message": "Input should be greater than or equal to 12",
+        "message": "Input should be greater than or equal to 0",
         "row": 1001
     }
 ]
