@@ -6,10 +6,10 @@ ENV PYTHONUNBUFFERED=1 \
 
 WORKDIR /app
 
-COPY pyproject.toml ./
-RUN pip install --no-cache-dir .
-
+COPY pyproject.toml README.md ./
 COPY src/ ./src/
 COPY samples/ ./samples/
+
+RUN pip install --no-cache-dir .
 
 CMD ["python", "-m", "cli_data_validator.main"]
