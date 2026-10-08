@@ -30,20 +30,20 @@ class CLIReporter:
         success_rate = round((valid / total * 100), 2) if total > 0 else 0.0
 
         table = Table(
-            title="📊 Resumo da Processamento",
+            title="📊 Processing Summary",
             show_header=True,
             header_style="bold magenta",
         )
-        table.add_column("Métrica", style="cyan")
-        table.add_column("Valor", style="bold white", justify="right")
+        table.add_column("Metric", style="cyan")
+        table.add_column("Value", style="bold white", justify="right")
 
-        table.add_row("Total de Linhas Processadas", str(total))
-        table.add_row("Registros Válidos", f"[green]{valid}[/green]")
-        table.add_row("Registros com Falhas", f"[red]{errors}[/red]")
+        table.add_row("Total Processed Rows", str(total))
+        table.add_row("Valid Records", f"[green]{valid}[/green]")
+        table.add_row("Failed Records", f"[red]{errors}[/red]")
         table.add_row(
-            "Taxa de Aprovação", f"[bold yellow]{success_rate}%[/bold yellow]"
+            "Success Rate", f"[bold yellow]{success_rate}%[/bold yellow]"
         )
-        table.add_row("Tempo Decorrido", f"{elapsed}s")
+        table.add_row("Elapsed Time", f"{elapsed}s")
 
         console.print("\n")
         console.print(table)
@@ -58,19 +58,19 @@ class CLIReporter:
         """
         if not errors:
             console.print(
-                "\n[bold green]✨ Nenhum erro encontrado nos dados![/bold green]\n"
+                "\n[bold green]✨ No validation errors found in the dataset![/bold green]\n"
             )
             return
 
         table = Table(
-            title=f"\n⚠️ Detalhes dos Erros (Exibindo até {max_display} falhas)",
+            title=f"\n⚠️ Error Details (Showing up to {max_display} failures)",
             show_header=True,
             header_style="bold red",
         )
-        table.add_column("Linha", style="dim", justify="right")
-        table.add_column("Campo Defeituoso", style="bold yellow")
-        table.add_column("Valor Original", style="white")
-        table.add_column("Motivo do Rejeição", style="red")
+        table.add_column("Row", style="dim", justify="right")
+        table.add_column("Invalid Field", style="bold yellow")
+        table.add_column("Original Value", style="white")
+        table.add_column("Rejection Reason", style="red")
 
         for err in errors[:max_display]:
             table.add_row(
@@ -84,6 +84,6 @@ class CLIReporter:
 
         if len(errors) > max_display:
             console.print(
-                f"[dim]... e mais {len(errors) - max_display} erros ocultos. "
-                f"Consulte o arquivo 'errors.json' para o log completo.[/dim]\n"
+                f"... and {len(errors) - max_display} more hidden errors. "
+                f"Check 'output/errors.json' for the complete log.[/dim]\n"
             )

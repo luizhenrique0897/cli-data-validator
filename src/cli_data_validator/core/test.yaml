@@ -7,5 +7,10 @@ config:
   temperature:
     type: float
     required: true
-    min: null
-    max: null
+    min: 0.0
+    max: 100.0
+  humidity:
+    type: float
+    required: true
+    min: 20.0
+    max: 75.0

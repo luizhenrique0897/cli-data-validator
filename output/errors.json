@@ -1,9 +1,123 @@
 [
     {
         "field": "temperature",
+        "invalid_value": "-0.47",
+        "message": "Input should be greater than or equal to 0",
+        "row": 3
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "90.89",
+        "message": "Input should be less than or equal to 75",
+        "row": 3
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "19.64",
+        "message": "Input should be greater than or equal to 20",
+        "row": 4
+    },
+    {
+        "field": "temperature",
         "invalid_value": "",
         "message": "Input should be a valid number, unable to parse string as a number",
         "row": 5
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "75.16",
+        "message": "Input should be less than or equal to 75",
+        "row": 6
+    },
+    {
+        "field": "temperature",
+        "invalid_value": "-19.95",
+        "message": "Input should be greater than or equal to 0",
+        "row": 7
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "",
+        "message": "Input should be a valid number, unable to parse string as a number",
+        "row": 8
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "91.48",
+        "message": "Input should be less than or equal to 75",
+        "row": 10
+    },
+    {
+        "field": "temperature",
+        "invalid_value": "-3.93",
+        "message": "Input should be greater than or equal to 0",
+        "row": 11
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "0.08",
+        "message": "Input should be greater than or equal to 20",
+        "row": 12
+    },
+    {
+        "field": "temperature",
+        "invalid_value": "-18.98",
+        "message": "Input should be greater than or equal to 0",
+        "row": 13
+    },
+    {
+        "field": "temperature",
+        "invalid_value": "-14.47",
+        "message": "Input should be greater than or equal to 0",
+        "row": 14
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "",
+        "message": "Input should be a valid number, unable to parse string as a number",
+        "row": 15
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "1.67",
+        "message": "Input should be greater than or equal to 20",
+        "row": 16
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "12.14",
+        "message": "Input should be greater than or equal to 20",
+        "row": 17
+    },
+    {
+        "field": "temperature",
+        "invalid_value": "-18.65",
+        "message": "Input should be greater than or equal to 0",
+        "row": 21
+    },
+    {
+        "field": "temperature",
+        "invalid_value": "-0.66",
+        "message": "Input should be greater than or equal to 0",
+        "row": 22
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "94.14",
+        "message": "Input should be less than or equal to 75",
+        "row": 22
+    },
+    {
+        "field": "temperature",
+        "invalid_value": "-19.47",
+        "message": "Input should be greater than or equal to 0",
+        "row": 23
+    },
+    {
+        "field": "temperature",
+        "invalid_value": "-10.08",
+        "message": "Input should be greater than or equal to 0",
+        "row": 24
     },
     {
         "field": "temperature",
@@ -12,10 +126,118 @@
         "row": 25
     },
     {
+        "field": "humidity",
+        "invalid_value": "",
+        "message": "Input should be a valid number, unable to parse string as a number",
+        "row": 25
+    },
+    {
+        "field": "temperature",
+        "invalid_value": "-7.95",
+        "message": "Input should be greater than or equal to 0",
+        "row": 27
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "75.13",
+        "message": "Input should be less than or equal to 75",
+        "row": 27
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "96.29",
+        "message": "Input should be less than or equal to 75",
+        "row": 28
+    },
+    {
         "field": "temperature",
         "invalid_value": "",
         "message": "Input should be a valid number, unable to parse string as a number",
         "row": 29
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "",
+        "message": "Input should be a valid number, unable to parse string as a number",
+        "row": 34
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "98.89",
+        "message": "Input should be less than or equal to 75",
+        "row": 35
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "83.67",
+        "message": "Input should be less than or equal to 75",
+        "row": 36
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "90.71",
+        "message": "Input should be less than or equal to 75",
+        "row": 37
+    },
+    {
+        "field": "temperature",
+        "invalid_value": "-8.08",
+        "message": "Input should be greater than or equal to 0",
+        "row": 39
+    },
+    {
+        "field": "temperature",
+        "invalid_value": "-19.1",
+        "message": "Input should be greater than or equal to 0",
+        "row": 42
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "14.14",
+        "message": "Input should be greater than or equal to 20",
+        "row": 43
+    },
+    {
+        "field": "temperature",
+        "invalid_value": "-7.35",
+        "message": "Input should be greater than or equal to 0",
+        "row": 45
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "",
+        "message": "Input should be a valid number, unable to parse string as a number",
+        "row": 46
+    },
+    {
+        "field": "temperature",
+        "invalid_value": "-11.09",
+        "message": "Input should be greater than or equal to 0",
+        "row": 47
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "6.92",
+        "message": "Input should be greater than or equal to 20",
+        "row": 48
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "99.99",
+        "message": "Input should be less than or equal to 75",
+        "row": 49
+    },
+    {
+        "field": "temperature",
+        "invalid_value": "-3.62",
+        "message": "Input should be greater than or equal to 0",
+        "row": 52
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "0.54",
+        "message": "Input should be greater than or equal to 20",
+        "row": 53
     },
     {
         "field": "temperature",
@@ -24,10 +246,58 @@
         "row": 54
     },
     {
+        "field": "humidity",
+        "invalid_value": "94.16",
+        "message": "Input should be less than or equal to 75",
+        "row": 54
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "",
+        "message": "Input should be a valid number, unable to parse string as a number",
+        "row": 55
+    },
+    {
+        "field": "temperature",
+        "invalid_value": "-15.1",
+        "message": "Input should be greater than or equal to 0",
+        "row": 57
+    },
+    {
         "field": "temperature",
         "invalid_value": "",
         "message": "Input should be a valid number, unable to parse string as a number",
         "row": 58
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "18.88",
+        "message": "Input should be greater than or equal to 20",
+        "row": 58
+    },
+    {
+        "field": "temperature",
+        "invalid_value": "-1.56",
+        "message": "Input should be greater than or equal to 0",
+        "row": 60
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "79.47",
+        "message": "Input should be less than or equal to 75",
+        "row": 61
+    },
+    {
+        "field": "temperature",
+        "invalid_value": "-5.49",
+        "message": "Input should be greater than or equal to 0",
+        "row": 62
+    },
+    {
+        "field": "temperature",
+        "invalid_value": "-19.7",
+        "message": "Input should be greater than or equal to 0",
+        "row": 63
     },
     {
         "field": "temperature",
@@ -36,16 +306,232 @@
         "row": 65
     },
     {
+        "field": "humidity",
+        "invalid_value": "12.65",
+        "message": "Input should be greater than or equal to 20",
+        "row": 65
+    },
+    {
+        "field": "temperature",
+        "invalid_value": "-19.77",
+        "message": "Input should be greater than or equal to 0",
+        "row": 68
+    },
+    {
+        "field": "temperature",
+        "invalid_value": "-19.2",
+        "message": "Input should be greater than or equal to 0",
+        "row": 69
+    },
+    {
+        "field": "temperature",
+        "invalid_value": "-14.24",
+        "message": "Input should be greater than or equal to 0",
+        "row": 70
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "86.53",
+        "message": "Input should be less than or equal to 75",
+        "row": 70
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "4.23",
+        "message": "Input should be greater than or equal to 20",
+        "row": 71
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "1.34",
+        "message": "Input should be greater than or equal to 20",
+        "row": 73
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "97.91",
+        "message": "Input should be less than or equal to 75",
+        "row": 75
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "7.31",
+        "message": "Input should be greater than or equal to 20",
+        "row": 77
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "95.8",
+        "message": "Input should be less than or equal to 75",
+        "row": 78
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "18.13",
+        "message": "Input should be greater than or equal to 20",
+        "row": 81
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "",
+        "message": "Input should be a valid number, unable to parse string as a number",
+        "row": 82
+    },
+    {
+        "field": "temperature",
+        "invalid_value": "-1.96",
+        "message": "Input should be greater than or equal to 0",
+        "row": 84
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "93.84",
+        "message": "Input should be less than or equal to 75",
+        "row": 84
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "14.73",
+        "message": "Input should be greater than or equal to 20",
+        "row": 85
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "9.52",
+        "message": "Input should be greater than or equal to 20",
+        "row": 87
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "",
+        "message": "Input should be a valid number, unable to parse string as a number",
+        "row": 88
+    },
+    {
+        "field": "temperature",
+        "invalid_value": "-4.87",
+        "message": "Input should be greater than or equal to 0",
+        "row": 89
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "7.22",
+        "message": "Input should be greater than or equal to 20",
+        "row": 90
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "91.73",
+        "message": "Input should be less than or equal to 75",
+        "row": 92
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "78.87",
+        "message": "Input should be less than or equal to 75",
+        "row": 93
+    },
+    {
         "field": "temperature",
         "invalid_value": "",
         "message": "Input should be a valid number, unable to parse string as a number",
         "row": 96
     },
     {
+        "field": "humidity",
+        "invalid_value": "91.59",
+        "message": "Input should be less than or equal to 75",
+        "row": 96
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "6.68",
+        "message": "Input should be greater than or equal to 20",
+        "row": 97
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "19.01",
+        "message": "Input should be greater than or equal to 20",
+        "row": 99
+    },
+    {
+        "field": "temperature",
+        "invalid_value": "-11.25",
+        "message": "Input should be greater than or equal to 0",
+        "row": 100
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "18.01",
+        "message": "Input should be greater than or equal to 20",
+        "row": 100
+    },
+    {
+        "field": "temperature",
+        "invalid_value": "-10.13",
+        "message": "Input should be greater than or equal to 0",
+        "row": 101
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "",
+        "message": "Input should be a valid number, unable to parse string as a number",
+        "row": 103
+    },
+    {
+        "field": "temperature",
+        "invalid_value": "-9.77",
+        "message": "Input should be greater than or equal to 0",
+        "row": 104
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "75.95",
+        "message": "Input should be less than or equal to 75",
+        "row": 104
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "93.27",
+        "message": "Input should be less than or equal to 75",
+        "row": 106
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "77.25",
+        "message": "Input should be less than or equal to 75",
+        "row": 107
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "83.95",
+        "message": "Input should be less than or equal to 75",
+        "row": 109
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "9.1",
+        "message": "Input should be greater than or equal to 20",
+        "row": 110
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "",
+        "message": "Input should be a valid number, unable to parse string as a number",
+        "row": 112
+    },
+    {
         "field": "temperature",
         "invalid_value": "",
         "message": "Input should be a valid number, unable to parse string as a number",
         "row": 113
+    },
+    {
+        "field": "temperature",
+        "invalid_value": "-15.27",
+        "message": "Input should be greater than or equal to 0",
+        "row": 115
     },
     {
         "field": "temperature",
@@ -60,10 +546,40 @@
         "row": 118
     },
     {
+        "field": "humidity",
+        "invalid_value": "0.53",
+        "message": "Input should be greater than or equal to 20",
+        "row": 120
+    },
+    {
+        "field": "temperature",
+        "invalid_value": "-16.65",
+        "message": "Input should be greater than or equal to 0",
+        "row": 121
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "",
+        "message": "Input should be a valid number, unable to parse string as a number",
+        "row": 121
+    },
+    {
         "field": "temperature",
         "invalid_value": "",
         "message": "Input should be a valid number, unable to parse string as a number",
         "row": 122
+    },
+    {
+        "field": "temperature",
+        "invalid_value": "-11.64",
+        "message": "Input should be greater than or equal to 0",
+        "row": 123
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "83.14",
+        "message": "Input should be less than or equal to 75",
+        "row": 123
     },
     {
         "field": "temperature",
@@ -72,10 +588,88 @@
         "row": 124
     },
     {
+        "field": "humidity",
+        "invalid_value": "2.35",
+        "message": "Input should be greater than or equal to 20",
+        "row": 124
+    },
+    {
+        "field": "temperature",
+        "invalid_value": "-12.07",
+        "message": "Input should be greater than or equal to 0",
+        "row": 125
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "14.16",
+        "message": "Input should be greater than or equal to 20",
+        "row": 125
+    },
+    {
+        "field": "temperature",
+        "invalid_value": "-5.99",
+        "message": "Input should be greater than or equal to 0",
+        "row": 127
+    },
+    {
+        "field": "temperature",
+        "invalid_value": "-4.05",
+        "message": "Input should be greater than or equal to 0",
+        "row": 128
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "90.58",
+        "message": "Input should be less than or equal to 75",
+        "row": 131
+    },
+    {
         "field": "temperature",
         "invalid_value": "",
         "message": "Input should be a valid number, unable to parse string as a number",
         "row": 133
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "2.24",
+        "message": "Input should be greater than or equal to 20",
+        "row": 134
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "13.16",
+        "message": "Input should be greater than or equal to 20",
+        "row": 135
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "4.13",
+        "message": "Input should be greater than or equal to 20",
+        "row": 136
+    },
+    {
+        "field": "temperature",
+        "invalid_value": "-0.6",
+        "message": "Input should be greater than or equal to 0",
+        "row": 137
+    },
+    {
+        "field": "temperature",
+        "invalid_value": "-8.0",
+        "message": "Input should be greater than or equal to 0",
+        "row": 139
+    },
+    {
+        "field": "temperature",
+        "invalid_value": "-6.97",
+        "message": "Input should be greater than or equal to 0",
+        "row": 143
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "97.21",
+        "message": "Input should be less than or equal to 75",
+        "row": 143
     },
     {
         "field": "temperature",
@@ -85,15 +679,135 @@
     },
     {
         "field": "temperature",
+        "invalid_value": "-19.04",
+        "message": "Input should be greater than or equal to 0",
+        "row": 145
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "87.08",
+        "message": "Input should be less than or equal to 75",
+        "row": 145
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "12.04",
+        "message": "Input should be greater than or equal to 20",
+        "row": 149
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "",
+        "message": "Input should be a valid number, unable to parse string as a number",
+        "row": 151
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "14.56",
+        "message": "Input should be greater than or equal to 20",
+        "row": 152
+    },
+    {
+        "field": "temperature",
+        "invalid_value": "-7.36",
+        "message": "Input should be greater than or equal to 0",
+        "row": 154
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "10.11",
+        "message": "Input should be greater than or equal to 20",
+        "row": 154
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "11.28",
+        "message": "Input should be greater than or equal to 20",
+        "row": 155
+    },
+    {
+        "field": "temperature",
+        "invalid_value": "-7.38",
+        "message": "Input should be greater than or equal to 0",
+        "row": 157
+    },
+    {
+        "field": "temperature",
+        "invalid_value": "-18.84",
+        "message": "Input should be greater than or equal to 0",
+        "row": 158
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "14.45",
+        "message": "Input should be greater than or equal to 20",
+        "row": 161
+    },
+    {
+        "field": "temperature",
+        "invalid_value": "-10.02",
+        "message": "Input should be greater than or equal to 0",
+        "row": 163
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "92.75",
+        "message": "Input should be less than or equal to 75",
+        "row": 163
+    },
+    {
+        "field": "temperature",
         "invalid_value": "",
         "message": "Input should be a valid number, unable to parse string as a number",
         "row": 164
     },
     {
         "field": "temperature",
+        "invalid_value": "-8.17",
+        "message": "Input should be greater than or equal to 0",
+        "row": 165
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "",
+        "message": "Input should be a valid number, unable to parse string as a number",
+        "row": 165
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "79.14",
+        "message": "Input should be less than or equal to 75",
+        "row": 167
+    },
+    {
+        "field": "temperature",
+        "invalid_value": "-6.62",
+        "message": "Input should be greater than or equal to 0",
+        "row": 168
+    },
+    {
+        "field": "temperature",
         "invalid_value": "",
         "message": "Input should be a valid number, unable to parse string as a number",
         "row": 171
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "",
+        "message": "Input should be a valid number, unable to parse string as a number",
+        "row": 171
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "93.64",
+        "message": "Input should be less than or equal to 75",
+        "row": 172
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "7.73",
+        "message": "Input should be greater than or equal to 20",
+        "row": 174
     },
     {
         "field": "temperature",
@@ -108,10 +822,52 @@
         "row": 176
     },
     {
+        "field": "humidity",
+        "invalid_value": "9.49",
+        "message": "Input should be greater than or equal to 20",
+        "row": 176
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "11.09",
+        "message": "Input should be greater than or equal to 20",
+        "row": 177
+    },
+    {
+        "field": "temperature",
+        "invalid_value": "-6.05",
+        "message": "Input should be greater than or equal to 0",
+        "row": 178
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "79.71",
+        "message": "Input should be less than or equal to 75",
+        "row": 178
+    },
+    {
+        "field": "temperature",
+        "invalid_value": "-15.65",
+        "message": "Input should be greater than or equal to 0",
+        "row": 180
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "95.76",
+        "message": "Input should be less than or equal to 75",
+        "row": 181
+    },
+    {
         "field": "temperature",
         "invalid_value": "",
         "message": "Input should be a valid number, unable to parse string as a number",
         "row": 182
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "84.21",
+        "message": "Input should be less than or equal to 75",
+        "row": 183
     },
     {
         "field": "temperature",
@@ -120,10 +876,226 @@
         "row": 184
     },
     {
+        "field": "humidity",
+        "invalid_value": "",
+        "message": "Input should be a valid number, unable to parse string as a number",
+        "row": 185
+    },
+    {
+        "field": "temperature",
+        "invalid_value": "-10.47",
+        "message": "Input should be greater than or equal to 0",
+        "row": 186
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "3.92",
+        "message": "Input should be greater than or equal to 20",
+        "row": 186
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "10.91",
+        "message": "Input should be greater than or equal to 20",
+        "row": 187
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "96.83",
+        "message": "Input should be less than or equal to 75",
+        "row": 188
+    },
+    {
+        "field": "temperature",
+        "invalid_value": "-15.46",
+        "message": "Input should be greater than or equal to 0",
+        "row": 189
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "8.1",
+        "message": "Input should be greater than or equal to 20",
+        "row": 192
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "8.54",
+        "message": "Input should be greater than or equal to 20",
+        "row": 194
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "16.91",
+        "message": "Input should be greater than or equal to 20",
+        "row": 195
+    },
+    {
+        "field": "temperature",
+        "invalid_value": "-14.41",
+        "message": "Input should be greater than or equal to 0",
+        "row": 197
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "80.78",
+        "message": "Input should be less than or equal to 75",
+        "row": 198
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "",
+        "message": "Input should be a valid number, unable to parse string as a number",
+        "row": 199
+    },
+    {
+        "field": "temperature",
+        "invalid_value": "-15.7",
+        "message": "Input should be greater than or equal to 0",
+        "row": 200
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "93.26",
+        "message": "Input should be less than or equal to 75",
+        "row": 200
+    },
+    {
         "field": "temperature",
         "invalid_value": "",
         "message": "Input should be a valid number, unable to parse string as a number",
         "row": 201
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "96.58",
+        "message": "Input should be less than or equal to 75",
+        "row": 201
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "8.95",
+        "message": "Input should be greater than or equal to 20",
+        "row": 203
+    },
+    {
+        "field": "temperature",
+        "invalid_value": "-12.85",
+        "message": "Input should be greater than or equal to 0",
+        "row": 204
+    },
+    {
+        "field": "temperature",
+        "invalid_value": "-10.04",
+        "message": "Input should be greater than or equal to 0",
+        "row": 206
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "12.8",
+        "message": "Input should be greater than or equal to 20",
+        "row": 206
+    },
+    {
+        "field": "temperature",
+        "invalid_value": "-19.09",
+        "message": "Input should be greater than or equal to 0",
+        "row": 208
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "11.62",
+        "message": "Input should be greater than or equal to 20",
+        "row": 208
+    },
+    {
+        "field": "temperature",
+        "invalid_value": "-16.57",
+        "message": "Input should be greater than or equal to 0",
+        "row": 209
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "98.31",
+        "message": "Input should be less than or equal to 75",
+        "row": 209
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "92.28",
+        "message": "Input should be less than or equal to 75",
+        "row": 211
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "83.51",
+        "message": "Input should be less than or equal to 75",
+        "row": 212
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "95.0",
+        "message": "Input should be less than or equal to 75",
+        "row": 214
+    },
+    {
+        "field": "temperature",
+        "invalid_value": "-19.11",
+        "message": "Input should be greater than or equal to 0",
+        "row": 215
+    },
+    {
+        "field": "temperature",
+        "invalid_value": "-2.14",
+        "message": "Input should be greater than or equal to 0",
+        "row": 217
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "93.3",
+        "message": "Input should be less than or equal to 75",
+        "row": 217
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "",
+        "message": "Input should be a valid number, unable to parse string as a number",
+        "row": 219
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "4.14",
+        "message": "Input should be greater than or equal to 20",
+        "row": 220
+    },
+    {
+        "field": "temperature",
+        "invalid_value": "-12.98",
+        "message": "Input should be greater than or equal to 0",
+        "row": 221
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "90.3",
+        "message": "Input should be less than or equal to 75",
+        "row": 223
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "",
+        "message": "Input should be a valid number, unable to parse string as a number",
+        "row": 225
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "8.02",
+        "message": "Input should be greater than or equal to 20",
+        "row": 227
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "78.81",
+        "message": "Input should be less than or equal to 75",
+        "row": 228
     },
     {
         "field": "temperature",
@@ -132,10 +1104,58 @@
         "row": 231
     },
     {
+        "field": "humidity",
+        "invalid_value": "76.94",
+        "message": "Input should be less than or equal to 75",
+        "row": 233
+    },
+    {
+        "field": "temperature",
+        "invalid_value": "-2.71",
+        "message": "Input should be greater than or equal to 0",
+        "row": 237
+    },
+    {
+        "field": "temperature",
+        "invalid_value": "-13.05",
+        "message": "Input should be greater than or equal to 0",
+        "row": 238
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "91.48",
+        "message": "Input should be less than or equal to 75",
+        "row": 238
+    },
+    {
+        "field": "temperature",
+        "invalid_value": "-14.73",
+        "message": "Input should be greater than or equal to 0",
+        "row": 239
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "87.86",
+        "message": "Input should be less than or equal to 75",
+        "row": 239
+    },
+    {
         "field": "temperature",
         "invalid_value": "",
         "message": "Input should be a valid number, unable to parse string as a number",
         "row": 240
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "82.38",
+        "message": "Input should be less than or equal to 75",
+        "row": 240
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "5.12",
+        "message": "Input should be greater than or equal to 20",
+        "row": 241
     },
     {
         "field": "temperature",
@@ -144,16 +1164,334 @@
         "row": 242
     },
     {
+        "field": "humidity",
+        "invalid_value": "77.99",
+        "message": "Input should be less than or equal to 75",
+        "row": 244
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "13.52",
+        "message": "Input should be greater than or equal to 20",
+        "row": 245
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "89.57",
+        "message": "Input should be less than or equal to 75",
+        "row": 246
+    },
+    {
+        "field": "temperature",
+        "invalid_value": "-1.94",
+        "message": "Input should be greater than or equal to 0",
+        "row": 251
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "",
+        "message": "Input should be a valid number, unable to parse string as a number",
+        "row": 251
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "81.86",
+        "message": "Input should be less than or equal to 75",
+        "row": 253
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "17.05",
+        "message": "Input should be greater than or equal to 20",
+        "row": 255
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "14.92",
+        "message": "Input should be greater than or equal to 20",
+        "row": 256
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "77.65",
+        "message": "Input should be less than or equal to 75",
+        "row": 257
+    },
+    {
+        "field": "temperature",
+        "invalid_value": "-1.14",
+        "message": "Input should be greater than or equal to 0",
+        "row": 258
+    },
+    {
         "field": "temperature",
         "invalid_value": "",
         "message": "Input should be a valid number, unable to parse string as a number",
         "row": 261
     },
     {
+        "field": "humidity",
+        "invalid_value": "84.98",
+        "message": "Input should be less than or equal to 75",
+        "row": 261
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "15.98",
+        "message": "Input should be greater than or equal to 20",
+        "row": 263
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "94.3",
+        "message": "Input should be less than or equal to 75",
+        "row": 265
+    },
+    {
+        "field": "temperature",
+        "invalid_value": "-5.44",
+        "message": "Input should be greater than or equal to 0",
+        "row": 266
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "89.86",
+        "message": "Input should be less than or equal to 75",
+        "row": 267
+    },
+    {
+        "field": "temperature",
+        "invalid_value": "-7.7",
+        "message": "Input should be greater than or equal to 0",
+        "row": 269
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "7.02",
+        "message": "Input should be greater than or equal to 20",
+        "row": 269
+    },
+    {
+        "field": "temperature",
+        "invalid_value": "-12.16",
+        "message": "Input should be greater than or equal to 0",
+        "row": 270
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "19.22",
+        "message": "Input should be greater than or equal to 20",
+        "row": 271
+    },
+    {
+        "field": "temperature",
+        "invalid_value": "-3.88",
+        "message": "Input should be greater than or equal to 0",
+        "row": 272
+    },
+    {
+        "field": "temperature",
+        "invalid_value": "-9.55",
+        "message": "Input should be greater than or equal to 0",
+        "row": 273
+    },
+    {
+        "field": "temperature",
+        "invalid_value": "-6.72",
+        "message": "Input should be greater than or equal to 0",
+        "row": 274
+    },
+    {
+        "field": "temperature",
+        "invalid_value": "-1.97",
+        "message": "Input should be greater than or equal to 0",
+        "row": 275
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "1.26",
+        "message": "Input should be greater than or equal to 20",
+        "row": 275
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "86.07",
+        "message": "Input should be less than or equal to 75",
+        "row": 276
+    },
+    {
+        "field": "temperature",
+        "invalid_value": "-9.09",
+        "message": "Input should be greater than or equal to 0",
+        "row": 277
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "11.73",
+        "message": "Input should be greater than or equal to 20",
+        "row": 278
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "89.66",
+        "message": "Input should be less than or equal to 75",
+        "row": 281
+    },
+    {
+        "field": "temperature",
+        "invalid_value": "-8.27",
+        "message": "Input should be greater than or equal to 0",
+        "row": 282
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "",
+        "message": "Input should be a valid number, unable to parse string as a number",
+        "row": 282
+    },
+    {
+        "field": "temperature",
+        "invalid_value": "-2.98",
+        "message": "Input should be greater than or equal to 0",
+        "row": 283
+    },
+    {
+        "field": "temperature",
+        "invalid_value": "-17.45",
+        "message": "Input should be greater than or equal to 0",
+        "row": 284
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "12.08",
+        "message": "Input should be greater than or equal to 20",
+        "row": 284
+    },
+    {
+        "field": "temperature",
+        "invalid_value": "-18.65",
+        "message": "Input should be greater than or equal to 0",
+        "row": 285
+    },
+    {
+        "field": "temperature",
+        "invalid_value": "-14.94",
+        "message": "Input should be greater than or equal to 0",
+        "row": 288
+    },
+    {
+        "field": "temperature",
+        "invalid_value": "-13.84",
+        "message": "Input should be greater than or equal to 0",
+        "row": 289
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "",
+        "message": "Input should be a valid number, unable to parse string as a number",
+        "row": 291
+    },
+    {
+        "field": "temperature",
+        "invalid_value": "-1.22",
+        "message": "Input should be greater than or equal to 0",
+        "row": 292
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "98.62",
+        "message": "Input should be less than or equal to 75",
+        "row": 292
+    },
+    {
+        "field": "temperature",
+        "invalid_value": "-1.75",
+        "message": "Input should be greater than or equal to 0",
+        "row": 293
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "89.08",
+        "message": "Input should be less than or equal to 75",
+        "row": 293
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "77.19",
+        "message": "Input should be less than or equal to 75",
+        "row": 294
+    },
+    {
         "field": "temperature",
         "invalid_value": "",
         "message": "Input should be a valid number, unable to parse string as a number",
         "row": 295
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "4.88",
+        "message": "Input should be greater than or equal to 20",
+        "row": 295
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "85.51",
+        "message": "Input should be less than or equal to 75",
+        "row": 297
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "95.95",
+        "message": "Input should be less than or equal to 75",
+        "row": 299
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "4.19",
+        "message": "Input should be greater than or equal to 20",
+        "row": 300
+    },
+    {
+        "field": "temperature",
+        "invalid_value": "-16.12",
+        "message": "Input should be greater than or equal to 0",
+        "row": 301
+    },
+    {
+        "field": "temperature",
+        "invalid_value": "-19.36",
+        "message": "Input should be greater than or equal to 0",
+        "row": 302
+    },
+    {
+        "field": "temperature",
+        "invalid_value": "-18.13",
+        "message": "Input should be greater than or equal to 0",
+        "row": 303
+    },
+    {
+        "field": "temperature",
+        "invalid_value": "-18.99",
+        "message": "Input should be greater than or equal to 0",
+        "row": 304
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "98.33",
+        "message": "Input should be less than or equal to 75",
+        "row": 305
+    },
+    {
+        "field": "temperature",
+        "invalid_value": "-9.68",
+        "message": "Input should be greater than or equal to 0",
+        "row": 306
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "86.51",
+        "message": "Input should be less than or equal to 75",
+        "row": 306
     },
     {
         "field": "temperature",
@@ -163,14 +1501,248 @@
     },
     {
         "field": "temperature",
+        "invalid_value": "-0.85",
+        "message": "Input should be greater than or equal to 0",
+        "row": 309
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "93.2",
+        "message": "Input should be less than or equal to 75",
+        "row": 309
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "2.65",
+        "message": "Input should be greater than or equal to 20",
+        "row": 312
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "93.71",
+        "message": "Input should be less than or equal to 75",
+        "row": 313
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "",
+        "message": "Input should be a valid number, unable to parse string as a number",
+        "row": 315
+    },
+    {
+        "field": "temperature",
+        "invalid_value": "-5.4",
+        "message": "Input should be greater than or equal to 0",
+        "row": 316
+    },
+    {
+        "field": "temperature",
+        "invalid_value": "-3.79",
+        "message": "Input should be greater than or equal to 0",
+        "row": 317
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "93.83",
+        "message": "Input should be less than or equal to 75",
+        "row": 317
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "95.69",
+        "message": "Input should be less than or equal to 75",
+        "row": 318
+    },
+    {
+        "field": "temperature",
+        "invalid_value": "-11.64",
+        "message": "Input should be greater than or equal to 0",
+        "row": 319
+    },
+    {
+        "field": "temperature",
+        "invalid_value": "-7.17",
+        "message": "Input should be greater than or equal to 0",
+        "row": 321
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "95.57",
+        "message": "Input should be less than or equal to 75",
+        "row": 321
+    },
+    {
+        "field": "temperature",
+        "invalid_value": "-14.53",
+        "message": "Input should be greater than or equal to 0",
+        "row": 323
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "93.24",
+        "message": "Input should be less than or equal to 75",
+        "row": 324
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "10.04",
+        "message": "Input should be greater than or equal to 20",
+        "row": 325
+    },
+    {
+        "field": "temperature",
+        "invalid_value": "-15.37",
+        "message": "Input should be greater than or equal to 0",
+        "row": 326
+    },
+    {
+        "field": "temperature",
+        "invalid_value": "-10.93",
+        "message": "Input should be greater than or equal to 0",
+        "row": 327
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "7.71",
+        "message": "Input should be greater than or equal to 20",
+        "row": 327
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "15.37",
+        "message": "Input should be greater than or equal to 20",
+        "row": 329
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "4.58",
+        "message": "Input should be greater than or equal to 20",
+        "row": 331
+    },
+    {
+        "field": "temperature",
         "invalid_value": "",
         "message": "Input should be a valid number, unable to parse string as a number",
         "row": 332
     },
     {
         "field": "temperature",
+        "invalid_value": "-2.16",
+        "message": "Input should be greater than or equal to 0",
+        "row": 335
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "8.16",
+        "message": "Input should be greater than or equal to 20",
+        "row": 335
+    },
+    {
+        "field": "temperature",
+        "invalid_value": "-15.23",
+        "message": "Input should be greater than or equal to 0",
+        "row": 336
+    },
+    {
+        "field": "temperature",
+        "invalid_value": "-2.36",
+        "message": "Input should be greater than or equal to 0",
+        "row": 338
+    },
+    {
+        "field": "humidity",
         "invalid_value": "",
         "message": "Input should be a valid number, unable to parse string as a number",
+        "row": 338
+    },
+    {
+        "field": "temperature",
+        "invalid_value": "-15.07",
+        "message": "Input should be greater than or equal to 0",
+        "row": 339
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "2.67",
+        "message": "Input should be greater than or equal to 20",
+        "row": 339
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "2.43",
+        "message": "Input should be greater than or equal to 20",
+        "row": 340
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "",
+        "message": "Input should be a valid number, unable to parse string as a number",
+        "row": 341
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "78.2",
+        "message": "Input should be less than or equal to 75",
+        "row": 342
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "9.88",
+        "message": "Input should be greater than or equal to 20",
+        "row": 343
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "92.8",
+        "message": "Input should be less than or equal to 75",
+        "row": 344
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "11.19",
+        "message": "Input should be greater than or equal to 20",
+        "row": 345
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "78.92",
+        "message": "Input should be less than or equal to 75",
+        "row": 346
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "15.92",
+        "message": "Input should be greater than or equal to 20",
+        "row": 348
+    },
+    {
+        "field": "temperature",
+        "invalid_value": "-18.93",
+        "message": "Input should be greater than or equal to 0",
+        "row": 349
+    },
+    {
+        "field": "temperature",
+        "invalid_value": "-18.22",
+        "message": "Input should be greater than or equal to 0",
+        "row": 350
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "86.72",
+        "message": "Input should be less than or equal to 75",
+        "row": 352
+    },
+    {
+        "field": "temperature",
+        "invalid_value": "",
+        "message": "Input should be a valid number, unable to parse string as a number",
+        "row": 353
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "92.85",
+        "message": "Input should be less than or equal to 75",
         "row": 353
     },
     {
@@ -180,16 +1752,178 @@
         "row": 354
     },
     {
+        "field": "humidity",
+        "invalid_value": "99.23",
+        "message": "Input should be less than or equal to 75",
+        "row": 354
+    },
+    {
+        "field": "temperature",
+        "invalid_value": "-5.81",
+        "message": "Input should be greater than or equal to 0",
+        "row": 355
+    },
+    {
+        "field": "temperature",
+        "invalid_value": "-15.32",
+        "message": "Input should be greater than or equal to 0",
+        "row": 357
+    },
+    {
         "field": "temperature",
         "invalid_value": "",
         "message": "Input should be a valid number, unable to parse string as a number",
         "row": 359
     },
     {
+        "field": "humidity",
+        "invalid_value": "88.85",
+        "message": "Input should be less than or equal to 75",
+        "row": 359
+    },
+    {
+        "field": "temperature",
+        "invalid_value": "-2.12",
+        "message": "Input should be greater than or equal to 0",
+        "row": 361
+    },
+    {
+        "field": "temperature",
+        "invalid_value": "-13.65",
+        "message": "Input should be greater than or equal to 0",
+        "row": 362
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "95.31",
+        "message": "Input should be less than or equal to 75",
+        "row": 365
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "15.33",
+        "message": "Input should be greater than or equal to 20",
+        "row": 369
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "2.01",
+        "message": "Input should be greater than or equal to 20",
+        "row": 370
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "97.81",
+        "message": "Input should be less than or equal to 75",
+        "row": 372
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "76.8",
+        "message": "Input should be less than or equal to 75",
+        "row": 373
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "",
+        "message": "Input should be a valid number, unable to parse string as a number",
+        "row": 375
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "9.15",
+        "message": "Input should be greater than or equal to 20",
+        "row": 376
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "3.47",
+        "message": "Input should be greater than or equal to 20",
+        "row": 379
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "90.8",
+        "message": "Input should be less than or equal to 75",
+        "row": 380
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "91.6",
+        "message": "Input should be less than or equal to 75",
+        "row": 381
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "19.45",
+        "message": "Input should be greater than or equal to 20",
+        "row": 382
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "98.52",
+        "message": "Input should be less than or equal to 75",
+        "row": 386
+    },
+    {
+        "field": "temperature",
+        "invalid_value": "-9.61",
+        "message": "Input should be greater than or equal to 0",
+        "row": 387
+    },
+    {
         "field": "temperature",
         "invalid_value": "",
         "message": "Input should be a valid number, unable to parse string as a number",
         "row": 388
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "6.7",
+        "message": "Input should be greater than or equal to 20",
+        "row": 389
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "",
+        "message": "Input should be a valid number, unable to parse string as a number",
+        "row": 391
+    },
+    {
+        "field": "temperature",
+        "invalid_value": "-8.05",
+        "message": "Input should be greater than or equal to 0",
+        "row": 393
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "86.52",
+        "message": "Input should be less than or equal to 75",
+        "row": 393
+    },
+    {
+        "field": "temperature",
+        "invalid_value": "-19.17",
+        "message": "Input should be greater than or equal to 0",
+        "row": 395
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "83.5",
+        "message": "Input should be less than or equal to 75",
+        "row": 395
+    },
+    {
+        "field": "temperature",
+        "invalid_value": "-19.83",
+        "message": "Input should be greater than or equal to 0",
+        "row": 396
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "86.93",
+        "message": "Input should be less than or equal to 75",
+        "row": 397
     },
     {
         "field": "temperature",
@@ -204,10 +1938,160 @@
         "row": 403
     },
     {
+        "field": "humidity",
+        "invalid_value": "75.32",
+        "message": "Input should be less than or equal to 75",
+        "row": 403
+    },
+    {
+        "field": "temperature",
+        "invalid_value": "-17.26",
+        "message": "Input should be greater than or equal to 0",
+        "row": 406
+    },
+    {
+        "field": "temperature",
+        "invalid_value": "-2.34",
+        "message": "Input should be greater than or equal to 0",
+        "row": 407
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "",
+        "message": "Input should be a valid number, unable to parse string as a number",
+        "row": 407
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "76.43",
+        "message": "Input should be less than or equal to 75",
+        "row": 410
+    },
+    {
         "field": "temperature",
         "invalid_value": "",
         "message": "Input should be a valid number, unable to parse string as a number",
         "row": 412
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "13.14",
+        "message": "Input should be greater than or equal to 20",
+        "row": 412
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "13.27",
+        "message": "Input should be greater than or equal to 20",
+        "row": 413
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "",
+        "message": "Input should be a valid number, unable to parse string as a number",
+        "row": 414
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "1.54",
+        "message": "Input should be greater than or equal to 20",
+        "row": 416
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "85.1",
+        "message": "Input should be less than or equal to 75",
+        "row": 417
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "92.23",
+        "message": "Input should be less than or equal to 75",
+        "row": 420
+    },
+    {
+        "field": "temperature",
+        "invalid_value": "-13.05",
+        "message": "Input should be greater than or equal to 0",
+        "row": 421
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "96.69",
+        "message": "Input should be less than or equal to 75",
+        "row": 421
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "76.27",
+        "message": "Input should be less than or equal to 75",
+        "row": 423
+    },
+    {
+        "field": "temperature",
+        "invalid_value": "-5.55",
+        "message": "Input should be greater than or equal to 0",
+        "row": 424
+    },
+    {
+        "field": "temperature",
+        "invalid_value": "-6.19",
+        "message": "Input should be greater than or equal to 0",
+        "row": 427
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "81.15",
+        "message": "Input should be less than or equal to 75",
+        "row": 427
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "9.6",
+        "message": "Input should be greater than or equal to 20",
+        "row": 428
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "76.46",
+        "message": "Input should be less than or equal to 75",
+        "row": 429
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "9.76",
+        "message": "Input should be greater than or equal to 20",
+        "row": 430
+    },
+    {
+        "field": "temperature",
+        "invalid_value": "-18.52",
+        "message": "Input should be greater than or equal to 0",
+        "row": 433
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "",
+        "message": "Input should be a valid number, unable to parse string as a number",
+        "row": 436
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "85.09",
+        "message": "Input should be less than or equal to 75",
+        "row": 437
+    },
+    {
+        "field": "temperature",
+        "invalid_value": "-1.45",
+        "message": "Input should be greater than or equal to 0",
+        "row": 438
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "93.82",
+        "message": "Input should be less than or equal to 75",
+        "row": 438
     },
     {
         "field": "temperature",
@@ -216,10 +2100,136 @@
         "row": 441
     },
     {
+        "field": "humidity",
+        "invalid_value": "",
+        "message": "Input should be a valid number, unable to parse string as a number",
+        "row": 441
+    },
+    {
+        "field": "temperature",
+        "invalid_value": "-1.81",
+        "message": "Input should be greater than or equal to 0",
+        "row": 443
+    },
+    {
+        "field": "temperature",
+        "invalid_value": "-0.19",
+        "message": "Input should be greater than or equal to 0",
+        "row": 444
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "9.91",
+        "message": "Input should be greater than or equal to 20",
+        "row": 445
+    },
+    {
+        "field": "temperature",
+        "invalid_value": "-0.77",
+        "message": "Input should be greater than or equal to 0",
+        "row": 447
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "",
+        "message": "Input should be a valid number, unable to parse string as a number",
+        "row": 447
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "0.61",
+        "message": "Input should be greater than or equal to 20",
+        "row": 449
+    },
+    {
+        "field": "temperature",
+        "invalid_value": "-19.07",
+        "message": "Input should be greater than or equal to 0",
+        "row": 450
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "76.11",
+        "message": "Input should be less than or equal to 75",
+        "row": 450
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "87.34",
+        "message": "Input should be less than or equal to 75",
+        "row": 451
+    },
+    {
+        "field": "temperature",
+        "invalid_value": "-14.08",
+        "message": "Input should be greater than or equal to 0",
+        "row": 452
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "90.32",
+        "message": "Input should be less than or equal to 75",
+        "row": 453
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "83.34",
+        "message": "Input should be less than or equal to 75",
+        "row": 454
+    },
+    {
+        "field": "temperature",
+        "invalid_value": "-16.23",
+        "message": "Input should be greater than or equal to 0",
+        "row": 455
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "86.01",
+        "message": "Input should be less than or equal to 75",
+        "row": 455
+    },
+    {
+        "field": "temperature",
+        "invalid_value": "-6.57",
+        "message": "Input should be greater than or equal to 0",
+        "row": 457
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "5.43",
+        "message": "Input should be greater than or equal to 20",
+        "row": 457
+    },
+    {
+        "field": "temperature",
+        "invalid_value": "-6.42",
+        "message": "Input should be greater than or equal to 0",
+        "row": 458
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "97.79",
+        "message": "Input should be less than or equal to 75",
+        "row": 463
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "12.14",
+        "message": "Input should be greater than or equal to 20",
+        "row": 465
+    },
+    {
         "field": "temperature",
         "invalid_value": "",
         "message": "Input should be a valid number, unable to parse string as a number",
         "row": 468
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "77.81",
+        "message": "Input should be less than or equal to 75",
+        "row": 469
     },
     {
         "field": "temperature",
@@ -228,16 +2238,142 @@
         "row": 470
     },
     {
+        "field": "humidity",
+        "invalid_value": "80.38",
+        "message": "Input should be less than or equal to 75",
+        "row": 470
+    },
+    {
+        "field": "temperature",
+        "invalid_value": "-1.06",
+        "message": "Input should be greater than or equal to 0",
+        "row": 471
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "83.44",
+        "message": "Input should be less than or equal to 75",
+        "row": 471
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "96.41",
+        "message": "Input should be less than or equal to 75",
+        "row": 473
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "17.95",
+        "message": "Input should be greater than or equal to 20",
+        "row": 474
+    },
+    {
+        "field": "temperature",
+        "invalid_value": "-11.71",
+        "message": "Input should be greater than or equal to 0",
+        "row": 475
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "12.8",
+        "message": "Input should be greater than or equal to 20",
+        "row": 475
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "",
+        "message": "Input should be a valid number, unable to parse string as a number",
+        "row": 476
+    },
+    {
         "field": "temperature",
         "invalid_value": "",
         "message": "Input should be a valid number, unable to parse string as a number",
         "row": 477
     },
     {
+        "field": "humidity",
+        "invalid_value": "4.38",
+        "message": "Input should be greater than or equal to 20",
+        "row": 477
+    },
+    {
+        "field": "temperature",
+        "invalid_value": "-12.02",
+        "message": "Input should be greater than or equal to 0",
+        "row": 479
+    },
+    {
+        "field": "temperature",
+        "invalid_value": "-2.96",
+        "message": "Input should be greater than or equal to 0",
+        "row": 483
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "12.63",
+        "message": "Input should be greater than or equal to 20",
+        "row": 484
+    },
+    {
+        "field": "temperature",
+        "invalid_value": "-16.67",
+        "message": "Input should be greater than or equal to 0",
+        "row": 485
+    },
+    {
+        "field": "temperature",
+        "invalid_value": "-14.02",
+        "message": "Input should be greater than or equal to 0",
+        "row": 486
+    },
+    {
         "field": "temperature",
         "invalid_value": "",
         "message": "Input should be a valid number, unable to parse string as a number",
         "row": 487
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "93.57",
+        "message": "Input should be less than or equal to 75",
+        "row": 490
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "19.05",
+        "message": "Input should be greater than or equal to 20",
+        "row": 491
+    },
+    {
+        "field": "temperature",
+        "invalid_value": "-6.07",
+        "message": "Input should be greater than or equal to 0",
+        "row": 494
+    },
+    {
+        "field": "temperature",
+        "invalid_value": "-12.79",
+        "message": "Input should be greater than or equal to 0",
+        "row": 495
+    },
+    {
+        "field": "temperature",
+        "invalid_value": "-12.25",
+        "message": "Input should be greater than or equal to 0",
+        "row": 496
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "",
+        "message": "Input should be a valid number, unable to parse string as a number",
+        "row": 496
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "92.76",
+        "message": "Input should be less than or equal to 75",
+        "row": 497
     },
     {
         "field": "temperature",
@@ -247,9 +2383,81 @@
     },
     {
         "field": "temperature",
+        "invalid_value": "-3.63",
+        "message": "Input should be greater than or equal to 0",
+        "row": 499
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "",
+        "message": "Input should be a valid number, unable to parse string as a number",
+        "row": 499
+    },
+    {
+        "field": "temperature",
+        "invalid_value": "-3.28",
+        "message": "Input should be greater than or equal to 0",
+        "row": 500
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "83.58",
+        "message": "Input should be less than or equal to 75",
+        "row": 500
+    },
+    {
+        "field": "temperature",
+        "invalid_value": "-13.86",
+        "message": "Input should be greater than or equal to 0",
+        "row": 501
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "1.62",
+        "message": "Input should be greater than or equal to 20",
+        "row": 503
+    },
+    {
+        "field": "temperature",
+        "invalid_value": "-11.31",
+        "message": "Input should be greater than or equal to 0",
+        "row": 505
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "10.92",
+        "message": "Input should be greater than or equal to 20",
+        "row": 505
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "78.26",
+        "message": "Input should be less than or equal to 75",
+        "row": 506
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "87.94",
+        "message": "Input should be less than or equal to 75",
+        "row": 508
+    },
+    {
+        "field": "temperature",
         "invalid_value": "",
         "message": "Input should be a valid number, unable to parse string as a number",
         "row": 509
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "79.96",
+        "message": "Input should be less than or equal to 75",
+        "row": 509
+    },
+    {
+        "field": "temperature",
+        "invalid_value": "-15.88",
+        "message": "Input should be greater than or equal to 0",
+        "row": 510
     },
     {
         "field": "temperature",
@@ -258,10 +2466,52 @@
         "row": 511
     },
     {
+        "field": "humidity",
+        "invalid_value": "3.56",
+        "message": "Input should be greater than or equal to 20",
+        "row": 512
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "",
+        "message": "Input should be a valid number, unable to parse string as a number",
+        "row": 513
+    },
+    {
+        "field": "temperature",
+        "invalid_value": "-7.62",
+        "message": "Input should be greater than or equal to 0",
+        "row": 514
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "3.58",
+        "message": "Input should be greater than or equal to 20",
+        "row": 514
+    },
+    {
         "field": "temperature",
         "invalid_value": "",
         "message": "Input should be a valid number, unable to parse string as a number",
         "row": 515
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "89.9",
+        "message": "Input should be less than or equal to 75",
+        "row": 516
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "95.99",
+        "message": "Input should be less than or equal to 75",
+        "row": 519
+    },
+    {
+        "field": "temperature",
+        "invalid_value": "-19.74",
+        "message": "Input should be greater than or equal to 0",
+        "row": 520
     },
     {
         "field": "temperature",
@@ -270,16 +2520,220 @@
         "row": 521
     },
     {
+        "field": "humidity",
+        "invalid_value": "77.54",
+        "message": "Input should be less than or equal to 75",
+        "row": 521
+    },
+    {
+        "field": "temperature",
+        "invalid_value": "-12.92",
+        "message": "Input should be greater than or equal to 0",
+        "row": 522
+    },
+    {
+        "field": "temperature",
+        "invalid_value": "-17.71",
+        "message": "Input should be greater than or equal to 0",
+        "row": 523
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "2.51",
+        "message": "Input should be greater than or equal to 20",
+        "row": 523
+    },
+    {
+        "field": "temperature",
+        "invalid_value": "-7.5",
+        "message": "Input should be greater than or equal to 0",
+        "row": 524
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "18.87",
+        "message": "Input should be greater than or equal to 20",
+        "row": 524
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "",
+        "message": "Input should be a valid number, unable to parse string as a number",
+        "row": 525
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "83.61",
+        "message": "Input should be less than or equal to 75",
+        "row": 526
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "17.76",
+        "message": "Input should be greater than or equal to 20",
+        "row": 527
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "11.42",
+        "message": "Input should be greater than or equal to 20",
+        "row": 528
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "3.36",
+        "message": "Input should be greater than or equal to 20",
+        "row": 529
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "98.79",
+        "message": "Input should be less than or equal to 75",
+        "row": 531
+    },
+    {
+        "field": "temperature",
+        "invalid_value": "-2.09",
+        "message": "Input should be greater than or equal to 0",
+        "row": 533
+    },
+    {
         "field": "temperature",
         "invalid_value": "",
         "message": "Input should be a valid number, unable to parse string as a number",
         "row": 537
     },
     {
+        "field": "humidity",
+        "invalid_value": "78.8",
+        "message": "Input should be less than or equal to 75",
+        "row": 540
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "",
+        "message": "Input should be a valid number, unable to parse string as a number",
+        "row": 541
+    },
+    {
+        "field": "temperature",
+        "invalid_value": "-1.62",
+        "message": "Input should be greater than or equal to 0",
+        "row": 542
+    },
+    {
+        "field": "temperature",
+        "invalid_value": "-3.49",
+        "message": "Input should be greater than or equal to 0",
+        "row": 543
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "0.92",
+        "message": "Input should be greater than or equal to 20",
+        "row": 543
+    },
+    {
+        "field": "temperature",
+        "invalid_value": "-0.75",
+        "message": "Input should be greater than or equal to 0",
+        "row": 544
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "82.16",
+        "message": "Input should be less than or equal to 75",
+        "row": 545
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "97.68",
+        "message": "Input should be less than or equal to 75",
+        "row": 546
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "76.35",
+        "message": "Input should be less than or equal to 75",
+        "row": 547
+    },
+    {
+        "field": "temperature",
+        "invalid_value": "-17.83",
+        "message": "Input should be greater than or equal to 0",
+        "row": 548
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "82.64",
+        "message": "Input should be less than or equal to 75",
+        "row": 548
+    },
+    {
+        "field": "temperature",
+        "invalid_value": "-18.09",
+        "message": "Input should be greater than or equal to 0",
+        "row": 549
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "93.38",
+        "message": "Input should be less than or equal to 75",
+        "row": 549
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "12.5",
+        "message": "Input should be greater than or equal to 20",
+        "row": 550
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "17.17",
+        "message": "Input should be greater than or equal to 20",
+        "row": 551
+    },
+    {
+        "field": "temperature",
+        "invalid_value": "-9.69",
+        "message": "Input should be greater than or equal to 0",
+        "row": 553
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "84.74",
+        "message": "Input should be less than or equal to 75",
+        "row": 554
+    },
+    {
+        "field": "temperature",
+        "invalid_value": "-18.09",
+        "message": "Input should be greater than or equal to 0",
+        "row": 556
+    },
+    {
+        "field": "temperature",
+        "invalid_value": "-2.84",
+        "message": "Input should be greater than or equal to 0",
+        "row": 557
+    },
+    {
         "field": "temperature",
         "invalid_value": "",
         "message": "Input should be a valid number, unable to parse string as a number",
         "row": 558
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "10.04",
+        "message": "Input should be greater than or equal to 20",
+        "row": 558
+    },
+    {
+        "field": "temperature",
+        "invalid_value": "-18.57",
+        "message": "Input should be greater than or equal to 0",
+        "row": 559
     },
     {
         "field": "temperature",
@@ -294,10 +2748,106 @@
         "row": 561
     },
     {
+        "field": "humidity",
+        "invalid_value": "84.81",
+        "message": "Input should be less than or equal to 75",
+        "row": 562
+    },
+    {
+        "field": "temperature",
+        "invalid_value": "-1.69",
+        "message": "Input should be greater than or equal to 0",
+        "row": 563
+    },
+    {
         "field": "temperature",
         "invalid_value": "",
         "message": "Input should be a valid number, unable to parse string as a number",
         "row": 565
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "0.02",
+        "message": "Input should be greater than or equal to 20",
+        "row": 565
+    },
+    {
+        "field": "temperature",
+        "invalid_value": "-14.47",
+        "message": "Input should be greater than or equal to 0",
+        "row": 566
+    },
+    {
+        "field": "temperature",
+        "invalid_value": "-16.3",
+        "message": "Input should be greater than or equal to 0",
+        "row": 567
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "84.52",
+        "message": "Input should be less than or equal to 75",
+        "row": 567
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "14.89",
+        "message": "Input should be greater than or equal to 20",
+        "row": 568
+    },
+    {
+        "field": "temperature",
+        "invalid_value": "-9.9",
+        "message": "Input should be greater than or equal to 0",
+        "row": 569
+    },
+    {
+        "field": "temperature",
+        "invalid_value": "-1.61",
+        "message": "Input should be greater than or equal to 0",
+        "row": 571
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "84.62",
+        "message": "Input should be less than or equal to 75",
+        "row": 572
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "77.1",
+        "message": "Input should be less than or equal to 75",
+        "row": 574
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "19.56",
+        "message": "Input should be greater than or equal to 20",
+        "row": 575
+    },
+    {
+        "field": "temperature",
+        "invalid_value": "-3.73",
+        "message": "Input should be greater than or equal to 0",
+        "row": 576
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "96.67",
+        "message": "Input should be less than or equal to 75",
+        "row": 577
+    },
+    {
+        "field": "temperature",
+        "invalid_value": "-18.98",
+        "message": "Input should be greater than or equal to 0",
+        "row": 578
+    },
+    {
+        "field": "temperature",
+        "invalid_value": "-8.14",
+        "message": "Input should be greater than or equal to 0",
+        "row": 583
     },
     {
         "field": "temperature",
@@ -306,15 +2856,51 @@
         "row": 584
     },
     {
+        "field": "humidity",
+        "invalid_value": "99.18",
+        "message": "Input should be less than or equal to 75",
+        "row": 584
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "16.67",
+        "message": "Input should be greater than or equal to 20",
+        "row": 585
+    },
+    {
         "field": "temperature",
         "invalid_value": "",
         "message": "Input should be a valid number, unable to parse string as a number",
         "row": 586
     },
     {
+        "field": "humidity",
+        "invalid_value": "88.33",
+        "message": "Input should be less than or equal to 75",
+        "row": 587
+    },
+    {
+        "field": "temperature",
+        "invalid_value": "-11.65",
+        "message": "Input should be greater than or equal to 0",
+        "row": 588
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "90.84",
+        "message": "Input should be less than or equal to 75",
+        "row": 588
+    },
+    {
         "field": "temperature",
         "invalid_value": "",
         "message": "Input should be a valid number, unable to parse string as a number",
+        "row": 589
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "4.11",
+        "message": "Input should be greater than or equal to 20",
         "row": 589
     },
     {
@@ -324,6 +2910,24 @@
         "row": 590
     },
     {
+        "field": "humidity",
+        "invalid_value": "8.13",
+        "message": "Input should be greater than or equal to 20",
+        "row": 590
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "9.97",
+        "message": "Input should be greater than or equal to 20",
+        "row": 591
+    },
+    {
+        "field": "temperature",
+        "invalid_value": "-18.12",
+        "message": "Input should be greater than or equal to 0",
+        "row": 592
+    },
+    {
         "field": "temperature",
         "invalid_value": "",
         "message": "Input should be a valid number, unable to parse string as a number",
@@ -331,9 +2935,111 @@
     },
     {
         "field": "temperature",
+        "invalid_value": "-13.19",
+        "message": "Input should be greater than or equal to 0",
+        "row": 594
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "96.44",
+        "message": "Input should be less than or equal to 75",
+        "row": 594
+    },
+    {
+        "field": "temperature",
         "invalid_value": "",
         "message": "Input should be a valid number, unable to parse string as a number",
         "row": 595
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "80.94",
+        "message": "Input should be less than or equal to 75",
+        "row": 595
+    },
+    {
+        "field": "temperature",
+        "invalid_value": "-10.66",
+        "message": "Input should be greater than or equal to 0",
+        "row": 602
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "17.41",
+        "message": "Input should be greater than or equal to 20",
+        "row": 602
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "88.71",
+        "message": "Input should be less than or equal to 75",
+        "row": 604
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "15.19",
+        "message": "Input should be greater than or equal to 20",
+        "row": 605
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "12.88",
+        "message": "Input should be greater than or equal to 20",
+        "row": 606
+    },
+    {
+        "field": "temperature",
+        "invalid_value": "-16.1",
+        "message": "Input should be greater than or equal to 0",
+        "row": 608
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "1.17",
+        "message": "Input should be greater than or equal to 20",
+        "row": 608
+    },
+    {
+        "field": "temperature",
+        "invalid_value": "-14.49",
+        "message": "Input should be greater than or equal to 0",
+        "row": 609
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "82.55",
+        "message": "Input should be less than or equal to 75",
+        "row": 609
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "17.03",
+        "message": "Input should be greater than or equal to 20",
+        "row": 612
+    },
+    {
+        "field": "temperature",
+        "invalid_value": "-19.01",
+        "message": "Input should be greater than or equal to 0",
+        "row": 613
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "8.74",
+        "message": "Input should be greater than or equal to 20",
+        "row": 613
+    },
+    {
+        "field": "temperature",
+        "invalid_value": "-6.27",
+        "message": "Input should be greater than or equal to 0",
+        "row": 617
+    },
+    {
+        "field": "temperature",
+        "invalid_value": "-13.7",
+        "message": "Input should be greater than or equal to 0",
+        "row": 618
     },
     {
         "field": "temperature",
@@ -343,9 +3049,201 @@
     },
     {
         "field": "temperature",
+        "invalid_value": "-19.29",
+        "message": "Input should be greater than or equal to 0",
+        "row": 620
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "93.19",
+        "message": "Input should be less than or equal to 75",
+        "row": 621
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "2.53",
+        "message": "Input should be greater than or equal to 20",
+        "row": 623
+    },
+    {
+        "field": "temperature",
+        "invalid_value": "-1.17",
+        "message": "Input should be greater than or equal to 0",
+        "row": 624
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "80.8",
+        "message": "Input should be less than or equal to 75",
+        "row": 625
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "",
+        "message": "Input should be a valid number, unable to parse string as a number",
+        "row": 627
+    },
+    {
+        "field": "temperature",
         "invalid_value": "",
         "message": "Input should be a valid number, unable to parse string as a number",
         "row": 628
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "98.2",
+        "message": "Input should be less than or equal to 75",
+        "row": 630
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "",
+        "message": "Input should be a valid number, unable to parse string as a number",
+        "row": 631
+    },
+    {
+        "field": "temperature",
+        "invalid_value": "-12.76",
+        "message": "Input should be greater than or equal to 0",
+        "row": 632
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "97.3",
+        "message": "Input should be less than or equal to 75",
+        "row": 632
+    },
+    {
+        "field": "temperature",
+        "invalid_value": "-5.45",
+        "message": "Input should be greater than or equal to 0",
+        "row": 633
+    },
+    {
+        "field": "temperature",
+        "invalid_value": "-13.38",
+        "message": "Input should be greater than or equal to 0",
+        "row": 634
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "86.67",
+        "message": "Input should be less than or equal to 75",
+        "row": 634
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "11.19",
+        "message": "Input should be greater than or equal to 20",
+        "row": 635
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "85.86",
+        "message": "Input should be less than or equal to 75",
+        "row": 637
+    },
+    {
+        "field": "temperature",
+        "invalid_value": "-4.98",
+        "message": "Input should be greater than or equal to 0",
+        "row": 639
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "8.59",
+        "message": "Input should be greater than or equal to 20",
+        "row": 639
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "5.42",
+        "message": "Input should be greater than or equal to 20",
+        "row": 641
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "17.18",
+        "message": "Input should be greater than or equal to 20",
+        "row": 642
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "80.6",
+        "message": "Input should be less than or equal to 75",
+        "row": 643
+    },
+    {
+        "field": "temperature",
+        "invalid_value": "-11.08",
+        "message": "Input should be greater than or equal to 0",
+        "row": 645
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "76.79",
+        "message": "Input should be less than or equal to 75",
+        "row": 645
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "89.43",
+        "message": "Input should be less than or equal to 75",
+        "row": 646
+    },
+    {
+        "field": "temperature",
+        "invalid_value": "-5.28",
+        "message": "Input should be greater than or equal to 0",
+        "row": 647
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "",
+        "message": "Input should be a valid number, unable to parse string as a number",
+        "row": 647
+    },
+    {
+        "field": "temperature",
+        "invalid_value": "-7.25",
+        "message": "Input should be greater than or equal to 0",
+        "row": 648
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "4.44",
+        "message": "Input should be greater than or equal to 20",
+        "row": 648
+    },
+    {
+        "field": "temperature",
+        "invalid_value": "-14.17",
+        "message": "Input should be greater than or equal to 0",
+        "row": 649
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "77.06",
+        "message": "Input should be less than or equal to 75",
+        "row": 649
+    },
+    {
+        "field": "temperature",
+        "invalid_value": "-3.26",
+        "message": "Input should be greater than or equal to 0",
+        "row": 651
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "5.53",
+        "message": "Input should be greater than or equal to 20",
+        "row": 654
+    },
+    {
+        "field": "temperature",
+        "invalid_value": "-2.13",
+        "message": "Input should be greater than or equal to 0",
+        "row": 655
     },
     {
         "field": "temperature",
@@ -354,10 +3252,130 @@
         "row": 656
     },
     {
+        "field": "humidity",
+        "invalid_value": "90.71",
+        "message": "Input should be less than or equal to 75",
+        "row": 658
+    },
+    {
+        "field": "temperature",
+        "invalid_value": "-6.2",
+        "message": "Input should be greater than or equal to 0",
+        "row": 659
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "11.63",
+        "message": "Input should be greater than or equal to 20",
+        "row": 659
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "5.95",
+        "message": "Input should be greater than or equal to 20",
+        "row": 660
+    },
+    {
+        "field": "temperature",
+        "invalid_value": "-13.99",
+        "message": "Input should be greater than or equal to 0",
+        "row": 661
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "4.56",
+        "message": "Input should be greater than or equal to 20",
+        "row": 661
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "7.96",
+        "message": "Input should be greater than or equal to 20",
+        "row": 663
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "0.35",
+        "message": "Input should be greater than or equal to 20",
+        "row": 664
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "95.02",
+        "message": "Input should be less than or equal to 75",
+        "row": 666
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "84.07",
+        "message": "Input should be less than or equal to 75",
+        "row": 667
+    },
+    {
+        "field": "temperature",
+        "invalid_value": "-9.51",
+        "message": "Input should be greater than or equal to 0",
+        "row": 668
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "",
+        "message": "Input should be a valid number, unable to parse string as a number",
+        "row": 669
+    },
+    {
+        "field": "temperature",
+        "invalid_value": "-3.24",
+        "message": "Input should be greater than or equal to 0",
+        "row": 671
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "8.9",
+        "message": "Input should be greater than or equal to 20",
+        "row": 671
+    },
+    {
         "field": "temperature",
         "invalid_value": "",
         "message": "Input should be a valid number, unable to parse string as a number",
         "row": 672
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "79.75",
+        "message": "Input should be less than or equal to 75",
+        "row": 673
+    },
+    {
+        "field": "temperature",
+        "invalid_value": "-9.97",
+        "message": "Input should be greater than or equal to 0",
+        "row": 675
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "2.14",
+        "message": "Input should be greater than or equal to 20",
+        "row": 676
+    },
+    {
+        "field": "temperature",
+        "invalid_value": "-4.52",
+        "message": "Input should be greater than or equal to 0",
+        "row": 677
+    },
+    {
+        "field": "temperature",
+        "invalid_value": "-9.57",
+        "message": "Input should be greater than or equal to 0",
+        "row": 680
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "8.22",
+        "message": "Input should be greater than or equal to 20",
+        "row": 680
     },
     {
         "field": "temperature",
@@ -366,10 +3384,70 @@
         "row": 681
     },
     {
+        "field": "humidity",
+        "invalid_value": "90.96",
+        "message": "Input should be less than or equal to 75",
+        "row": 682
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "76.7",
+        "message": "Input should be less than or equal to 75",
+        "row": 683
+    },
+    {
+        "field": "temperature",
+        "invalid_value": "-14.92",
+        "message": "Input should be greater than or equal to 0",
+        "row": 685
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "16.81",
+        "message": "Input should be greater than or equal to 20",
+        "row": 685
+    },
+    {
         "field": "temperature",
         "invalid_value": "",
         "message": "Input should be a valid number, unable to parse string as a number",
         "row": 686
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "95.7",
+        "message": "Input should be less than or equal to 75",
+        "row": 686
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "",
+        "message": "Input should be a valid number, unable to parse string as a number",
+        "row": 687
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "9.65",
+        "message": "Input should be greater than or equal to 20",
+        "row": 688
+    },
+    {
+        "field": "temperature",
+        "invalid_value": "-8.97",
+        "message": "Input should be greater than or equal to 0",
+        "row": 689
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "96.27",
+        "message": "Input should be less than or equal to 75",
+        "row": 689
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "96.51",
+        "message": "Input should be less than or equal to 75",
+        "row": 690
     },
     {
         "field": "temperature",
@@ -378,10 +3456,94 @@
         "row": 692
     },
     {
+        "field": "humidity",
+        "invalid_value": "10.13",
+        "message": "Input should be greater than or equal to 20",
+        "row": 692
+    },
+    {
+        "field": "temperature",
+        "invalid_value": "-15.78",
+        "message": "Input should be greater than or equal to 0",
+        "row": 693
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "17.59",
+        "message": "Input should be greater than or equal to 20",
+        "row": 693
+    },
+    {
         "field": "temperature",
         "invalid_value": "",
         "message": "Input should be a valid number, unable to parse string as a number",
         "row": 695
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "88.72",
+        "message": "Input should be less than or equal to 75",
+        "row": 696
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "9.38",
+        "message": "Input should be greater than or equal to 20",
+        "row": 697
+    },
+    {
+        "field": "temperature",
+        "invalid_value": "-8.62",
+        "message": "Input should be greater than or equal to 0",
+        "row": 698
+    },
+    {
+        "field": "temperature",
+        "invalid_value": "-9.61",
+        "message": "Input should be greater than or equal to 0",
+        "row": 700
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "86.72",
+        "message": "Input should be less than or equal to 75",
+        "row": 700
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "4.08",
+        "message": "Input should be greater than or equal to 20",
+        "row": 701
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "12.07",
+        "message": "Input should be greater than or equal to 20",
+        "row": 702
+    },
+    {
+        "field": "temperature",
+        "invalid_value": "-8.64",
+        "message": "Input should be greater than or equal to 0",
+        "row": 703
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "0.92",
+        "message": "Input should be greater than or equal to 20",
+        "row": 703
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "9.94",
+        "message": "Input should be greater than or equal to 20",
+        "row": 704
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "16.66",
+        "message": "Input should be greater than or equal to 20",
+        "row": 705
     },
     {
         "field": "temperature",
@@ -390,10 +3552,106 @@
         "row": 706
     },
     {
+        "field": "humidity",
+        "invalid_value": "12.97",
+        "message": "Input should be greater than or equal to 20",
+        "row": 707
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "91.3",
+        "message": "Input should be less than or equal to 75",
+        "row": 708
+    },
+    {
         "field": "temperature",
         "invalid_value": "",
         "message": "Input should be a valid number, unable to parse string as a number",
         "row": 710
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "",
+        "message": "Input should be a valid number, unable to parse string as a number",
+        "row": 710
+    },
+    {
+        "field": "temperature",
+        "invalid_value": "-9.42",
+        "message": "Input should be greater than or equal to 0",
+        "row": 711
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "77.98",
+        "message": "Input should be less than or equal to 75",
+        "row": 711
+    },
+    {
+        "field": "temperature",
+        "invalid_value": "-1.44",
+        "message": "Input should be greater than or equal to 0",
+        "row": 713
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "8.42",
+        "message": "Input should be greater than or equal to 20",
+        "row": 714
+    },
+    {
+        "field": "temperature",
+        "invalid_value": "-13.28",
+        "message": "Input should be greater than or equal to 0",
+        "row": 715
+    },
+    {
+        "field": "temperature",
+        "invalid_value": "-11.45",
+        "message": "Input should be greater than or equal to 0",
+        "row": 716
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "13.49",
+        "message": "Input should be greater than or equal to 20",
+        "row": 716
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "",
+        "message": "Input should be a valid number, unable to parse string as a number",
+        "row": 719
+    },
+    {
+        "field": "temperature",
+        "invalid_value": "-5.72",
+        "message": "Input should be greater than or equal to 0",
+        "row": 720
+    },
+    {
+        "field": "temperature",
+        "invalid_value": "-11.6",
+        "message": "Input should be greater than or equal to 0",
+        "row": 721
+    },
+    {
+        "field": "temperature",
+        "invalid_value": "-8.19",
+        "message": "Input should be greater than or equal to 0",
+        "row": 722
+    },
+    {
+        "field": "temperature",
+        "invalid_value": "-16.57",
+        "message": "Input should be greater than or equal to 0",
+        "row": 723
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "79.13",
+        "message": "Input should be less than or equal to 75",
+        "row": 726
     },
     {
         "field": "temperature",
@@ -403,9 +3661,117 @@
     },
     {
         "field": "temperature",
+        "invalid_value": "-3.8",
+        "message": "Input should be greater than or equal to 0",
+        "row": 730
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "15.09",
+        "message": "Input should be greater than or equal to 20",
+        "row": 730
+    },
+    {
+        "field": "temperature",
+        "invalid_value": "-16.67",
+        "message": "Input should be greater than or equal to 0",
+        "row": 731
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "95.84",
+        "message": "Input should be less than or equal to 75",
+        "row": 731
+    },
+    {
+        "field": "temperature",
+        "invalid_value": "-10.53",
+        "message": "Input should be greater than or equal to 0",
+        "row": 734
+    },
+    {
+        "field": "temperature",
         "invalid_value": "",
         "message": "Input should be a valid number, unable to parse string as a number",
         "row": 735
+    },
+    {
+        "field": "temperature",
+        "invalid_value": "-8.63",
+        "message": "Input should be greater than or equal to 0",
+        "row": 736
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "8.26",
+        "message": "Input should be greater than or equal to 20",
+        "row": 737
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "19.16",
+        "message": "Input should be greater than or equal to 20",
+        "row": 741
+    },
+    {
+        "field": "temperature",
+        "invalid_value": "-3.66",
+        "message": "Input should be greater than or equal to 0",
+        "row": 742
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "80.0",
+        "message": "Input should be less than or equal to 75",
+        "row": 742
+    },
+    {
+        "field": "temperature",
+        "invalid_value": "-1.51",
+        "message": "Input should be greater than or equal to 0",
+        "row": 743
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "5.48",
+        "message": "Input should be greater than or equal to 20",
+        "row": 743
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "",
+        "message": "Input should be a valid number, unable to parse string as a number",
+        "row": 744
+    },
+    {
+        "field": "temperature",
+        "invalid_value": "-3.84",
+        "message": "Input should be greater than or equal to 0",
+        "row": 745
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "98.74",
+        "message": "Input should be less than or equal to 75",
+        "row": 746
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "1.21",
+        "message": "Input should be greater than or equal to 20",
+        "row": 747
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "",
+        "message": "Input should be a valid number, unable to parse string as a number",
+        "row": 749
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "92.81",
+        "message": "Input should be less than or equal to 75",
+        "row": 751
     },
     {
         "field": "temperature",
@@ -414,10 +3780,124 @@
         "row": 752
     },
     {
+        "field": "humidity",
+        "invalid_value": "84.27",
+        "message": "Input should be less than or equal to 75",
+        "row": 754
+    },
+    {
+        "field": "temperature",
+        "invalid_value": "-6.59",
+        "message": "Input should be greater than or equal to 0",
+        "row": 755
+    },
+    {
+        "field": "temperature",
+        "invalid_value": "-5.56",
+        "message": "Input should be greater than or equal to 0",
+        "row": 756
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "9.52",
+        "message": "Input should be greater than or equal to 20",
+        "row": 757
+    },
+    {
+        "field": "temperature",
+        "invalid_value": "-18.29",
+        "message": "Input should be greater than or equal to 0",
+        "row": 760
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "",
+        "message": "Input should be a valid number, unable to parse string as a number",
+        "row": 760
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "78.97",
+        "message": "Input should be less than or equal to 75",
+        "row": 761
+    },
+    {
+        "field": "temperature",
+        "invalid_value": "-7.44",
+        "message": "Input should be greater than or equal to 0",
+        "row": 764
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "83.5",
+        "message": "Input should be less than or equal to 75",
+        "row": 765
+    },
+    {
+        "field": "temperature",
+        "invalid_value": "-14.62",
+        "message": "Input should be greater than or equal to 0",
+        "row": 766
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "89.37",
+        "message": "Input should be less than or equal to 75",
+        "row": 766
+    },
+    {
+        "field": "temperature",
+        "invalid_value": "-11.17",
+        "message": "Input should be greater than or equal to 0",
+        "row": 767
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "90.85",
+        "message": "Input should be less than or equal to 75",
+        "row": 770
+    },
+    {
         "field": "temperature",
         "invalid_value": "",
         "message": "Input should be a valid number, unable to parse string as a number",
         "row": 771
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "86.43",
+        "message": "Input should be less than or equal to 75",
+        "row": 771
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "15.86",
+        "message": "Input should be greater than or equal to 20",
+        "row": 772
+    },
+    {
+        "field": "temperature",
+        "invalid_value": "-10.77",
+        "message": "Input should be greater than or equal to 0",
+        "row": 775
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "11.51",
+        "message": "Input should be greater than or equal to 20",
+        "row": 777
+    },
+    {
+        "field": "temperature",
+        "invalid_value": "-17.84",
+        "message": "Input should be greater than or equal to 0",
+        "row": 779
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "86.91",
+        "message": "Input should be less than or equal to 75",
+        "row": 779
     },
     {
         "field": "temperature",
@@ -426,16 +3906,154 @@
         "row": 781
     },
     {
+        "field": "humidity",
+        "invalid_value": "",
+        "message": "Input should be a valid number, unable to parse string as a number",
+        "row": 781
+    },
+    {
+        "field": "temperature",
+        "invalid_value": "-13.19",
+        "message": "Input should be greater than or equal to 0",
+        "row": 783
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "91.25",
+        "message": "Input should be less than or equal to 75",
+        "row": 783
+    },
+    {
         "field": "temperature",
         "invalid_value": "",
         "message": "Input should be a valid number, unable to parse string as a number",
         "row": 786
     },
     {
+        "field": "humidity",
+        "invalid_value": "19.64",
+        "message": "Input should be greater than or equal to 20",
+        "row": 787
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "99.83",
+        "message": "Input should be less than or equal to 75",
+        "row": 788
+    },
+    {
+        "field": "temperature",
+        "invalid_value": "-19.0",
+        "message": "Input should be greater than or equal to 0",
+        "row": 789
+    },
+    {
+        "field": "temperature",
+        "invalid_value": "-3.33",
+        "message": "Input should be greater than or equal to 0",
+        "row": 790
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "0.84",
+        "message": "Input should be greater than or equal to 20",
+        "row": 790
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "84.24",
+        "message": "Input should be less than or equal to 75",
+        "row": 792
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "",
+        "message": "Input should be a valid number, unable to parse string as a number",
+        "row": 795
+    },
+    {
+        "field": "temperature",
+        "invalid_value": "-17.46",
+        "message": "Input should be greater than or equal to 0",
+        "row": 796
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "",
+        "message": "Input should be a valid number, unable to parse string as a number",
+        "row": 797
+    },
+    {
+        "field": "temperature",
+        "invalid_value": "-11.56",
+        "message": "Input should be greater than or equal to 0",
+        "row": 798
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "",
+        "message": "Input should be a valid number, unable to parse string as a number",
+        "row": 800
+    },
+    {
+        "field": "temperature",
+        "invalid_value": "-10.56",
+        "message": "Input should be greater than or equal to 0",
+        "row": 803
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "17.36",
+        "message": "Input should be greater than or equal to 20",
+        "row": 804
+    },
+    {
         "field": "temperature",
         "invalid_value": "",
         "message": "Input should be a valid number, unable to parse string as a number",
         "row": 809
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "3.68",
+        "message": "Input should be greater than or equal to 20",
+        "row": 809
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "",
+        "message": "Input should be a valid number, unable to parse string as a number",
+        "row": 810
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "81.17",
+        "message": "Input should be less than or equal to 75",
+        "row": 811
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "18.75",
+        "message": "Input should be greater than or equal to 20",
+        "row": 812
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "87.61",
+        "message": "Input should be less than or equal to 75",
+        "row": 813
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "13.88",
+        "message": "Input should be greater than or equal to 20",
+        "row": 815
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "81.04",
+        "message": "Input should be less than or equal to 75",
+        "row": 816
     },
     {
         "field": "temperature",
@@ -445,6 +4063,36 @@
     },
     {
         "field": "temperature",
+        "invalid_value": "-13.02",
+        "message": "Input should be greater than or equal to 0",
+        "row": 818
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "79.64",
+        "message": "Input should be less than or equal to 75",
+        "row": 818
+    },
+    {
+        "field": "temperature",
+        "invalid_value": "-0.91",
+        "message": "Input should be greater than or equal to 0",
+        "row": 819
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "1.47",
+        "message": "Input should be greater than or equal to 20",
+        "row": 822
+    },
+    {
+        "field": "temperature",
+        "invalid_value": "",
+        "message": "Input should be a valid number, unable to parse string as a number",
+        "row": 824
+    },
+    {
+        "field": "humidity",
         "invalid_value": "",
         "message": "Input should be a valid number, unable to parse string as a number",
         "row": 824
@@ -456,10 +4104,118 @@
         "row": 826
     },
     {
+        "field": "humidity",
+        "invalid_value": "96.72",
+        "message": "Input should be less than or equal to 75",
+        "row": 827
+    },
+    {
+        "field": "temperature",
+        "invalid_value": "-4.43",
+        "message": "Input should be greater than or equal to 0",
+        "row": 828
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "14.1",
+        "message": "Input should be greater than or equal to 20",
+        "row": 830
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "85.47",
+        "message": "Input should be less than or equal to 75",
+        "row": 831
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "75.81",
+        "message": "Input should be less than or equal to 75",
+        "row": 833
+    },
+    {
+        "field": "temperature",
+        "invalid_value": "-14.67",
+        "message": "Input should be greater than or equal to 0",
+        "row": 834
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "90.52",
+        "message": "Input should be less than or equal to 75",
+        "row": 834
+    },
+    {
         "field": "temperature",
         "invalid_value": "",
         "message": "Input should be a valid number, unable to parse string as a number",
         "row": 835
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "17.86",
+        "message": "Input should be greater than or equal to 20",
+        "row": 835
+    },
+    {
+        "field": "temperature",
+        "invalid_value": "-13.25",
+        "message": "Input should be greater than or equal to 0",
+        "row": 836
+    },
+    {
+        "field": "temperature",
+        "invalid_value": "-16.9",
+        "message": "Input should be greater than or equal to 0",
+        "row": 838
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "90.28",
+        "message": "Input should be less than or equal to 75",
+        "row": 838
+    },
+    {
+        "field": "temperature",
+        "invalid_value": "-17.03",
+        "message": "Input should be greater than or equal to 0",
+        "row": 839
+    },
+    {
+        "field": "temperature",
+        "invalid_value": "-14.66",
+        "message": "Input should be greater than or equal to 0",
+        "row": 841
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "",
+        "message": "Input should be a valid number, unable to parse string as a number",
+        "row": 841
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "80.13",
+        "message": "Input should be less than or equal to 75",
+        "row": 842
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "82.01",
+        "message": "Input should be less than or equal to 75",
+        "row": 844
+    },
+    {
+        "field": "temperature",
+        "invalid_value": "-14.09",
+        "message": "Input should be greater than or equal to 0",
+        "row": 846
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "78.85",
+        "message": "Input should be less than or equal to 75",
+        "row": 846
     },
     {
         "field": "temperature",
@@ -469,9 +4225,57 @@
     },
     {
         "field": "temperature",
+        "invalid_value": "-8.74",
+        "message": "Input should be greater than or equal to 0",
+        "row": 848
+    },
+    {
+        "field": "temperature",
         "invalid_value": "",
         "message": "Input should be a valid number, unable to parse string as a number",
         "row": 849
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "88.7",
+        "message": "Input should be less than or equal to 75",
+        "row": 849
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "82.55",
+        "message": "Input should be less than or equal to 75",
+        "row": 850
+    },
+    {
+        "field": "temperature",
+        "invalid_value": "-16.37",
+        "message": "Input should be greater than or equal to 0",
+        "row": 851
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "3.66",
+        "message": "Input should be greater than or equal to 20",
+        "row": 857
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "13.65",
+        "message": "Input should be greater than or equal to 20",
+        "row": 858
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "6.69",
+        "message": "Input should be greater than or equal to 20",
+        "row": 859
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "18.64",
+        "message": "Input should be greater than or equal to 20",
+        "row": 860
     },
     {
         "field": "temperature",
@@ -480,15 +4284,339 @@
         "row": 862
     },
     {
+        "field": "humidity",
+        "invalid_value": "",
+        "message": "Input should be a valid number, unable to parse string as a number",
+        "row": 863
+    },
+    {
+        "field": "temperature",
+        "invalid_value": "-8.71",
+        "message": "Input should be greater than or equal to 0",
+        "row": 866
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "11.06",
+        "message": "Input should be greater than or equal to 20",
+        "row": 866
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "",
+        "message": "Input should be a valid number, unable to parse string as a number",
+        "row": 867
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "90.95",
+        "message": "Input should be less than or equal to 75",
+        "row": 868
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "84.38",
+        "message": "Input should be less than or equal to 75",
+        "row": 869
+    },
+    {
+        "field": "temperature",
+        "invalid_value": "-4.61",
+        "message": "Input should be greater than or equal to 0",
+        "row": 871
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "87.29",
+        "message": "Input should be less than or equal to 75",
+        "row": 871
+    },
+    {
+        "field": "temperature",
+        "invalid_value": "-11.9",
+        "message": "Input should be greater than or equal to 0",
+        "row": 872
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "",
+        "message": "Input should be a valid number, unable to parse string as a number",
+        "row": 872
+    },
+    {
+        "field": "temperature",
+        "invalid_value": "-7.58",
+        "message": "Input should be greater than or equal to 0",
+        "row": 873
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "",
+        "message": "Input should be a valid number, unable to parse string as a number",
+        "row": 874
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "",
+        "message": "Input should be a valid number, unable to parse string as a number",
+        "row": 875
+    },
+    {
+        "field": "temperature",
+        "invalid_value": "-10.29",
+        "message": "Input should be greater than or equal to 0",
+        "row": 877
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "19.26",
+        "message": "Input should be greater than or equal to 20",
+        "row": 879
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "90.96",
+        "message": "Input should be less than or equal to 75",
+        "row": 880
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "83.75",
+        "message": "Input should be less than or equal to 75",
+        "row": 881
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "92.18",
+        "message": "Input should be less than or equal to 75",
+        "row": 884
+    },
+    {
+        "field": "temperature",
+        "invalid_value": "-8.99",
+        "message": "Input should be greater than or equal to 0",
+        "row": 886
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "86.46",
+        "message": "Input should be less than or equal to 75",
+        "row": 886
+    },
+    {
+        "field": "temperature",
+        "invalid_value": "-5.2",
+        "message": "Input should be greater than or equal to 0",
+        "row": 887
+    },
+    {
+        "field": "temperature",
+        "invalid_value": "-7.79",
+        "message": "Input should be greater than or equal to 0",
+        "row": 888
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "16.02",
+        "message": "Input should be greater than or equal to 20",
+        "row": 889
+    },
+    {
+        "field": "temperature",
+        "invalid_value": "-12.91",
+        "message": "Input should be greater than or equal to 0",
+        "row": 890
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "95.88",
+        "message": "Input should be less than or equal to 75",
+        "row": 890
+    },
+    {
+        "field": "temperature",
+        "invalid_value": "-17.02",
+        "message": "Input should be greater than or equal to 0",
+        "row": 891
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "80.3",
+        "message": "Input should be less than or equal to 75",
+        "row": 891
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "0.9",
+        "message": "Input should be greater than or equal to 20",
+        "row": 892
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "86.93",
+        "message": "Input should be less than or equal to 75",
+        "row": 893
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "92.41",
+        "message": "Input should be less than or equal to 75",
+        "row": 894
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "82.66",
+        "message": "Input should be less than or equal to 75",
+        "row": 895
+    },
+    {
+        "field": "temperature",
+        "invalid_value": "-15.22",
+        "message": "Input should be greater than or equal to 0",
+        "row": 896
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "84.65",
+        "message": "Input should be less than or equal to 75",
+        "row": 897
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "9.69",
+        "message": "Input should be greater than or equal to 20",
+        "row": 898
+    },
+    {
+        "field": "temperature",
+        "invalid_value": "-5.32",
+        "message": "Input should be greater than or equal to 0",
+        "row": 899
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "81.54",
+        "message": "Input should be less than or equal to 75",
+        "row": 899
+    },
+    {
+        "field": "temperature",
+        "invalid_value": "-2.32",
+        "message": "Input should be greater than or equal to 0",
+        "row": 901
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "4.25",
+        "message": "Input should be greater than or equal to 20",
+        "row": 901
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "16.32",
+        "message": "Input should be greater than or equal to 20",
+        "row": 903
+    },
+    {
+        "field": "temperature",
+        "invalid_value": "-14.77",
+        "message": "Input should be greater than or equal to 0",
+        "row": 904
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "88.99",
+        "message": "Input should be less than or equal to 75",
+        "row": 904
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "84.68",
+        "message": "Input should be less than or equal to 75",
+        "row": 906
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "79.4",
+        "message": "Input should be less than or equal to 75",
+        "row": 909
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "89.15",
+        "message": "Input should be less than or equal to 75",
+        "row": 911
+    },
+    {
+        "field": "temperature",
+        "invalid_value": "-0.33",
+        "message": "Input should be greater than or equal to 0",
+        "row": 912
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "",
+        "message": "Input should be a valid number, unable to parse string as a number",
+        "row": 912
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "77.05",
+        "message": "Input should be less than or equal to 75",
+        "row": 914
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "99.14",
+        "message": "Input should be less than or equal to 75",
+        "row": 915
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "18.94",
+        "message": "Input should be greater than or equal to 20",
+        "row": 916
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "",
+        "message": "Input should be a valid number, unable to parse string as a number",
+        "row": 922
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "85.51",
+        "message": "Input should be less than or equal to 75",
+        "row": 923
+    },
+    {
+        "field": "temperature",
+        "invalid_value": "-4.31",
+        "message": "Input should be greater than or equal to 0",
+        "row": 925
+    },
+    {
         "field": "temperature",
         "invalid_value": "",
         "message": "Input should be a valid number, unable to parse string as a number",
         "row": 926
     },
     {
+        "field": "humidity",
+        "invalid_value": "97.91",
+        "message": "Input should be less than or equal to 75",
+        "row": 926
+    },
+    {
         "field": "temperature",
         "invalid_value": "",
         "message": "Input should be a valid number, unable to parse string as a number",
+        "row": 927
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "6.82",
+        "message": "Input should be greater than or equal to 20",
         "row": 927
     },
     {
@@ -499,9 +4627,93 @@
     },
     {
         "field": "temperature",
+        "invalid_value": "-8.46",
+        "message": "Input should be greater than or equal to 0",
+        "row": 929
+    },
+    {
+        "field": "temperature",
+        "invalid_value": "-2.74",
+        "message": "Input should be greater than or equal to 0",
+        "row": 930
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "",
+        "message": "Input should be a valid number, unable to parse string as a number",
+        "row": 930
+    },
+    {
+        "field": "temperature",
+        "invalid_value": "-8.64",
+        "message": "Input should be greater than or equal to 0",
+        "row": 931
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "",
+        "message": "Input should be a valid number, unable to parse string as a number",
+        "row": 933
+    },
+    {
+        "field": "temperature",
         "invalid_value": "",
         "message": "Input should be a valid number, unable to parse string as a number",
         "row": 936
+    },
+    {
+        "field": "temperature",
+        "invalid_value": "-4.11",
+        "message": "Input should be greater than or equal to 0",
+        "row": 937
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "99.54",
+        "message": "Input should be less than or equal to 75",
+        "row": 937
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "",
+        "message": "Input should be a valid number, unable to parse string as a number",
+        "row": 938
+    },
+    {
+        "field": "temperature",
+        "invalid_value": "-19.43",
+        "message": "Input should be greater than or equal to 0",
+        "row": 939
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "7.22",
+        "message": "Input should be greater than or equal to 20",
+        "row": 939
+    },
+    {
+        "field": "temperature",
+        "invalid_value": "-14.24",
+        "message": "Input should be greater than or equal to 0",
+        "row": 940
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "16.53",
+        "message": "Input should be greater than or equal to 20",
+        "row": 940
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "96.45",
+        "message": "Input should be less than or equal to 75",
+        "row": 941
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "15.46",
+        "message": "Input should be greater than or equal to 20",
+        "row": 943
     },
     {
         "field": "temperature",
@@ -510,10 +4722,40 @@
         "row": 944
     },
     {
+        "field": "humidity",
+        "invalid_value": "90.61",
+        "message": "Input should be less than or equal to 75",
+        "row": 944
+    },
+    {
+        "field": "temperature",
+        "invalid_value": "-15.5",
+        "message": "Input should be greater than or equal to 0",
+        "row": 945
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "89.1",
+        "message": "Input should be less than or equal to 75",
+        "row": 945
+    },
+    {
         "field": "temperature",
         "invalid_value": "",
         "message": "Input should be a valid number, unable to parse string as a number",
         "row": 946
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "14.1",
+        "message": "Input should be greater than or equal to 20",
+        "row": 946
+    },
+    {
+        "field": "temperature",
+        "invalid_value": "-0.86",
+        "message": "Input should be greater than or equal to 0",
+        "row": 948
     },
     {
         "field": "temperature",
@@ -522,16 +4764,178 @@
         "row": 951
     },
     {
+        "field": "humidity",
+        "invalid_value": "",
+        "message": "Input should be a valid number, unable to parse string as a number",
+        "row": 951
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "8.54",
+        "message": "Input should be greater than or equal to 20",
+        "row": 953
+    },
+    {
+        "field": "temperature",
+        "invalid_value": "-7.29",
+        "message": "Input should be greater than or equal to 0",
+        "row": 957
+    },
+    {
+        "field": "temperature",
+        "invalid_value": "-6.69",
+        "message": "Input should be greater than or equal to 0",
+        "row": 959
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "87.52",
+        "message": "Input should be less than or equal to 75",
+        "row": 959
+    },
+    {
+        "field": "temperature",
+        "invalid_value": "-6.0",
+        "message": "Input should be greater than or equal to 0",
+        "row": 961
+    },
+    {
         "field": "temperature",
         "invalid_value": "",
         "message": "Input should be a valid number, unable to parse string as a number",
         "row": 963
     },
     {
+        "field": "humidity",
+        "invalid_value": "77.96",
+        "message": "Input should be less than or equal to 75",
+        "row": 964
+    },
+    {
+        "field": "temperature",
+        "invalid_value": "-19.77",
+        "message": "Input should be greater than or equal to 0",
+        "row": 965
+    },
+    {
+        "field": "temperature",
+        "invalid_value": "-15.69",
+        "message": "Input should be greater than or equal to 0",
+        "row": 966
+    },
+    {
         "field": "temperature",
         "invalid_value": "",
         "message": "Input should be a valid number, unable to parse string as a number",
         "row": 967
+    },
+    {
+        "field": "temperature",
+        "invalid_value": "-0.47",
+        "message": "Input should be greater than or equal to 0",
+        "row": 968
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "3.79",
+        "message": "Input should be greater than or equal to 20",
+        "row": 968
+    },
+    {
+        "field": "temperature",
+        "invalid_value": "-1.63",
+        "message": "Input should be greater than or equal to 0",
+        "row": 969
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "",
+        "message": "Input should be a valid number, unable to parse string as a number",
+        "row": 970
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "92.21",
+        "message": "Input should be less than or equal to 75",
+        "row": 972
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "7.89",
+        "message": "Input should be greater than or equal to 20",
+        "row": 973
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "",
+        "message": "Input should be a valid number, unable to parse string as a number",
+        "row": 976
+    },
+    {
+        "field": "temperature",
+        "invalid_value": "-6.48",
+        "message": "Input should be greater than or equal to 0",
+        "row": 977
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "3.87",
+        "message": "Input should be greater than or equal to 20",
+        "row": 977
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "84.38",
+        "message": "Input should be less than or equal to 75",
+        "row": 978
+    },
+    {
+        "field": "temperature",
+        "invalid_value": "-9.02",
+        "message": "Input should be greater than or equal to 0",
+        "row": 979
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "",
+        "message": "Input should be a valid number, unable to parse string as a number",
+        "row": 979
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "18.0",
+        "message": "Input should be greater than or equal to 20",
+        "row": 980
+    },
+    {
+        "field": "temperature",
+        "invalid_value": "-3.32",
+        "message": "Input should be greater than or equal to 0",
+        "row": 982
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "82.22",
+        "message": "Input should be less than or equal to 75",
+        "row": 984
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "0.94",
+        "message": "Input should be greater than or equal to 20",
+        "row": 985
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "97.73",
+        "message": "Input should be less than or equal to 75",
+        "row": 990
+    },
+    {
+        "field": "temperature",
+        "invalid_value": "-3.1",
+        "message": "Input should be greater than or equal to 0",
+        "row": 991
     },
     {
         "field": "temperature",
@@ -544,5 +4948,47 @@
         "invalid_value": "",
         "message": "Input should be a valid number, unable to parse string as a number",
         "row": 994
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "90.86",
+        "message": "Input should be less than or equal to 75",
+        "row": 995
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "5.92",
+        "message": "Input should be greater than or equal to 20",
+        "row": 997
+    },
+    {
+        "field": "temperature",
+        "invalid_value": "-1.58",
+        "message": "Input should be greater than or equal to 0",
+        "row": 998
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "1.16",
+        "message": "Input should be greater than or equal to 20",
+        "row": 998
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "11.16",
+        "message": "Input should be greater than or equal to 20",
+        "row": 999
+    },
+    {
+        "field": "humidity",
+        "invalid_value": "84.01",
+        "message": "Input should be less than or equal to 75",
+        "row": 1000
+    },
+    {
+        "field": "temperature",
+        "invalid_value": "-8.71",
+        "message": "Input should be greater than or equal to 0",
+        "row": 1001
     }
 ]
