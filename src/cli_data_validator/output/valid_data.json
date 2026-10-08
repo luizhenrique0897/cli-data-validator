@@ -1,0 +1,3638 @@
+[
+    {
+        "sensor_id": "1",
+        "temperature": 6.57
+    },
+    {
+        "sensor_id": "2",
+        "temperature": -0.47
+    },
+    {
+        "sensor_id": "3",
+        "temperature": 42.51
+    },
+    {
+        "sensor_id": "5",
+        "temperature": 31.25
+    },
+    {
+        "sensor_id": "6",
+        "temperature": -19.95
+    },
+    {
+        "sensor_id": "7",
+        "temperature": 1.11
+    },
+    {
+        "sensor_id": "8",
+        "temperature": 14.28
+    },
+    {
+        "sensor_id": "9",
+        "temperature": 46.08
+    },
+    {
+        "sensor_id": "10",
+        "temperature": -3.93
+    },
+    {
+        "sensor_id": "11",
+        "temperature": 32.08
+    },
+    {
+        "sensor_id": "12",
+        "temperature": -18.98
+    },
+    {
+        "sensor_id": "13",
+        "temperature": -14.47
+    },
+    {
+        "sensor_id": "14",
+        "temperature": 45.91
+    },
+    {
+        "sensor_id": "15",
+        "temperature": 33.25
+    },
+    {
+        "sensor_id": "16",
+        "temperature": 46.17
+    },
+    {
+        "sensor_id": "17",
+        "temperature": 5.11
+    },
+    {
+        "sensor_id": "18",
+        "temperature": 42.44
+    },
+    {
+        "sensor_id": "19",
+        "temperature": 20.41
+    },
+    {
+        "sensor_id": "20",
+        "temperature": -18.65
+    },
+    {
+        "sensor_id": "21",
+        "temperature": -0.66
+    },
+    {
+        "sensor_id": "22",
+        "temperature": -19.47
+    },
+    {
+        "sensor_id": "23",
+        "temperature": -10.08
+    },
+    {
+        "sensor_id": "25",
+        "temperature": 46.62
+    },
+    {
+        "sensor_id": "26",
+        "temperature": -7.95
+    },
+    {
+        "sensor_id": "27",
+        "temperature": 12.6
+    },
+    {
+        "sensor_id": "29",
+        "temperature": 41.22
+    },
+    {
+        "sensor_id": "30",
+        "temperature": 1.81
+    },
+    {
+        "sensor_id": "31",
+        "temperature": 8.98
+    },
+    {
+        "sensor_id": "32",
+        "temperature": 5.29
+    },
+    {
+        "sensor_id": "33",
+        "temperature": 19.31
+    },
+    {
+        "sensor_id": "34",
+        "temperature": 28.8
+    },
+    {
+        "sensor_id": "35",
+        "temperature": 30.11
+    },
+    {
+        "sensor_id": "36",
+        "temperature": 28.23
+    },
+    {
+        "sensor_id": "37",
+        "temperature": 10.18
+    },
+    {
+        "sensor_id": "38",
+        "temperature": -8.08
+    },
+    {
+        "sensor_id": "39",
+        "temperature": 10.94
+    },
+    {
+        "sensor_id": "40",
+        "temperature": 0.39
+    },
+    {
+        "sensor_id": "41",
+        "temperature": -19.1
+    },
+    {
+        "sensor_id": "42",
+        "temperature": 34.21
+    },
+    {
+        "sensor_id": "43",
+        "temperature": 33.59
+    },
+    {
+        "sensor_id": "44",
+        "temperature": -7.35
+    },
+    {
+        "sensor_id": "45",
+        "temperature": 1.65
+    },
+    {
+        "sensor_id": "46",
+        "temperature": -11.09
+    },
+    {
+        "sensor_id": "47",
+        "temperature": 49.16
+    },
+    {
+        "sensor_id": "48",
+        "temperature": 1.14
+    },
+    {
+        "sensor_id": "49",
+        "temperature": 11.37
+    },
+    {
+        "sensor_id": "50",
+        "temperature": 33.93
+    },
+    {
+        "sensor_id": "51",
+        "temperature": -3.62
+    },
+    {
+        "sensor_id": "52",
+        "temperature": 22.05
+    },
+    {
+        "sensor_id": "54",
+        "temperature": 2.37
+    },
+    {
+        "sensor_id": "55",
+        "temperature": 29.98
+    },
+    {
+        "sensor_id": "56",
+        "temperature": -15.1
+    },
+    {
+        "sensor_id": "58",
+        "temperature": 24.85
+    },
+    {
+        "sensor_id": "59",
+        "temperature": -1.56
+    },
+    {
+        "sensor_id": "60",
+        "temperature": 19.64
+    },
+    {
+        "sensor_id": "61",
+        "temperature": -5.49
+    },
+    {
+        "sensor_id": "62",
+        "temperature": -19.7
+    },
+    {
+        "sensor_id": "63",
+        "temperature": 24.32
+    },
+    {
+        "sensor_id": "65",
+        "temperature": 23.57
+    },
+    {
+        "sensor_id": "66",
+        "temperature": 28.01
+    },
+    {
+        "sensor_id": "67",
+        "temperature": -19.77
+    },
+    {
+        "sensor_id": "68",
+        "temperature": -19.2
+    },
+    {
+        "sensor_id": "69",
+        "temperature": -14.24
+    },
+    {
+        "sensor_id": "70",
+        "temperature": 10.18
+    },
+    {
+        "sensor_id": "71",
+        "temperature": 4.53
+    },
+    {
+        "sensor_id": "72",
+        "temperature": 19.5
+    },
+    {
+        "sensor_id": "73",
+        "temperature": 23.88
+    },
+    {
+        "sensor_id": "74",
+        "temperature": 36.76
+    },
+    {
+        "sensor_id": "75",
+        "temperature": 48.0
+    },
+    {
+        "sensor_id": "76",
+        "temperature": 4.65
+    },
+    {
+        "sensor_id": "77",
+        "temperature": 3.52
+    },
+    {
+        "sensor_id": "78",
+        "temperature": 21.41
+    },
+    {
+        "sensor_id": "79",
+        "temperature": 29.51
+    },
+    {
+        "sensor_id": "80",
+        "temperature": 34.94
+    },
+    {
+        "sensor_id": "81",
+        "temperature": 33.49
+    },
+    {
+        "sensor_id": "82",
+        "temperature": 43.03
+    },
+    {
+        "sensor_id": "83",
+        "temperature": -1.96
+    },
+    {
+        "sensor_id": "84",
+        "temperature": 46.03
+    },
+    {
+        "sensor_id": "85",
+        "temperature": 21.32
+    },
+    {
+        "sensor_id": "86",
+        "temperature": 44.86
+    },
+    {
+        "sensor_id": "87",
+        "temperature": 7.07
+    },
+    {
+        "sensor_id": "88",
+        "temperature": -4.87
+    },
+    {
+        "sensor_id": "89",
+        "temperature": 41.51
+    },
+    {
+        "sensor_id": "90",
+        "temperature": 47.66
+    },
+    {
+        "sensor_id": "91",
+        "temperature": 0.48
+    },
+    {
+        "sensor_id": "92",
+        "temperature": 0.8
+    },
+    {
+        "sensor_id": "93",
+        "temperature": 32.64
+    },
+    {
+        "sensor_id": "94",
+        "temperature": 33.44
+    },
+    {
+        "sensor_id": "96",
+        "temperature": 14.38
+    },
+    {
+        "sensor_id": "97",
+        "temperature": 35.12
+    },
+    {
+        "sensor_id": "98",
+        "temperature": 48.83
+    },
+    {
+        "sensor_id": "99",
+        "temperature": -11.25
+    },
+    {
+        "sensor_id": "100",
+        "temperature": -10.13
+    },
+    {
+        "sensor_id": "101",
+        "temperature": 0.12
+    },
+    {
+        "sensor_id": "102",
+        "temperature": 45.94
+    },
+    {
+        "sensor_id": "103",
+        "temperature": -9.77
+    },
+    {
+        "sensor_id": "104",
+        "temperature": 26.79
+    },
+    {
+        "sensor_id": "105",
+        "temperature": 2.71
+    },
+    {
+        "sensor_id": "106",
+        "temperature": 49.32
+    },
+    {
+        "sensor_id": "107",
+        "temperature": 2.66
+    },
+    {
+        "sensor_id": "108",
+        "temperature": 27.86
+    },
+    {
+        "sensor_id": "109",
+        "temperature": 22.0
+    },
+    {
+        "sensor_id": "110",
+        "temperature": 6.83
+    },
+    {
+        "sensor_id": "111",
+        "temperature": 33.74
+    },
+    {
+        "sensor_id": "113",
+        "temperature": 45.62
+    },
+    {
+        "sensor_id": "114",
+        "temperature": -15.27
+    },
+    {
+        "sensor_id": "116",
+        "temperature": 20.75
+    },
+    {
+        "sensor_id": "118",
+        "temperature": 4.97
+    },
+    {
+        "sensor_id": "119",
+        "temperature": 42.1
+    },
+    {
+        "sensor_id": "120",
+        "temperature": -16.65
+    },
+    {
+        "sensor_id": "122",
+        "temperature": -11.64
+    },
+    {
+        "sensor_id": "124",
+        "temperature": -12.07
+    },
+    {
+        "sensor_id": "125",
+        "temperature": 33.13
+    },
+    {
+        "sensor_id": "126",
+        "temperature": -5.99
+    },
+    {
+        "sensor_id": "127",
+        "temperature": -4.05
+    },
+    {
+        "sensor_id": "128",
+        "temperature": 45.08
+    },
+    {
+        "sensor_id": "129",
+        "temperature": 18.96
+    },
+    {
+        "sensor_id": "130",
+        "temperature": 49.94
+    },
+    {
+        "sensor_id": "131",
+        "temperature": 18.06
+    },
+    {
+        "sensor_id": "133",
+        "temperature": 49.49
+    },
+    {
+        "sensor_id": "134",
+        "temperature": 47.4
+    },
+    {
+        "sensor_id": "135",
+        "temperature": 9.09
+    },
+    {
+        "sensor_id": "136",
+        "temperature": -0.6
+    },
+    {
+        "sensor_id": "137",
+        "temperature": 27.39
+    },
+    {
+        "sensor_id": "138",
+        "temperature": -8.0
+    },
+    {
+        "sensor_id": "139",
+        "temperature": 13.55
+    },
+    {
+        "sensor_id": "140",
+        "temperature": 46.86
+    },
+    {
+        "sensor_id": "141",
+        "temperature": 36.22
+    },
+    {
+        "sensor_id": "142",
+        "temperature": -6.97
+    },
+    {
+        "sensor_id": "144",
+        "temperature": -19.04
+    },
+    {
+        "sensor_id": "145",
+        "temperature": 39.92
+    },
+    {
+        "sensor_id": "146",
+        "temperature": 4.45
+    },
+    {
+        "sensor_id": "147",
+        "temperature": 40.07
+    },
+    {
+        "sensor_id": "148",
+        "temperature": 32.16
+    },
+    {
+        "sensor_id": "149",
+        "temperature": 17.65
+    },
+    {
+        "sensor_id": "150",
+        "temperature": 6.37
+    },
+    {
+        "sensor_id": "151",
+        "temperature": 10.91
+    },
+    {
+        "sensor_id": "152",
+        "temperature": 0.79
+    },
+    {
+        "sensor_id": "153",
+        "temperature": -7.36
+    },
+    {
+        "sensor_id": "154",
+        "temperature": 30.08
+    },
+    {
+        "sensor_id": "155",
+        "temperature": 33.19
+    },
+    {
+        "sensor_id": "156",
+        "temperature": -7.38
+    },
+    {
+        "sensor_id": "157",
+        "temperature": -18.84
+    },
+    {
+        "sensor_id": "158",
+        "temperature": 47.13
+    },
+    {
+        "sensor_id": "159",
+        "temperature": 14.58
+    },
+    {
+        "sensor_id": "160",
+        "temperature": 9.69
+    },
+    {
+        "sensor_id": "161",
+        "temperature": 42.26
+    },
+    {
+        "sensor_id": "162",
+        "temperature": -10.02
+    },
+    {
+        "sensor_id": "164",
+        "temperature": -8.17
+    },
+    {
+        "sensor_id": "165",
+        "temperature": 35.46
+    },
+    {
+        "sensor_id": "166",
+        "temperature": 37.11
+    },
+    {
+        "sensor_id": "167",
+        "temperature": -6.62
+    },
+    {
+        "sensor_id": "168",
+        "temperature": 4.82
+    },
+    {
+        "sensor_id": "169",
+        "temperature": 12.68
+    },
+    {
+        "sensor_id": "171",
+        "temperature": 36.33
+    },
+    {
+        "sensor_id": "172",
+        "temperature": 2.61
+    },
+    {
+        "sensor_id": "173",
+        "temperature": 1.6
+    },
+    {
+        "sensor_id": "176",
+        "temperature": 45.82
+    },
+    {
+        "sensor_id": "177",
+        "temperature": -6.05
+    },
+    {
+        "sensor_id": "178",
+        "temperature": 49.06
+    },
+    {
+        "sensor_id": "179",
+        "temperature": -15.65
+    },
+    {
+        "sensor_id": "180",
+        "temperature": 10.98
+    },
+    {
+        "sensor_id": "182",
+        "temperature": 26.53
+    },
+    {
+        "sensor_id": "184",
+        "temperature": 5.42
+    },
+    {
+        "sensor_id": "185",
+        "temperature": -10.47
+    },
+    {
+        "sensor_id": "186",
+        "temperature": 2.29
+    },
+    {
+        "sensor_id": "187",
+        "temperature": 15.6
+    },
+    {
+        "sensor_id": "188",
+        "temperature": -15.46
+    },
+    {
+        "sensor_id": "189",
+        "temperature": 48.76
+    },
+    {
+        "sensor_id": "190",
+        "temperature": 45.79
+    },
+    {
+        "sensor_id": "191",
+        "temperature": 6.14
+    },
+    {
+        "sensor_id": "192",
+        "temperature": 30.15
+    },
+    {
+        "sensor_id": "193",
+        "temperature": 8.65
+    },
+    {
+        "sensor_id": "194",
+        "temperature": 0.54
+    },
+    {
+        "sensor_id": "195",
+        "temperature": 32.8
+    },
+    {
+        "sensor_id": "196",
+        "temperature": -14.41
+    },
+    {
+        "sensor_id": "197",
+        "temperature": 23.05
+    },
+    {
+        "sensor_id": "198",
+        "temperature": 18.78
+    },
+    {
+        "sensor_id": "199",
+        "temperature": -15.7
+    },
+    {
+        "sensor_id": "201",
+        "temperature": 16.08
+    },
+    {
+        "sensor_id": "202",
+        "temperature": 9.45
+    },
+    {
+        "sensor_id": "203",
+        "temperature": -12.85
+    },
+    {
+        "sensor_id": "204",
+        "temperature": 24.91
+    },
+    {
+        "sensor_id": "205",
+        "temperature": -10.04
+    },
+    {
+        "sensor_id": "206",
+        "temperature": 44.37
+    },
+    {
+        "sensor_id": "207",
+        "temperature": -19.09
+    },
+    {
+        "sensor_id": "208",
+        "temperature": -16.57
+    },
+    {
+        "sensor_id": "209",
+        "temperature": 38.96
+    },
+    {
+        "sensor_id": "210",
+        "temperature": 39.77
+    },
+    {
+        "sensor_id": "211",
+        "temperature": 25.09
+    },
+    {
+        "sensor_id": "212",
+        "temperature": 4.02
+    },
+    {
+        "sensor_id": "213",
+        "temperature": 3.95
+    },
+    {
+        "sensor_id": "214",
+        "temperature": -19.11
+    },
+    {
+        "sensor_id": "215",
+        "temperature": 21.89
+    },
+    {
+        "sensor_id": "216",
+        "temperature": -2.14
+    },
+    {
+        "sensor_id": "217",
+        "temperature": 27.97
+    },
+    {
+        "sensor_id": "218",
+        "temperature": 44.46
+    },
+    {
+        "sensor_id": "219",
+        "temperature": 37.56
+    },
+    {
+        "sensor_id": "220",
+        "temperature": -12.98
+    },
+    {
+        "sensor_id": "221",
+        "temperature": 26.51
+    },
+    {
+        "sensor_id": "222",
+        "temperature": 13.39
+    },
+    {
+        "sensor_id": "223",
+        "temperature": 20.53
+    },
+    {
+        "sensor_id": "224",
+        "temperature": 12.57
+    },
+    {
+        "sensor_id": "225",
+        "temperature": 19.96
+    },
+    {
+        "sensor_id": "226",
+        "temperature": 48.51
+    },
+    {
+        "sensor_id": "227",
+        "temperature": 37.98
+    },
+    {
+        "sensor_id": "228",
+        "temperature": 32.9
+    },
+    {
+        "sensor_id": "229",
+        "temperature": 37.09
+    },
+    {
+        "sensor_id": "231",
+        "temperature": 47.9
+    },
+    {
+        "sensor_id": "232",
+        "temperature": 19.92
+    },
+    {
+        "sensor_id": "233",
+        "temperature": 22.09
+    },
+    {
+        "sensor_id": "234",
+        "temperature": 32.93
+    },
+    {
+        "sensor_id": "235",
+        "temperature": 36.35
+    },
+    {
+        "sensor_id": "236",
+        "temperature": -2.71
+    },
+    {
+        "sensor_id": "237",
+        "temperature": -13.05
+    },
+    {
+        "sensor_id": "238",
+        "temperature": -14.73
+    },
+    {
+        "sensor_id": "240",
+        "temperature": 40.47
+    },
+    {
+        "sensor_id": "242",
+        "temperature": 2.81
+    },
+    {
+        "sensor_id": "243",
+        "temperature": 6.64
+    },
+    {
+        "sensor_id": "244",
+        "temperature": 27.72
+    },
+    {
+        "sensor_id": "245",
+        "temperature": 49.67
+    },
+    {
+        "sensor_id": "246",
+        "temperature": 43.51
+    },
+    {
+        "sensor_id": "247",
+        "temperature": 25.78
+    },
+    {
+        "sensor_id": "248",
+        "temperature": 27.81
+    },
+    {
+        "sensor_id": "249",
+        "temperature": 42.29
+    },
+    {
+        "sensor_id": "250",
+        "temperature": -1.94
+    },
+    {
+        "sensor_id": "251",
+        "temperature": 46.4
+    },
+    {
+        "sensor_id": "252",
+        "temperature": 13.01
+    },
+    {
+        "sensor_id": "253",
+        "temperature": 16.78
+    },
+    {
+        "sensor_id": "254",
+        "temperature": 17.69
+    },
+    {
+        "sensor_id": "255",
+        "temperature": 16.97
+    },
+    {
+        "sensor_id": "256",
+        "temperature": 1.11
+    },
+    {
+        "sensor_id": "257",
+        "temperature": -1.14
+    },
+    {
+        "sensor_id": "258",
+        "temperature": 27.14
+    },
+    {
+        "sensor_id": "259",
+        "temperature": 31.97
+    },
+    {
+        "sensor_id": "261",
+        "temperature": 7.79
+    },
+    {
+        "sensor_id": "262",
+        "temperature": 44.42
+    },
+    {
+        "sensor_id": "263",
+        "temperature": 9.21
+    },
+    {
+        "sensor_id": "264",
+        "temperature": 4.22
+    },
+    {
+        "sensor_id": "265",
+        "temperature": -5.44
+    },
+    {
+        "sensor_id": "266",
+        "temperature": 11.34
+    },
+    {
+        "sensor_id": "267",
+        "temperature": 3.66
+    },
+    {
+        "sensor_id": "268",
+        "temperature": -7.7
+    },
+    {
+        "sensor_id": "269",
+        "temperature": -12.16
+    },
+    {
+        "sensor_id": "270",
+        "temperature": 47.4
+    },
+    {
+        "sensor_id": "271",
+        "temperature": -3.88
+    },
+    {
+        "sensor_id": "272",
+        "temperature": -9.55
+    },
+    {
+        "sensor_id": "273",
+        "temperature": -6.72
+    },
+    {
+        "sensor_id": "274",
+        "temperature": -1.97
+    },
+    {
+        "sensor_id": "275",
+        "temperature": 18.07
+    },
+    {
+        "sensor_id": "276",
+        "temperature": -9.09
+    },
+    {
+        "sensor_id": "277",
+        "temperature": 7.67
+    },
+    {
+        "sensor_id": "278",
+        "temperature": 10.4
+    },
+    {
+        "sensor_id": "279",
+        "temperature": 12.99
+    },
+    {
+        "sensor_id": "280",
+        "temperature": 10.03
+    },
+    {
+        "sensor_id": "281",
+        "temperature": -8.27
+    },
+    {
+        "sensor_id": "282",
+        "temperature": -2.98
+    },
+    {
+        "sensor_id": "283",
+        "temperature": -17.45
+    },
+    {
+        "sensor_id": "284",
+        "temperature": -18.65
+    },
+    {
+        "sensor_id": "285",
+        "temperature": 27.09
+    },
+    {
+        "sensor_id": "286",
+        "temperature": 28.09
+    },
+    {
+        "sensor_id": "287",
+        "temperature": -14.94
+    },
+    {
+        "sensor_id": "288",
+        "temperature": -13.84
+    },
+    {
+        "sensor_id": "289",
+        "temperature": 11.64
+    },
+    {
+        "sensor_id": "290",
+        "temperature": 2.11
+    },
+    {
+        "sensor_id": "291",
+        "temperature": -1.22
+    },
+    {
+        "sensor_id": "292",
+        "temperature": -1.75
+    },
+    {
+        "sensor_id": "293",
+        "temperature": 31.46
+    },
+    {
+        "sensor_id": "295",
+        "temperature": 2.57
+    },
+    {
+        "sensor_id": "296",
+        "temperature": 47.4
+    },
+    {
+        "sensor_id": "297",
+        "temperature": 38.74
+    },
+    {
+        "sensor_id": "298",
+        "temperature": 26.3
+    },
+    {
+        "sensor_id": "299",
+        "temperature": 9.74
+    },
+    {
+        "sensor_id": "300",
+        "temperature": -16.12
+    },
+    {
+        "sensor_id": "301",
+        "temperature": -19.36
+    },
+    {
+        "sensor_id": "302",
+        "temperature": -18.13
+    },
+    {
+        "sensor_id": "303",
+        "temperature": -18.99
+    },
+    {
+        "sensor_id": "304",
+        "temperature": 44.0
+    },
+    {
+        "sensor_id": "305",
+        "temperature": -9.68
+    },
+    {
+        "sensor_id": "307",
+        "temperature": 46.72
+    },
+    {
+        "sensor_id": "308",
+        "temperature": -0.85
+    },
+    {
+        "sensor_id": "309",
+        "temperature": 3.39
+    },
+    {
+        "sensor_id": "310",
+        "temperature": 18.14
+    },
+    {
+        "sensor_id": "311",
+        "temperature": 6.92
+    },
+    {
+        "sensor_id": "312",
+        "temperature": 28.1
+    },
+    {
+        "sensor_id": "313",
+        "temperature": 47.03
+    },
+    {
+        "sensor_id": "314",
+        "temperature": 22.15
+    },
+    {
+        "sensor_id": "315",
+        "temperature": -5.4
+    },
+    {
+        "sensor_id": "316",
+        "temperature": -3.79
+    },
+    {
+        "sensor_id": "317",
+        "temperature": 40.17
+    },
+    {
+        "sensor_id": "318",
+        "temperature": -11.64
+    },
+    {
+        "sensor_id": "319",
+        "temperature": 19.59
+    },
+    {
+        "sensor_id": "320",
+        "temperature": -7.17
+    },
+    {
+        "sensor_id": "321",
+        "temperature": 30.27
+    },
+    {
+        "sensor_id": "322",
+        "temperature": -14.53
+    },
+    {
+        "sensor_id": "323",
+        "temperature": 35.79
+    },
+    {
+        "sensor_id": "324",
+        "temperature": 13.73
+    },
+    {
+        "sensor_id": "325",
+        "temperature": -15.37
+    },
+    {
+        "sensor_id": "326",
+        "temperature": -10.93
+    },
+    {
+        "sensor_id": "327",
+        "temperature": 40.96
+    },
+    {
+        "sensor_id": "328",
+        "temperature": 24.22
+    },
+    {
+        "sensor_id": "329",
+        "temperature": 7.96
+    },
+    {
+        "sensor_id": "330",
+        "temperature": 19.43
+    },
+    {
+        "sensor_id": "332",
+        "temperature": 42.81
+    },
+    {
+        "sensor_id": "333",
+        "temperature": 49.23
+    },
+    {
+        "sensor_id": "334",
+        "temperature": -2.16
+    },
+    {
+        "sensor_id": "335",
+        "temperature": -15.23
+    },
+    {
+        "sensor_id": "336",
+        "temperature": 20.24
+    },
+    {
+        "sensor_id": "337",
+        "temperature": -2.36
+    },
+    {
+        "sensor_id": "338",
+        "temperature": -15.07
+    },
+    {
+        "sensor_id": "339",
+        "temperature": 41.93
+    },
+    {
+        "sensor_id": "340",
+        "temperature": 39.93
+    },
+    {
+        "sensor_id": "341",
+        "temperature": 19.18
+    },
+    {
+        "sensor_id": "342",
+        "temperature": 32.17
+    },
+    {
+        "sensor_id": "343",
+        "temperature": 31.02
+    },
+    {
+        "sensor_id": "344",
+        "temperature": 5.85
+    },
+    {
+        "sensor_id": "345",
+        "temperature": 32.59
+    },
+    {
+        "sensor_id": "346",
+        "temperature": 6.04
+    },
+    {
+        "sensor_id": "347",
+        "temperature": 37.69
+    },
+    {
+        "sensor_id": "348",
+        "temperature": -18.93
+    },
+    {
+        "sensor_id": "349",
+        "temperature": -18.22
+    },
+    {
+        "sensor_id": "350",
+        "temperature": 3.29
+    },
+    {
+        "sensor_id": "351",
+        "temperature": 35.37
+    },
+    {
+        "sensor_id": "354",
+        "temperature": -5.81
+    },
+    {
+        "sensor_id": "355",
+        "temperature": 30.46
+    },
+    {
+        "sensor_id": "356",
+        "temperature": -15.32
+    },
+    {
+        "sensor_id": "357",
+        "temperature": 22.23
+    },
+    {
+        "sensor_id": "359",
+        "temperature": 41.12
+    },
+    {
+        "sensor_id": "360",
+        "temperature": -2.12
+    },
+    {
+        "sensor_id": "361",
+        "temperature": -13.65
+    },
+    {
+        "sensor_id": "362",
+        "temperature": 22.61
+    },
+    {
+        "sensor_id": "363",
+        "temperature": 31.99
+    },
+    {
+        "sensor_id": "364",
+        "temperature": 34.33
+    },
+    {
+        "sensor_id": "365",
+        "temperature": 39.42
+    },
+    {
+        "sensor_id": "366",
+        "temperature": 14.86
+    },
+    {
+        "sensor_id": "367",
+        "temperature": 9.54
+    },
+    {
+        "sensor_id": "368",
+        "temperature": 12.1
+    },
+    {
+        "sensor_id": "369",
+        "temperature": 14.24
+    },
+    {
+        "sensor_id": "370",
+        "temperature": 30.18
+    },
+    {
+        "sensor_id": "371",
+        "temperature": 47.31
+    },
+    {
+        "sensor_id": "372",
+        "temperature": 1.18
+    },
+    {
+        "sensor_id": "373",
+        "temperature": 13.05
+    },
+    {
+        "sensor_id": "374",
+        "temperature": 37.61
+    },
+    {
+        "sensor_id": "375",
+        "temperature": 37.75
+    },
+    {
+        "sensor_id": "376",
+        "temperature": 2.37
+    },
+    {
+        "sensor_id": "377",
+        "temperature": 19.39
+    },
+    {
+        "sensor_id": "378",
+        "temperature": 4.93
+    },
+    {
+        "sensor_id": "379",
+        "temperature": 17.33
+    },
+    {
+        "sensor_id": "380",
+        "temperature": 22.72
+    },
+    {
+        "sensor_id": "381",
+        "temperature": 38.08
+    },
+    {
+        "sensor_id": "382",
+        "temperature": 16.38
+    },
+    {
+        "sensor_id": "383",
+        "temperature": 10.76
+    },
+    {
+        "sensor_id": "384",
+        "temperature": 33.08
+    },
+    {
+        "sensor_id": "385",
+        "temperature": 43.04
+    },
+    {
+        "sensor_id": "386",
+        "temperature": -9.61
+    },
+    {
+        "sensor_id": "388",
+        "temperature": 45.32
+    },
+    {
+        "sensor_id": "389",
+        "temperature": 8.29
+    },
+    {
+        "sensor_id": "390",
+        "temperature": 26.08
+    },
+    {
+        "sensor_id": "391",
+        "temperature": 31.53
+    },
+    {
+        "sensor_id": "392",
+        "temperature": -8.05
+    },
+    {
+        "sensor_id": "393",
+        "temperature": 7.93
+    },
+    {
+        "sensor_id": "394",
+        "temperature": -19.17
+    },
+    {
+        "sensor_id": "395",
+        "temperature": -19.83
+    },
+    {
+        "sensor_id": "396",
+        "temperature": 46.36
+    },
+    {
+        "sensor_id": "397",
+        "temperature": 18.42
+    },
+    {
+        "sensor_id": "398",
+        "temperature": 13.68
+    },
+    {
+        "sensor_id": "399",
+        "temperature": 10.43
+    },
+    {
+        "sensor_id": "401",
+        "temperature": 49.65
+    },
+    {
+        "sensor_id": "403",
+        "temperature": 9.52
+    },
+    {
+        "sensor_id": "404",
+        "temperature": 14.94
+    },
+    {
+        "sensor_id": "405",
+        "temperature": -17.26
+    },
+    {
+        "sensor_id": "406",
+        "temperature": -2.34
+    },
+    {
+        "sensor_id": "407",
+        "temperature": 28.41
+    },
+    {
+        "sensor_id": "408",
+        "temperature": 4.95
+    },
+    {
+        "sensor_id": "409",
+        "temperature": 1.54
+    },
+    {
+        "sensor_id": "410",
+        "temperature": 5.18
+    },
+    {
+        "sensor_id": "412",
+        "temperature": 30.85
+    },
+    {
+        "sensor_id": "413",
+        "temperature": 5.37
+    },
+    {
+        "sensor_id": "414",
+        "temperature": 15.79
+    },
+    {
+        "sensor_id": "415",
+        "temperature": 46.06
+    },
+    {
+        "sensor_id": "416",
+        "temperature": 23.71
+    },
+    {
+        "sensor_id": "417",
+        "temperature": 29.75
+    },
+    {
+        "sensor_id": "418",
+        "temperature": 40.62
+    },
+    {
+        "sensor_id": "419",
+        "temperature": 39.07
+    },
+    {
+        "sensor_id": "420",
+        "temperature": -13.05
+    },
+    {
+        "sensor_id": "421",
+        "temperature": 23.29
+    },
+    {
+        "sensor_id": "422",
+        "temperature": 31.11
+    },
+    {
+        "sensor_id": "423",
+        "temperature": -5.55
+    },
+    {
+        "sensor_id": "424",
+        "temperature": 22.87
+    },
+    {
+        "sensor_id": "425",
+        "temperature": 39.9
+    },
+    {
+        "sensor_id": "426",
+        "temperature": -6.19
+    },
+    {
+        "sensor_id": "427",
+        "temperature": 18.59
+    },
+    {
+        "sensor_id": "428",
+        "temperature": 2.2
+    },
+    {
+        "sensor_id": "429",
+        "temperature": 14.28
+    },
+    {
+        "sensor_id": "430",
+        "temperature": 38.98
+    },
+    {
+        "sensor_id": "431",
+        "temperature": 46.5
+    },
+    {
+        "sensor_id": "432",
+        "temperature": -18.52
+    },
+    {
+        "sensor_id": "433",
+        "temperature": 8.11
+    },
+    {
+        "sensor_id": "434",
+        "temperature": 21.58
+    },
+    {
+        "sensor_id": "435",
+        "temperature": 37.21
+    },
+    {
+        "sensor_id": "436",
+        "temperature": 32.45
+    },
+    {
+        "sensor_id": "437",
+        "temperature": -1.45
+    },
+    {
+        "sensor_id": "438",
+        "temperature": 41.82
+    },
+    {
+        "sensor_id": "439",
+        "temperature": 9.39
+    },
+    {
+        "sensor_id": "441",
+        "temperature": 35.05
+    },
+    {
+        "sensor_id": "442",
+        "temperature": -1.81
+    },
+    {
+        "sensor_id": "443",
+        "temperature": -0.19
+    },
+    {
+        "sensor_id": "444",
+        "temperature": 45.86
+    },
+    {
+        "sensor_id": "445",
+        "temperature": 17.93
+    },
+    {
+        "sensor_id": "446",
+        "temperature": -0.77
+    },
+    {
+        "sensor_id": "447",
+        "temperature": 21.95
+    },
+    {
+        "sensor_id": "448",
+        "temperature": 44.64
+    },
+    {
+        "sensor_id": "449",
+        "temperature": -19.07
+    },
+    {
+        "sensor_id": "450",
+        "temperature": 2.35
+    },
+    {
+        "sensor_id": "451",
+        "temperature": -14.08
+    },
+    {
+        "sensor_id": "452",
+        "temperature": 1.55
+    },
+    {
+        "sensor_id": "453",
+        "temperature": 40.57
+    },
+    {
+        "sensor_id": "454",
+        "temperature": -16.23
+    },
+    {
+        "sensor_id": "455",
+        "temperature": 11.26
+    },
+    {
+        "sensor_id": "456",
+        "temperature": -6.57
+    },
+    {
+        "sensor_id": "457",
+        "temperature": -6.42
+    },
+    {
+        "sensor_id": "458",
+        "temperature": 23.06
+    },
+    {
+        "sensor_id": "459",
+        "temperature": 39.12
+    },
+    {
+        "sensor_id": "460",
+        "temperature": 2.55
+    },
+    {
+        "sensor_id": "461",
+        "temperature": 12.74
+    },
+    {
+        "sensor_id": "462",
+        "temperature": 21.12
+    },
+    {
+        "sensor_id": "463",
+        "temperature": 12.52
+    },
+    {
+        "sensor_id": "464",
+        "temperature": 26.38
+    },
+    {
+        "sensor_id": "465",
+        "temperature": 25.24
+    },
+    {
+        "sensor_id": "466",
+        "temperature": 37.67
+    },
+    {
+        "sensor_id": "468",
+        "temperature": 38.37
+    },
+    {
+        "sensor_id": "470",
+        "temperature": -1.06
+    },
+    {
+        "sensor_id": "471",
+        "temperature": 43.17
+    },
+    {
+        "sensor_id": "472",
+        "temperature": 16.22
+    },
+    {
+        "sensor_id": "473",
+        "temperature": 46.71
+    },
+    {
+        "sensor_id": "474",
+        "temperature": -11.71
+    },
+    {
+        "sensor_id": "475",
+        "temperature": 6.95
+    },
+    {
+        "sensor_id": "477",
+        "temperature": 44.33
+    },
+    {
+        "sensor_id": "478",
+        "temperature": -12.02
+    },
+    {
+        "sensor_id": "479",
+        "temperature": 33.8
+    },
+    {
+        "sensor_id": "480",
+        "temperature": 36.3
+    },
+    {
+        "sensor_id": "481",
+        "temperature": 39.89
+    },
+    {
+        "sensor_id": "482",
+        "temperature": -2.96
+    },
+    {
+        "sensor_id": "483",
+        "temperature": 21.26
+    },
+    {
+        "sensor_id": "484",
+        "temperature": -16.67
+    },
+    {
+        "sensor_id": "485",
+        "temperature": -14.02
+    },
+    {
+        "sensor_id": "487",
+        "temperature": 6.46
+    },
+    {
+        "sensor_id": "488",
+        "temperature": 8.11
+    },
+    {
+        "sensor_id": "489",
+        "temperature": 13.88
+    },
+    {
+        "sensor_id": "490",
+        "temperature": 15.67
+    },
+    {
+        "sensor_id": "491",
+        "temperature": 3.36
+    },
+    {
+        "sensor_id": "492",
+        "temperature": 33.06
+    },
+    {
+        "sensor_id": "493",
+        "temperature": -6.07
+    },
+    {
+        "sensor_id": "494",
+        "temperature": -12.79
+    },
+    {
+        "sensor_id": "495",
+        "temperature": -12.25
+    },
+    {
+        "sensor_id": "496",
+        "temperature": 20.68
+    },
+    {
+        "sensor_id": "498",
+        "temperature": -3.63
+    },
+    {
+        "sensor_id": "499",
+        "temperature": -3.28
+    },
+    {
+        "sensor_id": "500",
+        "temperature": -13.86
+    },
+    {
+        "sensor_id": "501",
+        "temperature": 34.24
+    },
+    {
+        "sensor_id": "502",
+        "temperature": 8.52
+    },
+    {
+        "sensor_id": "503",
+        "temperature": 36.8
+    },
+    {
+        "sensor_id": "504",
+        "temperature": -11.31
+    },
+    {
+        "sensor_id": "505",
+        "temperature": 25.01
+    },
+    {
+        "sensor_id": "506",
+        "temperature": 37.3
+    },
+    {
+        "sensor_id": "507",
+        "temperature": 43.55
+    },
+    {
+        "sensor_id": "509",
+        "temperature": -15.88
+    },
+    {
+        "sensor_id": "511",
+        "temperature": 35.97
+    },
+    {
+        "sensor_id": "512",
+        "temperature": 47.79
+    },
+    {
+        "sensor_id": "513",
+        "temperature": -7.62
+    },
+    {
+        "sensor_id": "515",
+        "temperature": 13.73
+    },
+    {
+        "sensor_id": "516",
+        "temperature": 42.64
+    },
+    {
+        "sensor_id": "517",
+        "temperature": 38.75
+    },
+    {
+        "sensor_id": "518",
+        "temperature": 18.49
+    },
+    {
+        "sensor_id": "519",
+        "temperature": -19.74
+    },
+    {
+        "sensor_id": "521",
+        "temperature": -12.92
+    },
+    {
+        "sensor_id": "522",
+        "temperature": -17.71
+    },
+    {
+        "sensor_id": "523",
+        "temperature": -7.5
+    },
+    {
+        "sensor_id": "524",
+        "temperature": 15.27
+    },
+    {
+        "sensor_id": "525",
+        "temperature": 14.56
+    },
+    {
+        "sensor_id": "526",
+        "temperature": 20.88
+    },
+    {
+        "sensor_id": "527",
+        "temperature": 33.97
+    },
+    {
+        "sensor_id": "528",
+        "temperature": 29.77
+    },
+    {
+        "sensor_id": "529",
+        "temperature": 12.84
+    },
+    {
+        "sensor_id": "530",
+        "temperature": 27.93
+    },
+    {
+        "sensor_id": "531",
+        "temperature": 17.62
+    },
+    {
+        "sensor_id": "532",
+        "temperature": -2.09
+    },
+    {
+        "sensor_id": "533",
+        "temperature": 38.11
+    },
+    {
+        "sensor_id": "534",
+        "temperature": 42.78
+    },
+    {
+        "sensor_id": "535",
+        "temperature": 38.93
+    },
+    {
+        "sensor_id": "537",
+        "temperature": 4.59
+    },
+    {
+        "sensor_id": "538",
+        "temperature": 26.84
+    },
+    {
+        "sensor_id": "539",
+        "temperature": 41.3
+    },
+    {
+        "sensor_id": "540",
+        "temperature": 5.43
+    },
+    {
+        "sensor_id": "541",
+        "temperature": -1.62
+    },
+    {
+        "sensor_id": "542",
+        "temperature": -3.49
+    },
+    {
+        "sensor_id": "543",
+        "temperature": -0.75
+    },
+    {
+        "sensor_id": "544",
+        "temperature": 44.33
+    },
+    {
+        "sensor_id": "545",
+        "temperature": 29.04
+    },
+    {
+        "sensor_id": "546",
+        "temperature": 30.31
+    },
+    {
+        "sensor_id": "547",
+        "temperature": -17.83
+    },
+    {
+        "sensor_id": "548",
+        "temperature": -18.09
+    },
+    {
+        "sensor_id": "549",
+        "temperature": 24.59
+    },
+    {
+        "sensor_id": "550",
+        "temperature": 23.55
+    },
+    {
+        "sensor_id": "551",
+        "temperature": 24.17
+    },
+    {
+        "sensor_id": "552",
+        "temperature": -9.69
+    },
+    {
+        "sensor_id": "553",
+        "temperature": 7.9
+    },
+    {
+        "sensor_id": "554",
+        "temperature": 3.64
+    },
+    {
+        "sensor_id": "555",
+        "temperature": -18.09
+    },
+    {
+        "sensor_id": "556",
+        "temperature": -2.84
+    },
+    {
+        "sensor_id": "558",
+        "temperature": -18.57
+    },
+    {
+        "sensor_id": "561",
+        "temperature": 29.03
+    },
+    {
+        "sensor_id": "562",
+        "temperature": -1.69
+    },
+    {
+        "sensor_id": "563",
+        "temperature": 16.28
+    },
+    {
+        "sensor_id": "565",
+        "temperature": -14.47
+    },
+    {
+        "sensor_id": "566",
+        "temperature": -16.3
+    },
+    {
+        "sensor_id": "567",
+        "temperature": 19.88
+    },
+    {
+        "sensor_id": "568",
+        "temperature": -9.9
+    },
+    {
+        "sensor_id": "569",
+        "temperature": 11.69
+    },
+    {
+        "sensor_id": "570",
+        "temperature": -1.61
+    },
+    {
+        "sensor_id": "571",
+        "temperature": 39.83
+    },
+    {
+        "sensor_id": "572",
+        "temperature": 31.86
+    },
+    {
+        "sensor_id": "573",
+        "temperature": 40.3
+    },
+    {
+        "sensor_id": "574",
+        "temperature": 5.73
+    },
+    {
+        "sensor_id": "575",
+        "temperature": -3.73
+    },
+    {
+        "sensor_id": "576",
+        "temperature": 16.49
+    },
+    {
+        "sensor_id": "577",
+        "temperature": -18.98
+    },
+    {
+        "sensor_id": "578",
+        "temperature": 42.12
+    },
+    {
+        "sensor_id": "579",
+        "temperature": 4.52
+    },
+    {
+        "sensor_id": "580",
+        "temperature": 0.53
+    },
+    {
+        "sensor_id": "581",
+        "temperature": 23.56
+    },
+    {
+        "sensor_id": "582",
+        "temperature": -8.14
+    },
+    {
+        "sensor_id": "584",
+        "temperature": 36.06
+    },
+    {
+        "sensor_id": "586",
+        "temperature": 9.53
+    },
+    {
+        "sensor_id": "587",
+        "temperature": -11.65
+    },
+    {
+        "sensor_id": "590",
+        "temperature": 37.34
+    },
+    {
+        "sensor_id": "591",
+        "temperature": -18.12
+    },
+    {
+        "sensor_id": "593",
+        "temperature": -13.19
+    },
+    {
+        "sensor_id": "595",
+        "temperature": 46.48
+    },
+    {
+        "sensor_id": "596",
+        "temperature": 32.37
+    },
+    {
+        "sensor_id": "597",
+        "temperature": 34.35
+    },
+    {
+        "sensor_id": "598",
+        "temperature": 10.4
+    },
+    {
+        "sensor_id": "599",
+        "temperature": 45.04
+    },
+    {
+        "sensor_id": "600",
+        "temperature": 26.79
+    },
+    {
+        "sensor_id": "601",
+        "temperature": -10.66
+    },
+    {
+        "sensor_id": "602",
+        "temperature": 27.72
+    },
+    {
+        "sensor_id": "603",
+        "temperature": 15.71
+    },
+    {
+        "sensor_id": "604",
+        "temperature": 3.73
+    },
+    {
+        "sensor_id": "605",
+        "temperature": 48.97
+    },
+    {
+        "sensor_id": "606",
+        "temperature": 39.94
+    },
+    {
+        "sensor_id": "607",
+        "temperature": -16.1
+    },
+    {
+        "sensor_id": "608",
+        "temperature": -14.49
+    },
+    {
+        "sensor_id": "609",
+        "temperature": 43.03
+    },
+    {
+        "sensor_id": "610",
+        "temperature": 41.36
+    },
+    {
+        "sensor_id": "611",
+        "temperature": 39.25
+    },
+    {
+        "sensor_id": "612",
+        "temperature": -19.01
+    },
+    {
+        "sensor_id": "613",
+        "temperature": 31.18
+    },
+    {
+        "sensor_id": "614",
+        "temperature": 12.73
+    },
+    {
+        "sensor_id": "615",
+        "temperature": 32.93
+    },
+    {
+        "sensor_id": "616",
+        "temperature": -6.27
+    },
+    {
+        "sensor_id": "617",
+        "temperature": -13.7
+    },
+    {
+        "sensor_id": "619",
+        "temperature": -19.29
+    },
+    {
+        "sensor_id": "620",
+        "temperature": 5.61
+    },
+    {
+        "sensor_id": "621",
+        "temperature": 45.18
+    },
+    {
+        "sensor_id": "622",
+        "temperature": 24.17
+    },
+    {
+        "sensor_id": "623",
+        "temperature": -1.17
+    },
+    {
+        "sensor_id": "624",
+        "temperature": 19.09
+    },
+    {
+        "sensor_id": "625",
+        "temperature": 22.8
+    },
+    {
+        "sensor_id": "626",
+        "temperature": 18.84
+    },
+    {
+        "sensor_id": "628",
+        "temperature": 39.48
+    },
+    {
+        "sensor_id": "629",
+        "temperature": 16.74
+    },
+    {
+        "sensor_id": "630",
+        "temperature": 35.49
+    },
+    {
+        "sensor_id": "631",
+        "temperature": -12.76
+    },
+    {
+        "sensor_id": "632",
+        "temperature": -5.45
+    },
+    {
+        "sensor_id": "633",
+        "temperature": -13.38
+    },
+    {
+        "sensor_id": "634",
+        "temperature": 32.07
+    },
+    {
+        "sensor_id": "635",
+        "temperature": 33.98
+    },
+    {
+        "sensor_id": "636",
+        "temperature": 41.07
+    },
+    {
+        "sensor_id": "637",
+        "temperature": 24.24
+    },
+    {
+        "sensor_id": "638",
+        "temperature": -4.98
+    },
+    {
+        "sensor_id": "639",
+        "temperature": 12.49
+    },
+    {
+        "sensor_id": "640",
+        "temperature": 25.42
+    },
+    {
+        "sensor_id": "641",
+        "temperature": 35.69
+    },
+    {
+        "sensor_id": "642",
+        "temperature": 4.68
+    },
+    {
+        "sensor_id": "643",
+        "temperature": 25.19
+    },
+    {
+        "sensor_id": "644",
+        "temperature": -11.08
+    },
+    {
+        "sensor_id": "645",
+        "temperature": 17.44
+    },
+    {
+        "sensor_id": "646",
+        "temperature": -5.28
+    },
+    {
+        "sensor_id": "647",
+        "temperature": -7.25
+    },
+    {
+        "sensor_id": "648",
+        "temperature": -14.17
+    },
+    {
+        "sensor_id": "649",
+        "temperature": 6.73
+    },
+    {
+        "sensor_id": "650",
+        "temperature": -3.26
+    },
+    {
+        "sensor_id": "651",
+        "temperature": 9.3
+    },
+    {
+        "sensor_id": "652",
+        "temperature": 32.29
+    },
+    {
+        "sensor_id": "653",
+        "temperature": 20.8
+    },
+    {
+        "sensor_id": "654",
+        "temperature": -2.13
+    },
+    {
+        "sensor_id": "656",
+        "temperature": 42.18
+    },
+    {
+        "sensor_id": "657",
+        "temperature": 0.8
+    },
+    {
+        "sensor_id": "658",
+        "temperature": -6.2
+    },
+    {
+        "sensor_id": "659",
+        "temperature": 26.54
+    },
+    {
+        "sensor_id": "660",
+        "temperature": -13.99
+    },
+    {
+        "sensor_id": "661",
+        "temperature": 45.94
+    },
+    {
+        "sensor_id": "662",
+        "temperature": 44.18
+    },
+    {
+        "sensor_id": "663",
+        "temperature": 20.48
+    },
+    {
+        "sensor_id": "664",
+        "temperature": 13.87
+    },
+    {
+        "sensor_id": "665",
+        "temperature": 29.74
+    },
+    {
+        "sensor_id": "666",
+        "temperature": 43.13
+    },
+    {
+        "sensor_id": "667",
+        "temperature": -9.51
+    },
+    {
+        "sensor_id": "668",
+        "temperature": 18.6
+    },
+    {
+        "sensor_id": "669",
+        "temperature": 46.05
+    },
+    {
+        "sensor_id": "670",
+        "temperature": -3.24
+    },
+    {
+        "sensor_id": "672",
+        "temperature": 45.62
+    },
+    {
+        "sensor_id": "673",
+        "temperature": 6.13
+    },
+    {
+        "sensor_id": "674",
+        "temperature": -9.97
+    },
+    {
+        "sensor_id": "675",
+        "temperature": 39.6
+    },
+    {
+        "sensor_id": "676",
+        "temperature": -4.52
+    },
+    {
+        "sensor_id": "677",
+        "temperature": 36.41
+    },
+    {
+        "sensor_id": "678",
+        "temperature": 32.45
+    },
+    {
+        "sensor_id": "679",
+        "temperature": -9.57
+    },
+    {
+        "sensor_id": "681",
+        "temperature": 14.4
+    },
+    {
+        "sensor_id": "682",
+        "temperature": 20.37
+    },
+    {
+        "sensor_id": "683",
+        "temperature": 25.5
+    },
+    {
+        "sensor_id": "684",
+        "temperature": -14.92
+    },
+    {
+        "sensor_id": "686",
+        "temperature": 13.24
+    },
+    {
+        "sensor_id": "687",
+        "temperature": 30.27
+    },
+    {
+        "sensor_id": "688",
+        "temperature": -8.97
+    },
+    {
+        "sensor_id": "689",
+        "temperature": 13.9
+    },
+    {
+        "sensor_id": "690",
+        "temperature": 45.5
+    },
+    {
+        "sensor_id": "692",
+        "temperature": -15.78
+    },
+    {
+        "sensor_id": "693",
+        "temperature": 48.47
+    },
+    {
+        "sensor_id": "695",
+        "temperature": 9.39
+    },
+    {
+        "sensor_id": "696",
+        "temperature": 13.5
+    },
+    {
+        "sensor_id": "697",
+        "temperature": -8.62
+    },
+    {
+        "sensor_id": "698",
+        "temperature": 14.54
+    },
+    {
+        "sensor_id": "699",
+        "temperature": -9.61
+    },
+    {
+        "sensor_id": "700",
+        "temperature": 39.95
+    },
+    {
+        "sensor_id": "701",
+        "temperature": 30.07
+    },
+    {
+        "sensor_id": "702",
+        "temperature": -8.64
+    },
+    {
+        "sensor_id": "703",
+        "temperature": 31.19
+    },
+    {
+        "sensor_id": "704",
+        "temperature": 4.36
+    },
+    {
+        "sensor_id": "706",
+        "temperature": 7.56
+    },
+    {
+        "sensor_id": "707",
+        "temperature": 12.63
+    },
+    {
+        "sensor_id": "708",
+        "temperature": 38.59
+    },
+    {
+        "sensor_id": "710",
+        "temperature": -9.42
+    },
+    {
+        "sensor_id": "711",
+        "temperature": 39.37
+    },
+    {
+        "sensor_id": "712",
+        "temperature": -1.44
+    },
+    {
+        "sensor_id": "713",
+        "temperature": 41.95
+    },
+    {
+        "sensor_id": "714",
+        "temperature": -13.28
+    },
+    {
+        "sensor_id": "715",
+        "temperature": -11.45
+    },
+    {
+        "sensor_id": "716",
+        "temperature": 17.81
+    },
+    {
+        "sensor_id": "717",
+        "temperature": 17.17
+    },
+    {
+        "sensor_id": "718",
+        "temperature": 23.34
+    },
+    {
+        "sensor_id": "719",
+        "temperature": -5.72
+    },
+    {
+        "sensor_id": "720",
+        "temperature": -11.6
+    },
+    {
+        "sensor_id": "721",
+        "temperature": -8.19
+    },
+    {
+        "sensor_id": "722",
+        "temperature": -16.57
+    },
+    {
+        "sensor_id": "723",
+        "temperature": 31.22
+    },
+    {
+        "sensor_id": "724",
+        "temperature": 18.35
+    },
+    {
+        "sensor_id": "725",
+        "temperature": 38.46
+    },
+    {
+        "sensor_id": "727",
+        "temperature": 23.34
+    },
+    {
+        "sensor_id": "728",
+        "temperature": 38.74
+    },
+    {
+        "sensor_id": "729",
+        "temperature": -3.8
+    },
+    {
+        "sensor_id": "730",
+        "temperature": -16.67
+    },
+    {
+        "sensor_id": "731",
+        "temperature": 48.07
+    },
+    {
+        "sensor_id": "732",
+        "temperature": 18.9
+    },
+    {
+        "sensor_id": "733",
+        "temperature": -10.53
+    },
+    {
+        "sensor_id": "735",
+        "temperature": -8.63
+    },
+    {
+        "sensor_id": "736",
+        "temperature": 32.43
+    },
+    {
+        "sensor_id": "737",
+        "temperature": 23.89
+    },
+    {
+        "sensor_id": "738",
+        "temperature": 35.43
+    },
+    {
+        "sensor_id": "739",
+        "temperature": 48.68
+    },
+    {
+        "sensor_id": "740",
+        "temperature": 39.31
+    },
+    {
+        "sensor_id": "741",
+        "temperature": -3.66
+    },
+    {
+        "sensor_id": "742",
+        "temperature": -1.51
+    },
+    {
+        "sensor_id": "743",
+        "temperature": 24.52
+    },
+    {
+        "sensor_id": "744",
+        "temperature": -3.84
+    },
+    {
+        "sensor_id": "745",
+        "temperature": 20.71
+    },
+    {
+        "sensor_id": "746",
+        "temperature": 35.51
+    },
+    {
+        "sensor_id": "747",
+        "temperature": 26.63
+    },
+    {
+        "sensor_id": "748",
+        "temperature": 17.86
+    },
+    {
+        "sensor_id": "749",
+        "temperature": 20.4
+    },
+    {
+        "sensor_id": "750",
+        "temperature": 23.54
+    },
+    {
+        "sensor_id": "752",
+        "temperature": 21.8
+    },
+    {
+        "sensor_id": "753",
+        "temperature": 15.49
+    },
+    {
+        "sensor_id": "754",
+        "temperature": -6.59
+    },
+    {
+        "sensor_id": "755",
+        "temperature": -5.56
+    },
+    {
+        "sensor_id": "756",
+        "temperature": 28.17
+    },
+    {
+        "sensor_id": "757",
+        "temperature": 29.45
+    },
+    {
+        "sensor_id": "758",
+        "temperature": 0.12
+    },
+    {
+        "sensor_id": "759",
+        "temperature": -18.29
+    },
+    {
+        "sensor_id": "760",
+        "temperature": 12.1
+    },
+    {
+        "sensor_id": "761",
+        "temperature": 15.13
+    },
+    {
+        "sensor_id": "762",
+        "temperature": 18.23
+    },
+    {
+        "sensor_id": "763",
+        "temperature": -7.44
+    },
+    {
+        "sensor_id": "764",
+        "temperature": 28.79
+    },
+    {
+        "sensor_id": "765",
+        "temperature": -14.62
+    },
+    {
+        "sensor_id": "766",
+        "temperature": -11.17
+    },
+    {
+        "sensor_id": "767",
+        "temperature": 9.73
+    },
+    {
+        "sensor_id": "768",
+        "temperature": 29.15
+    },
+    {
+        "sensor_id": "769",
+        "temperature": 28.38
+    },
+    {
+        "sensor_id": "771",
+        "temperature": 37.87
+    },
+    {
+        "sensor_id": "772",
+        "temperature": 35.8
+    },
+    {
+        "sensor_id": "773",
+        "temperature": 33.7
+    },
+    {
+        "sensor_id": "774",
+        "temperature": -10.77
+    },
+    {
+        "sensor_id": "775",
+        "temperature": 32.93
+    },
+    {
+        "sensor_id": "776",
+        "temperature": 26.7
+    },
+    {
+        "sensor_id": "777",
+        "temperature": 45.86
+    },
+    {
+        "sensor_id": "778",
+        "temperature": -17.84
+    },
+    {
+        "sensor_id": "779",
+        "temperature": 2.95
+    },
+    {
+        "sensor_id": "781",
+        "temperature": 29.41
+    },
+    {
+        "sensor_id": "782",
+        "temperature": -13.19
+    },
+    {
+        "sensor_id": "783",
+        "temperature": 20.69
+    },
+    {
+        "sensor_id": "784",
+        "temperature": 15.94
+    },
+    {
+        "sensor_id": "786",
+        "temperature": 5.29
+    },
+    {
+        "sensor_id": "787",
+        "temperature": 16.38
+    },
+    {
+        "sensor_id": "788",
+        "temperature": -19.0
+    },
+    {
+        "sensor_id": "789",
+        "temperature": -3.33
+    },
+    {
+        "sensor_id": "790",
+        "temperature": 44.62
+    },
+    {
+        "sensor_id": "791",
+        "temperature": 46.2
+    },
+    {
+        "sensor_id": "792",
+        "temperature": 15.96
+    },
+    {
+        "sensor_id": "793",
+        "temperature": 27.53
+    },
+    {
+        "sensor_id": "794",
+        "temperature": 32.53
+    },
+    {
+        "sensor_id": "795",
+        "temperature": -17.46
+    },
+    {
+        "sensor_id": "796",
+        "temperature": 33.19
+    },
+    {
+        "sensor_id": "797",
+        "temperature": -11.56
+    },
+    {
+        "sensor_id": "798",
+        "temperature": 9.98
+    },
+    {
+        "sensor_id": "799",
+        "temperature": 19.52
+    },
+    {
+        "sensor_id": "800",
+        "temperature": 40.05
+    },
+    {
+        "sensor_id": "801",
+        "temperature": 3.86
+    },
+    {
+        "sensor_id": "802",
+        "temperature": -10.56
+    },
+    {
+        "sensor_id": "803",
+        "temperature": 44.89
+    },
+    {
+        "sensor_id": "804",
+        "temperature": 24.44
+    },
+    {
+        "sensor_id": "805",
+        "temperature": 19.11
+    },
+    {
+        "sensor_id": "806",
+        "temperature": 28.71
+    },
+    {
+        "sensor_id": "807",
+        "temperature": 28.66
+    },
+    {
+        "sensor_id": "809",
+        "temperature": 28.47
+    },
+    {
+        "sensor_id": "810",
+        "temperature": 22.34
+    },
+    {
+        "sensor_id": "811",
+        "temperature": 46.28
+    },
+    {
+        "sensor_id": "812",
+        "temperature": 36.4
+    },
+    {
+        "sensor_id": "813",
+        "temperature": 20.12
+    },
+    {
+        "sensor_id": "814",
+        "temperature": 49.48
+    },
+    {
+        "sensor_id": "815",
+        "temperature": 8.78
+    },
+    {
+        "sensor_id": "817",
+        "temperature": -13.02
+    },
+    {
+        "sensor_id": "818",
+        "temperature": -0.91
+    },
+    {
+        "sensor_id": "819",
+        "temperature": 36.8
+    },
+    {
+        "sensor_id": "820",
+        "temperature": 23.39
+    },
+    {
+        "sensor_id": "821",
+        "temperature": 6.22
+    },
+    {
+        "sensor_id": "822",
+        "temperature": 40.34
+    },
+    {
+        "sensor_id": "824",
+        "temperature": 8.11
+    },
+    {
+        "sensor_id": "826",
+        "temperature": 20.27
+    },
+    {
+        "sensor_id": "827",
+        "temperature": -4.43
+    },
+    {
+        "sensor_id": "828",
+        "temperature": 47.87
+    },
+    {
+        "sensor_id": "829",
+        "temperature": 48.85
+    },
+    {
+        "sensor_id": "830",
+        "temperature": 2.18
+    },
+    {
+        "sensor_id": "831",
+        "temperature": 39.72
+    },
+    {
+        "sensor_id": "832",
+        "temperature": 1.02
+    },
+    {
+        "sensor_id": "833",
+        "temperature": -14.67
+    },
+    {
+        "sensor_id": "835",
+        "temperature": -13.25
+    },
+    {
+        "sensor_id": "836",
+        "temperature": 29.59
+    },
+    {
+        "sensor_id": "837",
+        "temperature": -16.9
+    },
+    {
+        "sensor_id": "838",
+        "temperature": -17.03
+    },
+    {
+        "sensor_id": "839",
+        "temperature": 49.41
+    },
+    {
+        "sensor_id": "840",
+        "temperature": -14.66
+    },
+    {
+        "sensor_id": "841",
+        "temperature": 18.91
+    },
+    {
+        "sensor_id": "842",
+        "temperature": 41.02
+    },
+    {
+        "sensor_id": "843",
+        "temperature": 13.74
+    },
+    {
+        "sensor_id": "844",
+        "temperature": 37.22
+    },
+    {
+        "sensor_id": "845",
+        "temperature": -14.09
+    },
+    {
+        "sensor_id": "847",
+        "temperature": -8.74
+    },
+    {
+        "sensor_id": "849",
+        "temperature": 22.33
+    },
+    {
+        "sensor_id": "850",
+        "temperature": -16.37
+    },
+    {
+        "sensor_id": "851",
+        "temperature": 28.77
+    },
+    {
+        "sensor_id": "852",
+        "temperature": 1.21
+    },
+    {
+        "sensor_id": "853",
+        "temperature": 48.14
+    },
+    {
+        "sensor_id": "854",
+        "temperature": 14.1
+    },
+    {
+        "sensor_id": "855",
+        "temperature": 47.26
+    },
+    {
+        "sensor_id": "856",
+        "temperature": 2.72
+    },
+    {
+        "sensor_id": "857",
+        "temperature": 15.11
+    },
+    {
+        "sensor_id": "858",
+        "temperature": 46.75
+    },
+    {
+        "sensor_id": "859",
+        "temperature": 3.2
+    },
+    {
+        "sensor_id": "860",
+        "temperature": 38.64
+    },
+    {
+        "sensor_id": "862",
+        "temperature": 2.88
+    },
+    {
+        "sensor_id": "863",
+        "temperature": 8.66
+    },
+    {
+        "sensor_id": "864",
+        "temperature": 0.02
+    },
+    {
+        "sensor_id": "865",
+        "temperature": -8.71
+    },
+    {
+        "sensor_id": "866",
+        "temperature": 31.56
+    },
+    {
+        "sensor_id": "867",
+        "temperature": 33.41
+    },
+    {
+        "sensor_id": "868",
+        "temperature": 39.27
+    },
+    {
+        "sensor_id": "869",
+        "temperature": 21.09
+    },
+    {
+        "sensor_id": "870",
+        "temperature": -4.61
+    },
+    {
+        "sensor_id": "871",
+        "temperature": -11.9
+    },
+    {
+        "sensor_id": "872",
+        "temperature": -7.58
+    },
+    {
+        "sensor_id": "873",
+        "temperature": 47.59
+    },
+    {
+        "sensor_id": "874",
+        "temperature": 24.34
+    },
+    {
+        "sensor_id": "875",
+        "temperature": 0.45
+    },
+    {
+        "sensor_id": "876",
+        "temperature": -10.29
+    },
+    {
+        "sensor_id": "877",
+        "temperature": 32.4
+    },
+    {
+        "sensor_id": "878",
+        "temperature": 10.99
+    },
+    {
+        "sensor_id": "879",
+        "temperature": 23.59
+    },
+    {
+        "sensor_id": "880",
+        "temperature": 36.18
+    },
+    {
+        "sensor_id": "881",
+        "temperature": 30.83
+    },
+    {
+        "sensor_id": "882",
+        "temperature": 27.79
+    },
+    {
+        "sensor_id": "883",
+        "temperature": 35.21
+    },
+    {
+        "sensor_id": "884",
+        "temperature": 8.53
+    },
+    {
+        "sensor_id": "885",
+        "temperature": -8.99
+    },
+    {
+        "sensor_id": "886",
+        "temperature": -5.2
+    },
+    {
+        "sensor_id": "887",
+        "temperature": -7.79
+    },
+    {
+        "sensor_id": "888",
+        "temperature": 38.81
+    },
+    {
+        "sensor_id": "889",
+        "temperature": -12.91
+    },
+    {
+        "sensor_id": "890",
+        "temperature": -17.02
+    },
+    {
+        "sensor_id": "891",
+        "temperature": 19.51
+    },
+    {
+        "sensor_id": "892",
+        "temperature": 2.08
+    },
+    {
+        "sensor_id": "893",
+        "temperature": 4.26
+    },
+    {
+        "sensor_id": "894",
+        "temperature": 5.67
+    },
+    {
+        "sensor_id": "895",
+        "temperature": -15.22
+    },
+    {
+        "sensor_id": "896",
+        "temperature": 40.89
+    },
+    {
+        "sensor_id": "897",
+        "temperature": 45.52
+    },
+    {
+        "sensor_id": "898",
+        "temperature": -5.32
+    },
+    {
+        "sensor_id": "899",
+        "temperature": 1.03
+    },
+    {
+        "sensor_id": "900",
+        "temperature": -2.32
+    },
+    {
+        "sensor_id": "901",
+        "temperature": 19.38
+    },
+    {
+        "sensor_id": "902",
+        "temperature": 25.42
+    },
+    {
+        "sensor_id": "903",
+        "temperature": -14.77
+    },
+    {
+        "sensor_id": "904",
+        "temperature": 0.33
+    },
+    {
+        "sensor_id": "905",
+        "temperature": 27.07
+    },
+    {
+        "sensor_id": "906",
+        "temperature": 29.67
+    },
+    {
+        "sensor_id": "907",
+        "temperature": 15.46
+    },
+    {
+        "sensor_id": "908",
+        "temperature": 19.83
+    },
+    {
+        "sensor_id": "909",
+        "temperature": 44.21
+    },
+    {
+        "sensor_id": "910",
+        "temperature": 4.21
+    },
+    {
+        "sensor_id": "911",
+        "temperature": -0.33
+    },
+    {
+        "sensor_id": "912",
+        "temperature": 31.77
+    },
+    {
+        "sensor_id": "913",
+        "temperature": 17.81
+    },
+    {
+        "sensor_id": "914",
+        "temperature": 31.74
+    },
+    {
+        "sensor_id": "915",
+        "temperature": 15.89
+    },
+    {
+        "sensor_id": "916",
+        "temperature": 31.16
+    },
+    {
+        "sensor_id": "917",
+        "temperature": 47.03
+    },
+    {
+        "sensor_id": "918",
+        "temperature": 2.7
+    },
+    {
+        "sensor_id": "919",
+        "temperature": 4.69
+    },
+    {
+        "sensor_id": "920",
+        "temperature": 24.87
+    },
+    {
+        "sensor_id": "921",
+        "temperature": 3.14
+    },
+    {
+        "sensor_id": "922",
+        "temperature": 7.27
+    },
+    {
+        "sensor_id": "923",
+        "temperature": 6.21
+    },
+    {
+        "sensor_id": "924",
+        "temperature": -4.31
+    },
+    {
+        "sensor_id": "928",
+        "temperature": -8.46
+    },
+    {
+        "sensor_id": "929",
+        "temperature": -2.74
+    },
+    {
+        "sensor_id": "930",
+        "temperature": -8.64
+    },
+    {
+        "sensor_id": "931",
+        "temperature": 34.26
+    },
+    {
+        "sensor_id": "932",
+        "temperature": 10.94
+    },
+    {
+        "sensor_id": "933",
+        "temperature": 13.96
+    },
+    {
+        "sensor_id": "934",
+        "temperature": 26.33
+    },
+    {
+        "sensor_id": "936",
+        "temperature": -4.11
+    },
+    {
+        "sensor_id": "937",
+        "temperature": 46.61
+    },
+    {
+        "sensor_id": "938",
+        "temperature": -19.43
+    },
+    {
+        "sensor_id": "939",
+        "temperature": -14.24
+    },
+    {
+        "sensor_id": "940",
+        "temperature": 22.8
+    },
+    {
+        "sensor_id": "941",
+        "temperature": 17.77
+    },
+    {
+        "sensor_id": "942",
+        "temperature": 16.77
+    },
+    {
+        "sensor_id": "944",
+        "temperature": -15.5
+    },
+    {
+        "sensor_id": "946",
+        "temperature": 19.22
+    },
+    {
+        "sensor_id": "947",
+        "temperature": -0.86
+    },
+    {
+        "sensor_id": "948",
+        "temperature": 17.74
+    },
+    {
+        "sensor_id": "949",
+        "temperature": 27.61
+    },
+    {
+        "sensor_id": "951",
+        "temperature": 31.78
+    },
+    {
+        "sensor_id": "952",
+        "temperature": 45.28
+    },
+    {
+        "sensor_id": "953",
+        "temperature": 31.69
+    },
+    {
+        "sensor_id": "954",
+        "temperature": 20.6
+    },
+    {
+        "sensor_id": "955",
+        "temperature": 35.63
+    },
+    {
+        "sensor_id": "956",
+        "temperature": -7.29
+    },
+    {
+        "sensor_id": "957",
+        "temperature": 29.18
+    },
+    {
+        "sensor_id": "958",
+        "temperature": -6.69
+    },
+    {
+        "sensor_id": "959",
+        "temperature": 35.94
+    },
+    {
+        "sensor_id": "960",
+        "temperature": -6.0
+    },
+    {
+        "sensor_id": "961",
+        "temperature": 10.65
+    },
+    {
+        "sensor_id": "963",
+        "temperature": 40.31
+    },
+    {
+        "sensor_id": "964",
+        "temperature": -19.77
+    },
+    {
+        "sensor_id": "965",
+        "temperature": -15.69
+    },
+    {
+        "sensor_id": "967",
+        "temperature": -0.47
+    },
+    {
+        "sensor_id": "968",
+        "temperature": -1.63
+    },
+    {
+        "sensor_id": "969",
+        "temperature": 49.41
+    },
+    {
+        "sensor_id": "970",
+        "temperature": 22.13
+    },
+    {
+        "sensor_id": "971",
+        "temperature": 17.87
+    },
+    {
+        "sensor_id": "972",
+        "temperature": 39.81
+    },
+    {
+        "sensor_id": "973",
+        "temperature": 16.29
+    },
+    {
+        "sensor_id": "974",
+        "temperature": 7.07
+    },
+    {
+        "sensor_id": "975",
+        "temperature": 10.21
+    },
+    {
+        "sensor_id": "976",
+        "temperature": -6.48
+    },
+    {
+        "sensor_id": "977",
+        "temperature": 45.39
+    },
+    {
+        "sensor_id": "978",
+        "temperature": -9.02
+    },
+    {
+        "sensor_id": "979",
+        "temperature": 10.7
+    },
+    {
+        "sensor_id": "980",
+        "temperature": 42.41
+    },
+    {
+        "sensor_id": "981",
+        "temperature": -3.32
+    },
+    {
+        "sensor_id": "982",
+        "temperature": 5.26
+    },
+    {
+        "sensor_id": "983",
+        "temperature": 40.2
+    },
+    {
+        "sensor_id": "984",
+        "temperature": 43.52
+    },
+    {
+        "sensor_id": "985",
+        "temperature": 30.29
+    },
+    {
+        "sensor_id": "986",
+        "temperature": 27.95
+    },
+    {
+        "sensor_id": "987",
+        "temperature": 2.85
+    },
+    {
+        "sensor_id": "988",
+        "temperature": 20.73
+    },
+    {
+        "sensor_id": "989",
+        "temperature": 16.88
+    },
+    {
+        "sensor_id": "990",
+        "temperature": -3.1
+    },
+    {
+        "sensor_id": "992",
+        "temperature": 2.01
+    },
+    {
+        "sensor_id": "994",
+        "temperature": 16.22
+    },
+    {
+        "sensor_id": "995",
+        "temperature": 48.01
+    },
+    {
+        "sensor_id": "996",
+        "temperature": 27.21
+    },
+    {
+        "sensor_id": "997",
+        "temperature": -1.58
+    },
+    {
+        "sensor_id": "998",
+        "temperature": 28.85
+    },
+    {
+        "sensor_id": "999",
+        "temperature": 1.91
+    },
+    {
+        "sensor_id": "1000",
+        "temperature": -8.71
+    }
+]
