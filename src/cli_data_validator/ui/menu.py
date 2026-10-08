@@ -95,7 +95,7 @@ def interactive_loop() -> None:
             # Pausa para o usuário ver o resultado antes de recarregar a tela
             console.print("[bold green]Finished![/bold green]")
             console.print(
-                f"[bold green]You can find the results in output folder[/bold green]"
+                "[bold green]You can find the results in output folder[/bold green]"
             )
             questionary.press_any_key_to_continue(
                 "Pressione qualquer tecla para voltar ao menu principal..."

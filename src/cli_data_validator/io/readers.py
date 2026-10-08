@@ -2,6 +2,7 @@ import csv
 from collections.abc import Generator
 from pathlib import Path
 
+
 class CSVReader:
     """
     A class to read CSV files and yield their contents as lists of strings.

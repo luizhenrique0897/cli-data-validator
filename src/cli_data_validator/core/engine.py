@@ -1,6 +1,6 @@
 import time
-from typing import Any
 from collections.abc import Generator
+from typing import Any
 
 from pydantic import BaseModel, ValidationError
 
