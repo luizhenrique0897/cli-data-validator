@@ -42,7 +42,7 @@ def test_load_valid_json(tmp_path: Path) -> None:
 
 def test_load_file_not_found() -> None:
     """Tests if FileNotFoundError is raised when the file does not exist."""
-    non_existent_path = Path("invalud/path/config.yaml")
+    non_existent_path = Path("invalid/path/config.yaml")
     with pytest.raises(FileNotFoundError) as exc_info:
         Schema.load_file(non_existent_path)
 

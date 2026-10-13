@@ -22,7 +22,7 @@ from cli_data_validator.ui.reporter import CLIReporter
 
 console = Console()
 BASE_DIR = Path(__file__).resolve().parent.parent
-DEFAULT_SQUEMA_PATH = BASE_DIR / "core" / "test.yaml"
+DEFAULT_SCHEMA_PATH = BASE_DIR / "core" / "test.yaml"
 
 
 def display_header() -> None:
@@ -74,7 +74,7 @@ def interactive_loop() -> None:
             ).ask()
 
             data_path = Path(data_file)
-            squema_path = Path(DEFAULT_SQUEMA_PATH)
+            schema_path = Path(DEFAULT_SCHEMA_PATH)
 
             if not data_path.exists():
                 console.print("\n[bold red]Error: Data file not found![bold red]\n")
@@ -85,8 +85,8 @@ def interactive_loop() -> None:
                 with console.status(
                     "[bold green]Loading configs and analyzing dataset...[bold green]"
                 ):
-                    squema_data = Schema.load_file(squema_path)
-                    model = DynamicModelFactory.create_model_from_schema(squema_data)
+                    schema_data = Schema.load_file(schema_path)
+                    model = DynamicModelFactory.create_model_from_schema(schema_data)
                     records_stream = CSVReader.read(data_path)
                     result = ValidationEngine.validate(
                         data=records_stream, validation_model=model
@@ -135,7 +135,7 @@ def _cast_numeric_value(val_str: str | None, field_type: str) -> Any:
 
 def _handle_edit_schema() -> None:
     """Sub-menu handler for interactive schema modification and YAML serialization."""
-    schema_path = Path(DEFAULT_SQUEMA_PATH)
+    schema_path = Path(DEFAULT_SCHEMA_PATH)
 
     if not schema_path.exists():
         console.print("\n[bold red]Error: Schema file not found![/bold red]\n")
@@ -282,7 +282,7 @@ def _remove_field(config: dict) -> None:
         del config["config"][field_name]
         console.print(f"\n[bold green]Field {field_name} removed![/bold green]\n")
     else:
-        console.print(f"\n[bold red]Field {field_name} not found in squema![/bold red]\n")
+        console.print(f"\n[bold red]Field {field_name} not found in schema![/bold red]\n")
 
     questionary.press_any_key_to_continue(
         "Press any key to return to the schema menu..."
