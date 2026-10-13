@@ -1,9 +1,9 @@
-# 🚀 CLI Data Sanitizer & Validator Engine
+# CLI Data Sanitizer & Validator Engine
 
 [![Python 3.11+](https://img.shields.io/badge/python-3.11+-blue.svg)](https://www.python.org/downloads/)
 [![Pydantic v2](https://img.shields.io/badge/pydantic-v2-red.svg)](https://docs.pydantic.dev/latest/)
 [![Code Style: Ruff](https://img.shields.io/badge/code%20style-ruff-000000.svg)](https://github.com/astral-sh/ruff)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)]
 
 An interactive Command Line Interface (CLI) application designed to validate and sanitize dataset streams (CSV) against dynamically generated **Pydantic V2** schemas defined in YAML or JSON.
 
@@ -115,3 +115,13 @@ uv run pytest -v
 ## 📄 License
 
 This project is licensed under the MIT License.
+
+---
+
+## 🔮 Future Enhancements & Roadmap
+
+While the current version fully solves local streaming and dynamic schema validation, the following features are planned for future scale:
+
+- [ ] **Data Source Expansion:** Add built-in support for streaming directly from SQL databases (via SQLAlchemy) and Cloud Storage (AWS S3, Google Cloud Storage).
+- [ ] **Parquet & JSON Lines Support:** Extend file reader capabilities beyond CSV to handle big-data formats like Apache Parquet and `.jsonl`.
+- [ ] **Custom Validation Plugins:** Allow users to write custom Python validation functions dynamically referenced inside YAML configurations.
