@@ -11,7 +11,26 @@ A interactive Command Line Interface (CLI) application designed to validate and 
 <p align="center">
   <img src="assets/demo.gif" alt="CLI Data Validator Demo" width="100%">
 </p>
+
 ---
+
+## 💡 Motivation & Overview
+
+In data engineering pipelines, validating incoming datasets before loading them into databases is crucial to prevent corrupted states. However, hardcoding validation models for every changing dataset structure is rigid and inefficient. 
+
+This project was built to solve this challenge by combining **metaprogramming** with a modern **CLI experience**. It allows users to:
+1. Define rules flexibly using configuration files (`YAML`/`JSON`).
+2. Generate strict data models dynamically at runtime using **Pydantic V2**.
+3. Process data efficiently without memory overhead and audit failures instantly via terminal reports.
+
+---
+## ⚙️ How It Works (Execution Flow)
+
+```text
+[ YAML / JSON Schema ] ──> Dynamic Model Factory (Pydantic V2)
+                                     │
+[ CSV Dataset File ]   ──> Generator Streaming Reader ──> Validation Engine ──┬──> Valid JSON Output
+                                                                              └──> Error Audit Log
 
 ## 🎯 Key Features
 
@@ -53,3 +72,24 @@ src/cli_data_validator/
 └── ui/                 # Presentation & REPL Layer
     ├── menu.py         # Main interactive terminal loop
     └── reporter.py     # Rich table rendering for summaries & error logs
+
+---
+
+## 🚀 Quick Start & Usage
+**Running Locally**
+```text
+# Clone the repository and sync dependencies with uv
+uv sync
+
+# Run the interactive CLI application
+uv run python -m cli_data_validator.main
+
+**Running with Docker (Recommended for Evaluation)**
+```text
+# Run interactively via Docker Compose
+docker compose run --rm cli-validator
+
+---
+
+## 📄 License
+This project is licensed under the MIT License
