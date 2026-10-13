@@ -102,23 +102,13 @@ docker compose run --rm cli-validator
 
 ---
 
-## 🧪 Running Tests
-
-Run the test suite to verify schema parsing, model generation, and validation correctness:
-
-```bash
-uv run pytest -v
-```
-
----
-
 ## 📄 License
 
 This project is licensed under the MIT License.
 
 ---
 
-## 🔮 Future Enhancements & Roadmap
+## Future Enhancements & Roadmap
 
 While the current version fully solves local streaming and dynamic schema validation, the following features are planned for future scale:
 
