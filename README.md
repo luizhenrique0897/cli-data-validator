@@ -5,9 +5,10 @@
 [![Code Style: Ruff](https://img.shields.io/badge/code%20style-ruff-000000.svg)](https://github.com/astral-sh/ruff)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
-A interactive Command Line Interface (CLI) application designed to validate and sanitize dataset streams (CSV) against dynamically generated **Pydantic V2** schemas defined in YAML or JSON.
+An interactive Command Line Interface (CLI) application designed to validate and sanitize dataset streams (CSV) against dynamically generated **Pydantic V2** schemas defined in YAML or JSON.
 
 ---
+
 <p align="center">
   <img src="assets/demo.gif" alt="CLI Data Validator Demo" width="100%">
 </p>
@@ -24,6 +25,7 @@ This project was built to solve this challenge by combining **metaprogramming** 
 3. Process data efficiently without memory overhead and audit failures instantly via terminal reports.
 
 ---
+
 ## ⚙️ How It Works (Execution Flow)
 
 ```text
@@ -31,6 +33,9 @@ This project was built to solve this challenge by combining **metaprogramming** 
                                      │
 [ CSV Dataset File ]   ──> Generator Streaming Reader ──> Validation Engine ──┬──> Valid JSON Output
                                                                               └──> Error Audit Log
+```
+
+---
 
 ## 🎯 Key Features
 
@@ -52,7 +57,7 @@ This project was built to solve this challenge by combining **metaprogramming** 
 - **Data Validation:** Pydantic V2 (`create_model`, `Field`, `SchemaValidator`)
 - **CLI & UI:** `Rich` (tables, status indicators) & `Questionary` (interactive prompts)
 - **Configuration & I/O:** `PyYAML`, `json`, `csv`
-- **Package Manager & Tooling:** `uv`, `pytest`
+- **Package Manager & Tooling:** `uv`, `pytest`, `Docker`
 
 ---
 
@@ -72,24 +77,41 @@ src/cli_data_validator/
 └── ui/                 # Presentation & REPL Layer
     ├── menu.py         # Main interactive terminal loop
     └── reporter.py     # Rich table rendering for summaries & error logs
+```
 
 ---
 
 ## 🚀 Quick Start & Usage
-**Running Locally**
-```text
+
+### Running Locally
+
+```bash
 # Clone the repository and sync dependencies with uv
 uv sync
 
 # Run the interactive CLI application
 uv run python -m cli_data_validator.main
+```
 
-**Running with Docker (Recommended for Evaluation)**
-```text
+### Running with Docker (Recommended for Evaluation)
+
+```bash
 # Run interactively via Docker Compose
 docker compose run --rm cli-validator
+```
+
+---
+
+## 🧪 Running Tests
+
+Run the test suite to verify schema parsing, model generation, and validation correctness:
+
+```bash
+uv run pytest -v
+```
 
 ---
 
 ## 📄 License
-This project is licensed under the MIT License
+
+This project is licensed under the MIT License.
