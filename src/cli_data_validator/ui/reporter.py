@@ -84,6 +84,6 @@ class CLIReporter:
 
         if len(errors) > max_display:
             console.print(
-                f"... and {len(errors) - max_display} more hidden errors. "
+                f"[dim]... and {len(errors) - max_display} more hidden errors. "
                 f"Check 'output/errors.json' for the complete log.[/dim]\n"
             )

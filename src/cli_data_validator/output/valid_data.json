@@ -1,2570 +1,1652 @@
 [
     {
+        "humidity": 64.27,
         "sensor_id": "1",
         "temperature": 6.57
     },
     {
-        "sensor_id": "3",
-        "temperature": 42.51
-    },
-    {
-        "sensor_id": "5",
-        "temperature": 31.25
-    },
-    {
-        "sensor_id": "7",
-        "temperature": 1.11
-    },
-    {
+        "humidity": 66.46,
         "sensor_id": "8",
         "temperature": 14.28
     },
     {
-        "sensor_id": "9",
-        "temperature": 46.08
-    },
-    {
-        "sensor_id": "11",
-        "temperature": 32.08
-    },
-    {
-        "sensor_id": "14",
-        "temperature": 45.91
-    },
-    {
-        "sensor_id": "15",
-        "temperature": 33.25
-    },
-    {
-        "sensor_id": "16",
-        "temperature": 46.17
-    },
-    {
+        "humidity": 36.08,
         "sensor_id": "17",
         "temperature": 5.11
     },
     {
+        "humidity": 45.48,
         "sensor_id": "18",
         "temperature": 42.44
     },
     {
+        "humidity": 26.94,
         "sensor_id": "19",
         "temperature": 20.41
     },
     {
+        "humidity": 59.53,
         "sensor_id": "25",
         "temperature": 46.62
     },
     {
-        "sensor_id": "27",
-        "temperature": 12.6
-    },
-    {
+        "humidity": 42.26,
         "sensor_id": "29",
         "temperature": 41.22
     },
     {
+        "humidity": 58.71,
         "sensor_id": "30",
         "temperature": 1.81
     },
     {
+        "humidity": 34.47,
         "sensor_id": "31",
         "temperature": 8.98
     },
     {
+        "humidity": 34.94,
         "sensor_id": "32",
         "temperature": 5.29
     },
     {
-        "sensor_id": "33",
-        "temperature": 19.31
-    },
-    {
-        "sensor_id": "34",
-        "temperature": 28.8
-    },
-    {
-        "sensor_id": "35",
-        "temperature": 30.11
-    },
-    {
-        "sensor_id": "36",
-        "temperature": 28.23
-    },
-    {
+        "humidity": 70.7,
         "sensor_id": "37",
         "temperature": 10.18
     },
     {
+        "humidity": 20.75,
         "sensor_id": "39",
         "temperature": 10.94
     },
     {
+        "humidity": 64.79,
         "sensor_id": "40",
         "temperature": 0.39
     },
     {
-        "sensor_id": "42",
-        "temperature": 34.21
-    },
-    {
+        "humidity": 58.79,
         "sensor_id": "43",
         "temperature": 33.59
     },
     {
-        "sensor_id": "45",
-        "temperature": 1.65
-    },
-    {
-        "sensor_id": "47",
-        "temperature": 49.16
-    },
-    {
-        "sensor_id": "48",
-        "temperature": 1.14
-    },
-    {
+        "humidity": 53.59,
         "sensor_id": "49",
         "temperature": 11.37
     },
     {
+        "humidity": 73.15,
         "sensor_id": "50",
         "temperature": 33.93
     },
     {
-        "sensor_id": "52",
-        "temperature": 22.05
-    },
-    {
-        "sensor_id": "54",
-        "temperature": 2.37
-    },
-    {
+        "humidity": 49.75,
         "sensor_id": "55",
         "temperature": 29.98
     },
     {
+        "humidity": 52.14,
         "sensor_id": "58",
         "temperature": 24.85
     },
     {
-        "sensor_id": "60",
-        "temperature": 19.64
-    },
-    {
+        "humidity": 64.44,
         "sensor_id": "63",
         "temperature": 24.32
     },
     {
+        "humidity": 59.26,
         "sensor_id": "65",
         "temperature": 23.57
     },
     {
+        "humidity": 60.36,
         "sensor_id": "66",
         "temperature": 28.01
     },
     {
-        "sensor_id": "70",
-        "temperature": 10.18
-    },
-    {
+        "humidity": 61.52,
         "sensor_id": "71",
         "temperature": 4.53
     },
     {
-        "sensor_id": "72",
-        "temperature": 19.5
-    },
-    {
+        "humidity": 48.55,
         "sensor_id": "73",
         "temperature": 23.88
     },
     {
-        "sensor_id": "74",
-        "temperature": 36.76
-    },
-    {
+        "humidity": 74.53,
         "sensor_id": "75",
         "temperature": 48.0
     },
     {
-        "sensor_id": "76",
-        "temperature": 4.65
-    },
-    {
-        "sensor_id": "77",
-        "temperature": 3.52
-    },
-    {
+        "humidity": 29.01,
         "sensor_id": "78",
         "temperature": 21.41
     },
     {
+        "humidity": 65.17,
         "sensor_id": "79",
         "temperature": 29.51
     },
     {
-        "sensor_id": "80",
-        "temperature": 34.94
-    },
-    {
-        "sensor_id": "81",
-        "temperature": 33.49
-    },
-    {
+        "humidity": 37.9,
         "sensor_id": "82",
         "temperature": 43.03
     },
     {
-        "sensor_id": "84",
-        "temperature": 46.03
-    },
-    {
+        "humidity": 41.01,
         "sensor_id": "85",
         "temperature": 21.32
     },
     {
-        "sensor_id": "86",
-        "temperature": 44.86
-    },
-    {
-        "sensor_id": "87",
-        "temperature": 7.07
-    },
-    {
-        "sensor_id": "89",
-        "temperature": 41.51
-    },
-    {
+        "humidity": 51.92,
         "sensor_id": "90",
         "temperature": 47.66
     },
     {
-        "sensor_id": "91",
-        "temperature": 0.48
-    },
-    {
-        "sensor_id": "92",
-        "temperature": 0.8
-    },
-    {
+        "humidity": 69.69,
         "sensor_id": "93",
         "temperature": 32.64
     },
     {
+        "humidity": 50.19,
         "sensor_id": "94",
         "temperature": 33.44
     },
     {
-        "sensor_id": "96",
-        "temperature": 14.38
-    },
-    {
+        "humidity": 50.46,
         "sensor_id": "97",
         "temperature": 35.12
     },
     {
-        "sensor_id": "98",
-        "temperature": 48.83
-    },
-    {
+        "humidity": 29.58,
         "sensor_id": "101",
         "temperature": 0.12
     },
     {
-        "sensor_id": "102",
-        "temperature": 45.94
-    },
-    {
+        "humidity": 55.3,
         "sensor_id": "104",
         "temperature": 26.79
     },
     {
-        "sensor_id": "105",
-        "temperature": 2.71
-    },
-    {
-        "sensor_id": "106",
-        "temperature": 49.32
-    },
-    {
+        "humidity": 28.85,
         "sensor_id": "107",
         "temperature": 2.66
     },
     {
-        "sensor_id": "108",
-        "temperature": 27.86
-    },
-    {
-        "sensor_id": "109",
-        "temperature": 22.0
-    },
-    {
+        "humidity": 46.06,
         "sensor_id": "110",
         "temperature": 6.83
     },
     {
-        "sensor_id": "111",
-        "temperature": 33.74
-    },
-    {
+        "humidity": 63.23,
         "sensor_id": "113",
         "temperature": 45.62
     },
     {
+        "humidity": 22.1,
         "sensor_id": "116",
         "temperature": 20.75
     },
     {
+        "humidity": 43.17,
         "sensor_id": "118",
         "temperature": 4.97
     },
     {
-        "sensor_id": "119",
-        "temperature": 42.1
-    },
-    {
+        "humidity": 47.5,
         "sensor_id": "125",
         "temperature": 33.13
     },
     {
+        "humidity": 34.8,
         "sensor_id": "128",
         "temperature": 45.08
     },
     {
+        "humidity": 48.57,
         "sensor_id": "129",
         "temperature": 18.96
     },
     {
-        "sensor_id": "130",
-        "temperature": 49.94
-    },
-    {
+        "humidity": 63.45,
         "sensor_id": "131",
         "temperature": 18.06
     },
     {
-        "sensor_id": "133",
-        "temperature": 49.49
-    },
-    {
-        "sensor_id": "134",
-        "temperature": 47.4
-    },
-    {
-        "sensor_id": "135",
-        "temperature": 9.09
-    },
-    {
+        "humidity": 64.73,
         "sensor_id": "137",
         "temperature": 27.39
     },
     {
+        "humidity": 64.7,
         "sensor_id": "139",
         "temperature": 13.55
     },
     {
+        "humidity": 45.23,
         "sensor_id": "140",
         "temperature": 46.86
     },
     {
+        "humidity": 58.87,
         "sensor_id": "141",
         "temperature": 36.22
     },
     {
+        "humidity": 27.54,
         "sensor_id": "145",
         "temperature": 39.92
     },
     {
+        "humidity": 74.23,
         "sensor_id": "146",
         "temperature": 4.45
     },
     {
+        "humidity": 40.15,
         "sensor_id": "147",
         "temperature": 40.07
     },
     {
-        "sensor_id": "148",
-        "temperature": 32.16
-    },
-    {
+        "humidity": 29.69,
         "sensor_id": "149",
         "temperature": 17.65
     },
     {
-        "sensor_id": "150",
-        "temperature": 6.37
-    },
-    {
-        "sensor_id": "151",
-        "temperature": 10.91
-    },
-    {
+        "humidity": 72.4,
         "sensor_id": "152",
         "temperature": 0.79
     },
     {
-        "sensor_id": "154",
-        "temperature": 30.08
-    },
-    {
+        "humidity": 46.84,
         "sensor_id": "155",
         "temperature": 33.19
     },
     {
+        "humidity": 63.3,
         "sensor_id": "158",
         "temperature": 47.13
     },
     {
+        "humidity": 48.3,
         "sensor_id": "159",
         "temperature": 14.58
     },
     {
-        "sensor_id": "160",
-        "temperature": 9.69
-    },
-    {
+        "humidity": 22.3,
         "sensor_id": "161",
         "temperature": 42.26
     },
     {
+        "humidity": 41.3,
         "sensor_id": "165",
         "temperature": 35.46
     },
     {
-        "sensor_id": "166",
-        "temperature": 37.11
-    },
-    {
+        "humidity": 43.59,
         "sensor_id": "168",
         "temperature": 4.82
     },
     {
+        "humidity": 57.1,
         "sensor_id": "169",
         "temperature": 12.68
     },
     {
-        "sensor_id": "171",
-        "temperature": 36.33
-    },
-    {
+        "humidity": 34.4,
         "sensor_id": "172",
         "temperature": 2.61
     },
     {
-        "sensor_id": "173",
-        "temperature": 1.6
-    },
-    {
-        "sensor_id": "176",
-        "temperature": 45.82
-    },
-    {
+        "humidity": 30.53,
         "sensor_id": "178",
         "temperature": 49.06
     },
     {
-        "sensor_id": "180",
-        "temperature": 10.98
-    },
-    {
-        "sensor_id": "182",
-        "temperature": 26.53
-    },
-    {
-        "sensor_id": "184",
-        "temperature": 5.42
-    },
-    {
-        "sensor_id": "186",
-        "temperature": 2.29
-    },
-    {
-        "sensor_id": "187",
-        "temperature": 15.6
-    },
-    {
+        "humidity": 72.86,
         "sensor_id": "189",
         "temperature": 48.76
     },
     {
+        "humidity": 64.12,
         "sensor_id": "190",
         "temperature": 45.79
     },
     {
-        "sensor_id": "191",
-        "temperature": 6.14
-    },
-    {
+        "humidity": 38.58,
         "sensor_id": "192",
         "temperature": 30.15
     },
     {
-        "sensor_id": "193",
-        "temperature": 8.65
-    },
-    {
-        "sensor_id": "194",
-        "temperature": 0.54
-    },
-    {
+        "humidity": 40.1,
         "sensor_id": "195",
         "temperature": 32.8
     },
     {
-        "sensor_id": "197",
-        "temperature": 23.05
-    },
-    {
-        "sensor_id": "198",
-        "temperature": 18.78
-    },
-    {
+        "humidity": 58.17,
         "sensor_id": "201",
         "temperature": 16.08
     },
     {
-        "sensor_id": "202",
-        "temperature": 9.45
-    },
-    {
+        "humidity": 69.92,
         "sensor_id": "204",
         "temperature": 24.91
     },
     {
+        "humidity": 28.08,
         "sensor_id": "206",
         "temperature": 44.37
     },
     {
+        "humidity": 26.26,
         "sensor_id": "209",
         "temperature": 38.96
     },
     {
-        "sensor_id": "210",
-        "temperature": 39.77
-    },
-    {
-        "sensor_id": "211",
-        "temperature": 25.09
-    },
-    {
+        "humidity": 53.58,
         "sensor_id": "212",
         "temperature": 4.02
     },
     {
-        "sensor_id": "213",
-        "temperature": 3.95
-    },
-    {
+        "humidity": 24.94,
         "sensor_id": "215",
         "temperature": 21.89
     },
     {
+        "humidity": 67.41,
         "sensor_id": "217",
         "temperature": 27.97
     },
     {
-        "sensor_id": "218",
-        "temperature": 44.46
-    },
-    {
-        "sensor_id": "219",
-        "temperature": 37.56
-    },
-    {
+        "humidity": 20.78,
         "sensor_id": "221",
         "temperature": 26.51
     },
     {
-        "sensor_id": "222",
-        "temperature": 13.39
-    },
-    {
+        "humidity": 48.91,
         "sensor_id": "223",
         "temperature": 20.53
     },
     {
-        "sensor_id": "224",
-        "temperature": 12.57
-    },
-    {
+        "humidity": 32.25,
         "sensor_id": "225",
         "temperature": 19.96
     },
     {
-        "sensor_id": "226",
-        "temperature": 48.51
-    },
-    {
-        "sensor_id": "227",
-        "temperature": 37.98
-    },
-    {
+        "humidity": 59.93,
         "sensor_id": "228",
         "temperature": 32.9
     },
     {
+        "humidity": 39.97,
         "sensor_id": "229",
         "temperature": 37.09
     },
     {
+        "humidity": 67.34,
         "sensor_id": "231",
         "temperature": 47.9
     },
     {
-        "sensor_id": "232",
-        "temperature": 19.92
-    },
-    {
+        "humidity": 64.02,
         "sensor_id": "233",
         "temperature": 22.09
     },
     {
+        "humidity": 53.3,
         "sensor_id": "234",
         "temperature": 32.93
     },
     {
+        "humidity": 39.05,
         "sensor_id": "235",
         "temperature": 36.35
     },
     {
-        "sensor_id": "240",
-        "temperature": 40.47
-    },
-    {
+        "humidity": 70.46,
         "sensor_id": "242",
         "temperature": 2.81
     },
     {
-        "sensor_id": "243",
-        "temperature": 6.64
-    },
-    {
-        "sensor_id": "244",
-        "temperature": 27.72
-    },
-    {
-        "sensor_id": "245",
-        "temperature": 49.67
-    },
-    {
+        "humidity": 70.57,
         "sensor_id": "246",
         "temperature": 43.51
     },
     {
+        "humidity": 20.03,
         "sensor_id": "247",
         "temperature": 25.78
     },
     {
+        "humidity": 49.44,
         "sensor_id": "248",
         "temperature": 27.81
     },
     {
+        "humidity": 23.08,
         "sensor_id": "249",
         "temperature": 42.29
     },
     {
+        "humidity": 41.84,
         "sensor_id": "251",
         "temperature": 46.4
     },
     {
-        "sensor_id": "252",
-        "temperature": 13.01
-    },
-    {
+        "humidity": 50.68,
         "sensor_id": "253",
         "temperature": 16.78
     },
     {
-        "sensor_id": "254",
-        "temperature": 17.69
-    },
-    {
-        "sensor_id": "255",
-        "temperature": 16.97
-    },
-    {
-        "sensor_id": "256",
-        "temperature": 1.11
-    },
-    {
+        "humidity": 69.65,
         "sensor_id": "258",
         "temperature": 27.14
     },
     {
+        "humidity": 35.78,
         "sensor_id": "259",
         "temperature": 31.97
     },
     {
+        "humidity": 24.46,
         "sensor_id": "261",
         "temperature": 7.79
     },
     {
-        "sensor_id": "262",
-        "temperature": 44.42
-    },
-    {
+        "humidity": 38.42,
         "sensor_id": "263",
         "temperature": 9.21
     },
     {
-        "sensor_id": "264",
-        "temperature": 4.22
-    },
-    {
-        "sensor_id": "266",
-        "temperature": 11.34
-    },
-    {
+        "humidity": 43.54,
         "sensor_id": "267",
         "temperature": 3.66
     },
     {
-        "sensor_id": "270",
-        "temperature": 47.4
-    },
-    {
-        "sensor_id": "275",
-        "temperature": 18.07
-    },
-    {
-        "sensor_id": "277",
-        "temperature": 7.67
-    },
-    {
+        "humidity": 73.01,
         "sensor_id": "278",
         "temperature": 10.4
     },
     {
+        "humidity": 42.69,
         "sensor_id": "279",
         "temperature": 12.99
     },
     {
-        "sensor_id": "280",
-        "temperature": 10.03
-    },
-    {
+        "humidity": 27.3,
         "sensor_id": "285",
         "temperature": 27.09
     },
     {
+        "humidity": 70.85,
         "sensor_id": "286",
         "temperature": 28.09
     },
     {
+        "humidity": 64.01,
         "sensor_id": "289",
         "temperature": 11.64
     },
     {
-        "sensor_id": "290",
-        "temperature": 2.11
-    },
-    {
-        "sensor_id": "293",
-        "temperature": 31.46
-    },
-    {
+        "humidity": 71.06,
         "sensor_id": "295",
         "temperature": 2.57
     },
     {
-        "sensor_id": "296",
-        "temperature": 47.4
-    },
-    {
+        "humidity": 22.01,
         "sensor_id": "297",
         "temperature": 38.74
     },
     {
-        "sensor_id": "298",
-        "temperature": 26.3
-    },
-    {
-        "sensor_id": "299",
-        "temperature": 9.74
-    },
-    {
-        "sensor_id": "304",
-        "temperature": 44.0
-    },
-    {
+        "humidity": 74.65,
         "sensor_id": "307",
         "temperature": 46.72
     },
     {
+        "humidity": 51.53,
         "sensor_id": "309",
         "temperature": 3.39
     },
     {
+        "humidity": 33.32,
         "sensor_id": "310",
         "temperature": 18.14
     },
     {
-        "sensor_id": "311",
-        "temperature": 6.92
-    },
-    {
-        "sensor_id": "312",
-        "temperature": 28.1
-    },
-    {
+        "humidity": 51.44,
         "sensor_id": "313",
         "temperature": 47.03
     },
     {
-        "sensor_id": "314",
-        "temperature": 22.15
-    },
-    {
-        "sensor_id": "317",
-        "temperature": 40.17
-    },
-    {
+        "humidity": 34.61,
         "sensor_id": "319",
         "temperature": 19.59
     },
     {
+        "humidity": 56.13,
         "sensor_id": "321",
         "temperature": 30.27
     },
     {
-        "sensor_id": "323",
-        "temperature": 35.79
-    },
-    {
-        "sensor_id": "324",
-        "temperature": 13.73
-    },
-    {
+        "humidity": 43.91,
         "sensor_id": "327",
         "temperature": 40.96
     },
     {
-        "sensor_id": "328",
-        "temperature": 24.22
-    },
-    {
+        "humidity": 22.07,
         "sensor_id": "329",
         "temperature": 7.96
     },
     {
-        "sensor_id": "330",
-        "temperature": 19.43
-    },
-    {
+        "humidity": 68.19,
         "sensor_id": "332",
         "temperature": 42.81
     },
     {
+        "humidity": 36.16,
         "sensor_id": "333",
         "temperature": 49.23
     },
     {
+        "humidity": 44.0,
         "sensor_id": "336",
         "temperature": 20.24
     },
     {
-        "sensor_id": "339",
-        "temperature": 41.93
-    },
-    {
-        "sensor_id": "340",
-        "temperature": 39.93
-    },
-    {
-        "sensor_id": "341",
-        "temperature": 19.18
-    },
-    {
-        "sensor_id": "342",
-        "temperature": 32.17
-    },
-    {
-        "sensor_id": "343",
-        "temperature": 31.02
-    },
-    {
-        "sensor_id": "344",
-        "temperature": 5.85
-    },
-    {
-        "sensor_id": "345",
-        "temperature": 32.59
-    },
-    {
+        "humidity": 39.01,
         "sensor_id": "346",
         "temperature": 6.04
     },
     {
-        "sensor_id": "347",
-        "temperature": 37.69
-    },
-    {
+        "humidity": 44.68,
         "sensor_id": "350",
         "temperature": 3.29
     },
     {
-        "sensor_id": "351",
-        "temperature": 35.37
-    },
-    {
+        "humidity": 42.01,
         "sensor_id": "355",
         "temperature": 30.46
     },
     {
+        "humidity": 52.56,
         "sensor_id": "357",
         "temperature": 22.23
     },
     {
+        "humidity": 66.47,
         "sensor_id": "359",
         "temperature": 41.12
     },
     {
+        "humidity": 45.95,
         "sensor_id": "362",
         "temperature": 22.61
     },
     {
+        "humidity": 38.07,
         "sensor_id": "363",
         "temperature": 31.99
     },
     {
-        "sensor_id": "364",
-        "temperature": 34.33
-    },
-    {
+        "humidity": 25.73,
         "sensor_id": "365",
         "temperature": 39.42
     },
     {
+        "humidity": 69.37,
         "sensor_id": "366",
         "temperature": 14.86
     },
     {
+        "humidity": 40.05,
         "sensor_id": "367",
         "temperature": 9.54
     },
     {
-        "sensor_id": "368",
-        "temperature": 12.1
-    },
-    {
-        "sensor_id": "369",
-        "temperature": 14.24
-    },
-    {
+        "humidity": 67.38,
         "sensor_id": "370",
         "temperature": 30.18
     },
     {
-        "sensor_id": "371",
-        "temperature": 47.31
-    },
-    {
-        "sensor_id": "372",
-        "temperature": 1.18
-    },
-    {
+        "humidity": 49.03,
         "sensor_id": "373",
         "temperature": 13.05
     },
     {
-        "sensor_id": "374",
-        "temperature": 37.61
-    },
-    {
-        "sensor_id": "375",
-        "temperature": 37.75
-    },
-    {
+        "humidity": 65.54,
         "sensor_id": "376",
         "temperature": 2.37
     },
     {
+        "humidity": 47.15,
         "sensor_id": "377",
         "temperature": 19.39
     },
     {
-        "sensor_id": "378",
-        "temperature": 4.93
-    },
-    {
-        "sensor_id": "379",
-        "temperature": 17.33
-    },
-    {
-        "sensor_id": "380",
-        "temperature": 22.72
-    },
-    {
-        "sensor_id": "381",
-        "temperature": 38.08
-    },
-    {
+        "humidity": 46.5,
         "sensor_id": "382",
         "temperature": 16.38
     },
     {
+        "humidity": 28.38,
         "sensor_id": "383",
         "temperature": 10.76
     },
     {
+        "humidity": 58.85,
         "sensor_id": "384",
         "temperature": 33.08
     },
     {
-        "sensor_id": "385",
-        "temperature": 43.04
-    },
-    {
-        "sensor_id": "388",
-        "temperature": 45.32
-    },
-    {
+        "humidity": 45.56,
         "sensor_id": "389",
         "temperature": 8.29
     },
     {
-        "sensor_id": "390",
-        "temperature": 26.08
-    },
-    {
+        "humidity": 30.19,
         "sensor_id": "391",
         "temperature": 31.53
     },
     {
+        "humidity": 72.25,
         "sensor_id": "393",
         "temperature": 7.93
     },
     {
-        "sensor_id": "396",
-        "temperature": 46.36
-    },
-    {
+        "humidity": 74.62,
         "sensor_id": "397",
         "temperature": 18.42
     },
     {
+        "humidity": 70.57,
         "sensor_id": "398",
         "temperature": 13.68
     },
     {
+        "humidity": 44.04,
         "sensor_id": "399",
         "temperature": 10.43
     },
     {
+        "humidity": 38.88,
         "sensor_id": "401",
         "temperature": 49.65
     },
     {
+        "humidity": 32.26,
         "sensor_id": "403",
         "temperature": 9.52
     },
     {
+        "humidity": 37.05,
         "sensor_id": "404",
         "temperature": 14.94
     },
     {
+        "humidity": 36.65,
         "sensor_id": "407",
         "temperature": 28.41
     },
     {
+        "humidity": 74.72,
         "sensor_id": "408",
         "temperature": 4.95
     },
     {
-        "sensor_id": "409",
-        "temperature": 1.54
-    },
-    {
+        "humidity": 48.77,
         "sensor_id": "410",
         "temperature": 5.18
     },
     {
-        "sensor_id": "412",
-        "temperature": 30.85
-    },
-    {
-        "sensor_id": "413",
-        "temperature": 5.37
-    },
-    {
+        "humidity": 44.06,
         "sensor_id": "414",
         "temperature": 15.79
     },
     {
-        "sensor_id": "415",
-        "temperature": 46.06
-    },
-    {
-        "sensor_id": "416",
-        "temperature": 23.71
-    },
-    {
+        "humidity": 45.87,
         "sensor_id": "417",
         "temperature": 29.75
     },
     {
+        "humidity": 24.37,
         "sensor_id": "418",
         "temperature": 40.62
     },
     {
-        "sensor_id": "419",
-        "temperature": 39.07
-    },
-    {
+        "humidity": 71.08,
         "sensor_id": "421",
         "temperature": 23.29
     },
     {
-        "sensor_id": "422",
-        "temperature": 31.11
-    },
-    {
+        "humidity": 34.56,
         "sensor_id": "424",
         "temperature": 22.87
     },
     {
+        "humidity": 69.74,
         "sensor_id": "425",
         "temperature": 39.9
     },
     {
-        "sensor_id": "427",
-        "temperature": 18.59
-    },
-    {
-        "sensor_id": "428",
-        "temperature": 2.2
-    },
-    {
-        "sensor_id": "429",
-        "temperature": 14.28
-    },
-    {
+        "humidity": 22.67,
         "sensor_id": "430",
         "temperature": 38.98
     },
     {
+        "humidity": 54.76,
         "sensor_id": "431",
         "temperature": 46.5
     },
     {
+        "humidity": 36.67,
         "sensor_id": "433",
         "temperature": 8.11
     },
     {
+        "humidity": 66.98,
         "sensor_id": "434",
         "temperature": 21.58
     },
     {
-        "sensor_id": "435",
-        "temperature": 37.21
-    },
-    {
-        "sensor_id": "436",
-        "temperature": 32.45
-    },
-    {
+        "humidity": 49.04,
         "sensor_id": "438",
         "temperature": 41.82
     },
     {
+        "humidity": 20.37,
         "sensor_id": "439",
         "temperature": 9.39
     },
     {
+        "humidity": 71.93,
         "sensor_id": "441",
         "temperature": 35.05
     },
     {
-        "sensor_id": "444",
-        "temperature": 45.86
-    },
-    {
+        "humidity": 28.59,
         "sensor_id": "445",
         "temperature": 17.93
     },
     {
+        "humidity": 69.87,
         "sensor_id": "447",
         "temperature": 21.95
     },
     {
-        "sensor_id": "448",
-        "temperature": 44.64
-    },
-    {
-        "sensor_id": "450",
-        "temperature": 2.35
-    },
-    {
-        "sensor_id": "452",
-        "temperature": 1.55
-    },
-    {
-        "sensor_id": "453",
-        "temperature": 40.57
-    },
-    {
+        "humidity": 70.65,
         "sensor_id": "455",
         "temperature": 11.26
     },
     {
+        "humidity": 68.75,
         "sensor_id": "458",
         "temperature": 23.06
     },
     {
+        "humidity": 56.82,
         "sensor_id": "459",
         "temperature": 39.12
     },
     {
+        "humidity": 22.36,
         "sensor_id": "460",
         "temperature": 2.55
     },
     {
+        "humidity": 25.09,
         "sensor_id": "461",
         "temperature": 12.74
     },
     {
-        "sensor_id": "462",
-        "temperature": 21.12
-    },
-    {
+        "humidity": 35.23,
         "sensor_id": "463",
         "temperature": 12.52
     },
     {
-        "sensor_id": "464",
-        "temperature": 26.38
-    },
-    {
+        "humidity": 49.91,
         "sensor_id": "465",
         "temperature": 25.24
     },
     {
+        "humidity": 65.04,
         "sensor_id": "466",
         "temperature": 37.67
     },
     {
-        "sensor_id": "468",
-        "temperature": 38.37
-    },
-    {
+        "humidity": 36.26,
         "sensor_id": "471",
         "temperature": 43.17
     },
     {
-        "sensor_id": "472",
-        "temperature": 16.22
-    },
-    {
-        "sensor_id": "473",
-        "temperature": 46.71
-    },
-    {
-        "sensor_id": "475",
-        "temperature": 6.95
-    },
-    {
+        "humidity": 20.06,
         "sensor_id": "477",
         "temperature": 44.33
     },
     {
+        "humidity": 61.99,
         "sensor_id": "479",
         "temperature": 33.8
     },
     {
+        "humidity": 68.34,
         "sensor_id": "480",
         "temperature": 36.3
     },
     {
+        "humidity": 53.97,
         "sensor_id": "481",
         "temperature": 39.89
     },
     {
-        "sensor_id": "483",
-        "temperature": 21.26
-    },
-    {
+        "humidity": 68.68,
         "sensor_id": "487",
         "temperature": 6.46
     },
     {
+        "humidity": 48.67,
         "sensor_id": "488",
         "temperature": 8.11
     },
     {
-        "sensor_id": "489",
-        "temperature": 13.88
-    },
-    {
-        "sensor_id": "490",
-        "temperature": 15.67
-    },
-    {
+        "humidity": 26.32,
         "sensor_id": "491",
         "temperature": 3.36
     },
     {
+        "humidity": 66.34,
         "sensor_id": "492",
         "temperature": 33.06
     },
     {
-        "sensor_id": "496",
-        "temperature": 20.68
-    },
-    {
+        "humidity": 68.34,
         "sensor_id": "501",
         "temperature": 34.24
     },
     {
-        "sensor_id": "502",
-        "temperature": 8.52
-    },
-    {
+        "humidity": 21.07,
         "sensor_id": "503",
         "temperature": 36.8
     },
     {
-        "sensor_id": "505",
-        "temperature": 25.01
-    },
-    {
+        "humidity": 53.83,
         "sensor_id": "506",
         "temperature": 37.3
     },
     {
-        "sensor_id": "507",
-        "temperature": 43.55
-    },
-    {
-        "sensor_id": "511",
-        "temperature": 35.97
-    },
-    {
-        "sensor_id": "512",
-        "temperature": 47.79
-    },
-    {
-        "sensor_id": "515",
-        "temperature": 13.73
-    },
-    {
+        "humidity": 39.53,
         "sensor_id": "516",
         "temperature": 42.64
     },
     {
+        "humidity": 68.2,
         "sensor_id": "517",
         "temperature": 38.75
     },
     {
-        "sensor_id": "518",
-        "temperature": 18.49
-    },
-    {
-        "sensor_id": "524",
-        "temperature": 15.27
-    },
-    {
-        "sensor_id": "525",
-        "temperature": 14.56
-    },
-    {
-        "sensor_id": "526",
-        "temperature": 20.88
-    },
-    {
-        "sensor_id": "527",
-        "temperature": 33.97
-    },
-    {
-        "sensor_id": "528",
-        "temperature": 29.77
-    },
-    {
+        "humidity": 69.86,
         "sensor_id": "529",
         "temperature": 12.84
     },
     {
-        "sensor_id": "530",
-        "temperature": 27.93
-    },
-    {
+        "humidity": 36.15,
         "sensor_id": "531",
         "temperature": 17.62
     },
     {
+        "humidity": 58.26,
         "sensor_id": "533",
         "temperature": 38.11
     },
     {
+        "humidity": 46.97,
         "sensor_id": "534",
         "temperature": 42.78
     },
     {
+        "humidity": 26.19,
         "sensor_id": "535",
         "temperature": 38.93
     },
     {
+        "humidity": 67.22,
         "sensor_id": "537",
         "temperature": 4.59
     },
     {
+        "humidity": 39.08,
         "sensor_id": "538",
         "temperature": 26.84
     },
     {
-        "sensor_id": "539",
-        "temperature": 41.3
-    },
-    {
-        "sensor_id": "540",
-        "temperature": 5.43
-    },
-    {
-        "sensor_id": "544",
-        "temperature": 44.33
-    },
-    {
-        "sensor_id": "545",
-        "temperature": 29.04
-    },
-    {
-        "sensor_id": "546",
-        "temperature": 30.31
-    },
-    {
-        "sensor_id": "549",
-        "temperature": 24.59
-    },
-    {
-        "sensor_id": "550",
-        "temperature": 23.55
-    },
-    {
+        "humidity": 62.35,
         "sensor_id": "551",
         "temperature": 24.17
     },
     {
-        "sensor_id": "553",
-        "temperature": 7.9
-    },
-    {
+        "humidity": 21.53,
         "sensor_id": "554",
         "temperature": 3.64
     },
     {
-        "sensor_id": "561",
-        "temperature": 29.03
-    },
-    {
+        "humidity": 34.57,
         "sensor_id": "563",
         "temperature": 16.28
     },
     {
-        "sensor_id": "567",
-        "temperature": 19.88
-    },
-    {
+        "humidity": 69.62,
         "sensor_id": "569",
         "temperature": 11.69
     },
     {
-        "sensor_id": "571",
-        "temperature": 39.83
-    },
-    {
+        "humidity": 53.07,
         "sensor_id": "572",
         "temperature": 31.86
     },
     {
-        "sensor_id": "573",
-        "temperature": 40.3
-    },
-    {
-        "sensor_id": "574",
-        "temperature": 5.73
-    },
-    {
-        "sensor_id": "576",
-        "temperature": 16.49
-    },
-    {
+        "humidity": 24.89,
         "sensor_id": "578",
         "temperature": 42.12
     },
     {
+        "humidity": 74.32,
         "sensor_id": "579",
         "temperature": 4.52
     },
     {
+        "humidity": 24.96,
         "sensor_id": "580",
         "temperature": 0.53
     },
     {
+        "humidity": 25.91,
         "sensor_id": "581",
         "temperature": 23.56
     },
     {
-        "sensor_id": "584",
-        "temperature": 36.06
-    },
-    {
-        "sensor_id": "586",
-        "temperature": 9.53
-    },
-    {
-        "sensor_id": "590",
-        "temperature": 37.34
-    },
-    {
+        "humidity": 59.13,
         "sensor_id": "595",
         "temperature": 46.48
     },
     {
+        "humidity": 59.0,
         "sensor_id": "596",
         "temperature": 32.37
     },
     {
+        "humidity": 45.74,
         "sensor_id": "597",
         "temperature": 34.35
     },
     {
+        "humidity": 60.89,
         "sensor_id": "598",
         "temperature": 10.4
     },
     {
+        "humidity": 57.05,
         "sensor_id": "599",
         "temperature": 45.04
     },
     {
+        "humidity": 39.67,
         "sensor_id": "600",
         "temperature": 26.79
     },
     {
+        "humidity": 21.39,
         "sensor_id": "602",
         "temperature": 27.72
     },
     {
-        "sensor_id": "603",
-        "temperature": 15.71
-    },
-    {
-        "sensor_id": "604",
-        "temperature": 3.73
-    },
-    {
-        "sensor_id": "605",
-        "temperature": 48.97
-    },
-    {
+        "humidity": 36.38,
         "sensor_id": "606",
         "temperature": 39.94
     },
     {
+        "humidity": 42.47,
         "sensor_id": "609",
         "temperature": 43.03
     },
     {
+        "humidity": 65.65,
         "sensor_id": "610",
         "temperature": 41.36
     },
     {
-        "sensor_id": "611",
-        "temperature": 39.25
-    },
-    {
+        "humidity": 26.74,
         "sensor_id": "613",
         "temperature": 31.18
     },
     {
+        "humidity": 38.44,
         "sensor_id": "614",
         "temperature": 12.73
     },
     {
+        "humidity": 31.24,
         "sensor_id": "615",
         "temperature": 32.93
     },
     {
-        "sensor_id": "620",
-        "temperature": 5.61
-    },
-    {
+        "humidity": 38.07,
         "sensor_id": "621",
         "temperature": 45.18
     },
     {
-        "sensor_id": "622",
-        "temperature": 24.17
-    },
-    {
-        "sensor_id": "624",
-        "temperature": 19.09
-    },
-    {
+        "humidity": 44.47,
         "sensor_id": "625",
         "temperature": 22.8
     },
     {
-        "sensor_id": "626",
-        "temperature": 18.84
-    },
-    {
+        "humidity": 63.12,
         "sensor_id": "628",
         "temperature": 39.48
     },
     {
-        "sensor_id": "629",
-        "temperature": 16.74
-    },
-    {
-        "sensor_id": "630",
-        "temperature": 35.49
-    },
-    {
-        "sensor_id": "634",
-        "temperature": 32.07
-    },
-    {
+        "humidity": 20.14,
         "sensor_id": "635",
         "temperature": 33.98
     },
     {
-        "sensor_id": "636",
-        "temperature": 41.07
-    },
-    {
+        "humidity": 60.31,
         "sensor_id": "637",
         "temperature": 24.24
     },
     {
+        "humidity": 57.99,
         "sensor_id": "639",
         "temperature": 12.49
     },
     {
-        "sensor_id": "640",
-        "temperature": 25.42
-    },
-    {
-        "sensor_id": "641",
-        "temperature": 35.69
-    },
-    {
-        "sensor_id": "642",
-        "temperature": 4.68
-    },
-    {
+        "humidity": 61.86,
         "sensor_id": "643",
         "temperature": 25.19
     },
     {
-        "sensor_id": "645",
-        "temperature": 17.44
-    },
-    {
+        "humidity": 52.39,
         "sensor_id": "649",
         "temperature": 6.73
     },
     {
+        "humidity": 69.87,
         "sensor_id": "651",
         "temperature": 9.3
     },
     {
+        "humidity": 42.02,
         "sensor_id": "652",
         "temperature": 32.29
     },
     {
-        "sensor_id": "653",
-        "temperature": 20.8
-    },
-    {
+        "humidity": 60.09,
         "sensor_id": "656",
         "temperature": 42.18
     },
     {
-        "sensor_id": "657",
-        "temperature": 0.8
-    },
-    {
-        "sensor_id": "659",
-        "temperature": 26.54
-    },
-    {
+        "humidity": 62.06,
         "sensor_id": "661",
         "temperature": 45.94
     },
     {
-        "sensor_id": "662",
-        "temperature": 44.18
-    },
-    {
-        "sensor_id": "663",
-        "temperature": 20.48
-    },
-    {
+        "humidity": 55.8,
         "sensor_id": "664",
         "temperature": 13.87
     },
     {
-        "sensor_id": "665",
-        "temperature": 29.74
-    },
-    {
-        "sensor_id": "666",
-        "temperature": 43.13
-    },
-    {
-        "sensor_id": "668",
-        "temperature": 18.6
-    },
-    {
+        "humidity": 66.13,
         "sensor_id": "669",
         "temperature": 46.05
     },
     {
-        "sensor_id": "672",
-        "temperature": 45.62
-    },
-    {
+        "humidity": 36.29,
         "sensor_id": "673",
         "temperature": 6.13
     },
     {
-        "sensor_id": "675",
-        "temperature": 39.6
-    },
-    {
+        "humidity": 40.17,
         "sensor_id": "677",
         "temperature": 36.41
     },
     {
+        "humidity": 31.29,
         "sensor_id": "678",
         "temperature": 32.45
     },
     {
-        "sensor_id": "681",
-        "temperature": 14.4
-    },
-    {
-        "sensor_id": "682",
-        "temperature": 20.37
-    },
-    {
+        "humidity": 22.5,
         "sensor_id": "683",
         "temperature": 25.5
     },
     {
-        "sensor_id": "686",
-        "temperature": 13.24
-    },
-    {
-        "sensor_id": "687",
-        "temperature": 30.27
-    },
-    {
-        "sensor_id": "689",
-        "temperature": 13.9
-    },
-    {
+        "humidity": 31.49,
         "sensor_id": "690",
         "temperature": 45.5
     },
     {
+        "humidity": 52.1,
         "sensor_id": "693",
         "temperature": 48.47
     },
     {
-        "sensor_id": "695",
-        "temperature": 9.39
-    },
-    {
-        "sensor_id": "696",
-        "temperature": 13.5
-    },
-    {
+        "humidity": 64.24,
         "sensor_id": "698",
         "temperature": 14.54
     },
     {
-        "sensor_id": "700",
-        "temperature": 39.95
-    },
-    {
-        "sensor_id": "701",
-        "temperature": 30.07
-    },
-    {
-        "sensor_id": "703",
-        "temperature": 31.19
-    },
-    {
-        "sensor_id": "704",
-        "temperature": 4.36
-    },
-    {
-        "sensor_id": "706",
-        "temperature": 7.56
-    },
-    {
-        "sensor_id": "707",
-        "temperature": 12.63
-    },
-    {
+        "humidity": 32.9,
         "sensor_id": "708",
         "temperature": 38.59
     },
     {
+        "humidity": 57.84,
         "sensor_id": "711",
         "temperature": 39.37
     },
     {
-        "sensor_id": "713",
-        "temperature": 41.95
-    },
-    {
+        "humidity": 62.24,
         "sensor_id": "716",
         "temperature": 17.81
     },
     {
+        "humidity": 74.69,
         "sensor_id": "717",
         "temperature": 17.17
     },
     {
-        "sensor_id": "718",
-        "temperature": 23.34
-    },
-    {
+        "humidity": 74.26,
         "sensor_id": "723",
         "temperature": 31.22
     },
     {
+        "humidity": 57.5,
         "sensor_id": "724",
         "temperature": 18.35
     },
     {
-        "sensor_id": "725",
-        "temperature": 38.46
-    },
-    {
+        "humidity": 73.13,
         "sensor_id": "727",
         "temperature": 23.34
     },
     {
+        "humidity": 53.16,
         "sensor_id": "728",
         "temperature": 38.74
     },
     {
+        "humidity": 53.31,
         "sensor_id": "731",
         "temperature": 48.07
     },
     {
+        "humidity": 31.11,
         "sensor_id": "732",
         "temperature": 18.9
     },
     {
-        "sensor_id": "736",
-        "temperature": 32.43
-    },
-    {
+        "humidity": 44.92,
         "sensor_id": "737",
         "temperature": 23.89
     },
     {
+        "humidity": 48.51,
         "sensor_id": "738",
         "temperature": 35.43
     },
     {
+        "humidity": 30.29,
         "sensor_id": "739",
         "temperature": 48.68
     },
     {
-        "sensor_id": "740",
-        "temperature": 39.31
-    },
-    {
-        "sensor_id": "743",
-        "temperature": 24.52
-    },
-    {
-        "sensor_id": "745",
-        "temperature": 20.71
-    },
-    {
-        "sensor_id": "746",
-        "temperature": 35.51
-    },
-    {
+        "humidity": 26.29,
         "sensor_id": "747",
         "temperature": 26.63
     },
     {
-        "sensor_id": "748",
-        "temperature": 17.86
-    },
-    {
+        "humidity": 41.95,
         "sensor_id": "749",
         "temperature": 20.4
     },
     {
-        "sensor_id": "750",
-        "temperature": 23.54
-    },
-    {
+        "humidity": 64.01,
         "sensor_id": "752",
         "temperature": 21.8
     },
     {
-        "sensor_id": "753",
-        "temperature": 15.49
-    },
-    {
-        "sensor_id": "756",
-        "temperature": 28.17
-    },
-    {
+        "humidity": 62.62,
         "sensor_id": "757",
         "temperature": 29.45
     },
     {
+        "humidity": 39.31,
         "sensor_id": "758",
         "temperature": 0.12
     },
     {
-        "sensor_id": "760",
-        "temperature": 12.1
-    },
-    {
+        "humidity": 68.07,
         "sensor_id": "761",
         "temperature": 15.13
     },
     {
+        "humidity": 26.81,
         "sensor_id": "762",
         "temperature": 18.23
     },
     {
-        "sensor_id": "764",
-        "temperature": 28.79
-    },
-    {
+        "humidity": 45.04,
         "sensor_id": "767",
         "temperature": 9.73
     },
     {
+        "humidity": 28.76,
         "sensor_id": "768",
         "temperature": 29.15
     },
     {
-        "sensor_id": "769",
-        "temperature": 28.38
-    },
-    {
-        "sensor_id": "771",
-        "temperature": 37.87
-    },
-    {
+        "humidity": 41.43,
         "sensor_id": "772",
         "temperature": 35.8
     },
     {
+        "humidity": 67.46,
         "sensor_id": "773",
         "temperature": 33.7
     },
     {
+        "humidity": 47.15,
         "sensor_id": "775",
         "temperature": 32.93
     },
     {
-        "sensor_id": "776",
-        "temperature": 26.7
-    },
-    {
+        "humidity": 22.16,
         "sensor_id": "777",
         "temperature": 45.86
     },
     {
+        "humidity": 33.44,
         "sensor_id": "779",
         "temperature": 2.95
     },
     {
+        "humidity": 66.19,
         "sensor_id": "781",
         "temperature": 29.41
     },
     {
+        "humidity": 70.22,
         "sensor_id": "783",
         "temperature": 20.69
     },
     {
+        "humidity": 37.24,
         "sensor_id": "784",
         "temperature": 15.94
     },
     {
-        "sensor_id": "786",
-        "temperature": 5.29
-    },
-    {
-        "sensor_id": "787",
-        "temperature": 16.38
-    },
-    {
+        "humidity": 46.44,
         "sensor_id": "790",
         "temperature": 44.62
     },
     {
-        "sensor_id": "791",
-        "temperature": 46.2
-    },
-    {
+        "humidity": 24.66,
         "sensor_id": "792",
         "temperature": 15.96
     },
     {
+        "humidity": 60.34,
         "sensor_id": "793",
         "temperature": 27.53
     },
     {
-        "sensor_id": "794",
-        "temperature": 32.53
-    },
-    {
-        "sensor_id": "796",
-        "temperature": 33.19
-    },
-    {
+        "humidity": 24.47,
         "sensor_id": "798",
         "temperature": 9.98
     },
     {
-        "sensor_id": "799",
-        "temperature": 19.52
-    },
-    {
+        "humidity": 58.41,
         "sensor_id": "800",
         "temperature": 40.05
     },
     {
+        "humidity": 62.65,
         "sensor_id": "801",
         "temperature": 3.86
     },
     {
-        "sensor_id": "803",
-        "temperature": 44.89
-    },
-    {
+        "humidity": 48.66,
         "sensor_id": "804",
         "temperature": 24.44
     },
     {
+        "humidity": 55.88,
         "sensor_id": "805",
         "temperature": 19.11
     },
     {
+        "humidity": 53.31,
         "sensor_id": "806",
         "temperature": 28.71
     },
     {
+        "humidity": 43.44,
         "sensor_id": "807",
         "temperature": 28.66
     },
     {
-        "sensor_id": "809",
-        "temperature": 28.47
-    },
-    {
-        "sensor_id": "810",
-        "temperature": 22.34
-    },
-    {
-        "sensor_id": "811",
-        "temperature": 46.28
-    },
-    {
-        "sensor_id": "812",
-        "temperature": 36.4
-    },
-    {
+        "humidity": 31.95,
         "sensor_id": "813",
         "temperature": 20.12
     },
     {
-        "sensor_id": "814",
-        "temperature": 49.48
-    },
-    {
-        "sensor_id": "815",
-        "temperature": 8.78
-    },
-    {
+        "humidity": 28.38,
         "sensor_id": "819",
         "temperature": 36.8
     },
     {
+        "humidity": 38.19,
         "sensor_id": "820",
         "temperature": 23.39
     },
     {
-        "sensor_id": "821",
-        "temperature": 6.22
-    },
-    {
+        "humidity": 28.77,
         "sensor_id": "822",
         "temperature": 40.34
     },
     {
+        "humidity": 48.54,
         "sensor_id": "824",
         "temperature": 8.11
     },
     {
-        "sensor_id": "826",
-        "temperature": 20.27
-    },
-    {
+        "humidity": 60.86,
         "sensor_id": "828",
         "temperature": 47.87
     },
     {
-        "sensor_id": "829",
-        "temperature": 48.85
-    },
-    {
-        "sensor_id": "830",
-        "temperature": 2.18
-    },
-    {
+        "humidity": 29.02,
         "sensor_id": "831",
         "temperature": 39.72
     },
     {
-        "sensor_id": "832",
-        "temperature": 1.02
-    },
-    {
+        "humidity": 73.96,
         "sensor_id": "836",
         "temperature": 29.59
     },
     {
+        "humidity": 38.02,
         "sensor_id": "839",
         "temperature": 49.41
     },
     {
-        "sensor_id": "841",
-        "temperature": 18.91
-    },
-    {
+        "humidity": 29.03,
         "sensor_id": "842",
         "temperature": 41.02
     },
     {
-        "sensor_id": "843",
-        "temperature": 13.74
-    },
-    {
+        "humidity": 66.6,
         "sensor_id": "844",
         "temperature": 37.22
     },
     {
-        "sensor_id": "849",
-        "temperature": 22.33
-    },
-    {
+        "humidity": 55.92,
         "sensor_id": "851",
         "temperature": 28.77
     },
     {
+        "humidity": 46.01,
         "sensor_id": "852",
         "temperature": 1.21
     },
     {
+        "humidity": 20.83,
         "sensor_id": "853",
         "temperature": 48.14
     },
     {
+        "humidity": 40.82,
         "sensor_id": "854",
         "temperature": 14.1
     },
     {
+        "humidity": 60.87,
         "sensor_id": "855",
         "temperature": 47.26
     },
     {
-        "sensor_id": "856",
-        "temperature": 2.72
-    },
-    {
-        "sensor_id": "857",
-        "temperature": 15.11
-    },
-    {
-        "sensor_id": "858",
-        "temperature": 46.75
-    },
-    {
-        "sensor_id": "859",
-        "temperature": 3.2
-    },
-    {
+        "humidity": 29.92,
         "sensor_id": "860",
         "temperature": 38.64
     },
     {
-        "sensor_id": "862",
-        "temperature": 2.88
-    },
-    {
+        "humidity": 64.91,
         "sensor_id": "863",
         "temperature": 8.66
     },
     {
+        "humidity": 49.12,
         "sensor_id": "864",
         "temperature": 0.02
     },
     {
-        "sensor_id": "866",
-        "temperature": 31.56
-    },
-    {
-        "sensor_id": "867",
-        "temperature": 33.41
-    },
-    {
-        "sensor_id": "868",
-        "temperature": 39.27
-    },
-    {
+        "humidity": 41.27,
         "sensor_id": "869",
         "temperature": 21.09
     },
     {
-        "sensor_id": "873",
-        "temperature": 47.59
-    },
-    {
-        "sensor_id": "874",
-        "temperature": 24.34
-    },
-    {
+        "humidity": 29.62,
         "sensor_id": "875",
         "temperature": 0.45
     },
     {
+        "humidity": 31.43,
         "sensor_id": "877",
         "temperature": 32.4
     },
     {
-        "sensor_id": "878",
-        "temperature": 10.99
-    },
-    {
-        "sensor_id": "879",
-        "temperature": 23.59
-    },
-    {
-        "sensor_id": "880",
-        "temperature": 36.18
-    },
-    {
+        "humidity": 33.67,
         "sensor_id": "881",
         "temperature": 30.83
     },
     {
+        "humidity": 61.43,
         "sensor_id": "882",
         "temperature": 27.79
     },
     {
-        "sensor_id": "883",
-        "temperature": 35.21
-    },
-    {
+        "humidity": 72.95,
         "sensor_id": "884",
         "temperature": 8.53
     },
     {
-        "sensor_id": "888",
-        "temperature": 38.81
-    },
-    {
-        "sensor_id": "891",
-        "temperature": 19.51
-    },
-    {
-        "sensor_id": "892",
-        "temperature": 2.08
-    },
-    {
-        "sensor_id": "893",
-        "temperature": 4.26
-    },
-    {
-        "sensor_id": "894",
-        "temperature": 5.67
-    },
-    {
-        "sensor_id": "896",
-        "temperature": 40.89
-    },
-    {
-        "sensor_id": "897",
-        "temperature": 45.52
-    },
-    {
+        "humidity": 63.81,
         "sensor_id": "899",
         "temperature": 1.03
     },
     {
+        "humidity": 70.01,
         "sensor_id": "901",
         "temperature": 19.38
     },
     {
-        "sensor_id": "902",
-        "temperature": 25.42
-    },
-    {
+        "humidity": 65.81,
         "sensor_id": "904",
         "temperature": 0.33
     },
     {
-        "sensor_id": "905",
-        "temperature": 27.07
-    },
-    {
+        "humidity": 61.81,
         "sensor_id": "906",
         "temperature": 29.67
     },
     {
+        "humidity": 58.19,
         "sensor_id": "907",
         "temperature": 15.46
     },
     {
-        "sensor_id": "908",
-        "temperature": 19.83
-    },
-    {
+        "humidity": 32.84,
         "sensor_id": "909",
         "temperature": 44.21
     },
     {
-        "sensor_id": "910",
-        "temperature": 4.21
-    },
-    {
+        "humidity": 69.75,
         "sensor_id": "912",
         "temperature": 31.77
     },
     {
-        "sensor_id": "913",
-        "temperature": 17.81
-    },
-    {
-        "sensor_id": "914",
-        "temperature": 31.74
-    },
-    {
-        "sensor_id": "915",
-        "temperature": 15.89
-    },
-    {
+        "humidity": 22.17,
         "sensor_id": "916",
         "temperature": 31.16
     },
     {
+        "humidity": 25.56,
         "sensor_id": "917",
         "temperature": 47.03
     },
     {
+        "humidity": 58.08,
         "sensor_id": "918",
         "temperature": 2.7
     },
     {
+        "humidity": 35.34,
         "sensor_id": "919",
         "temperature": 4.69
     },
     {
+        "humidity": 59.44,
         "sensor_id": "920",
         "temperature": 24.87
     },
     {
-        "sensor_id": "921",
-        "temperature": 3.14
-    },
-    {
-        "sensor_id": "922",
-        "temperature": 7.27
-    },
-    {
+        "humidity": 62.65,
         "sensor_id": "923",
         "temperature": 6.21
     },
     {
+        "humidity": 21.24,
         "sensor_id": "931",
         "temperature": 34.26
     },
     {
-        "sensor_id": "932",
-        "temperature": 10.94
-    },
-    {
+        "humidity": 63.21,
         "sensor_id": "933",
         "temperature": 13.96
     },
     {
+        "humidity": 20.57,
         "sensor_id": "934",
         "temperature": 26.33
     },
     {
-        "sensor_id": "937",
-        "temperature": 46.61
-    },
-    {
-        "sensor_id": "940",
-        "temperature": 22.8
-    },
-    {
+        "humidity": 67.83,
         "sensor_id": "941",
         "temperature": 17.77
     },
     {
-        "sensor_id": "942",
-        "temperature": 16.77
-    },
-    {
+        "humidity": 36.72,
         "sensor_id": "946",
         "temperature": 19.22
     },
     {
+        "humidity": 25.85,
         "sensor_id": "948",
         "temperature": 17.74
     },
     {
+        "humidity": 44.79,
         "sensor_id": "949",
         "temperature": 27.61
     },
     {
+        "humidity": 20.6,
         "sensor_id": "951",
         "temperature": 31.78
     },
     {
-        "sensor_id": "952",
-        "temperature": 45.28
-    },
-    {
+        "humidity": 30.59,
         "sensor_id": "953",
         "temperature": 31.69
     },
     {
+        "humidity": 35.33,
         "sensor_id": "954",
         "temperature": 20.6
     },
     {
+        "humidity": 68.28,
         "sensor_id": "955",
         "temperature": 35.63
     },
     {
+        "humidity": 51.75,
         "sensor_id": "957",
         "temperature": 29.18
     },
     {
+        "humidity": 37.71,
         "sensor_id": "959",
         "temperature": 35.94
     },
     {
+        "humidity": 28.76,
         "sensor_id": "961",
         "temperature": 10.65
     },
     {
-        "sensor_id": "963",
-        "temperature": 40.31
-    },
-    {
-        "sensor_id": "969",
-        "temperature": 49.41
-    },
-    {
+        "humidity": 53.09,
         "sensor_id": "970",
         "temperature": 22.13
     },
     {
-        "sensor_id": "971",
-        "temperature": 17.87
-    },
-    {
-        "sensor_id": "972",
-        "temperature": 39.81
-    },
-    {
+        "humidity": 22.48,
         "sensor_id": "973",
         "temperature": 16.29
     },
     {
+        "humidity": 30.27,
         "sensor_id": "974",
         "temperature": 7.07
     },
     {
-        "sensor_id": "975",
-        "temperature": 10.21
-    },
-    {
-        "sensor_id": "977",
-        "temperature": 45.39
-    },
-    {
-        "sensor_id": "979",
-        "temperature": 10.7
-    },
-    {
+        "humidity": 56.64,
         "sensor_id": "980",
         "temperature": 42.41
     },
     {
+        "humidity": 46.68,
         "sensor_id": "982",
         "temperature": 5.26
     },
     {
-        "sensor_id": "983",
-        "temperature": 40.2
-    },
-    {
-        "sensor_id": "984",
-        "temperature": 43.52
-    },
-    {
+        "humidity": 24.28,
         "sensor_id": "985",
         "temperature": 30.29
     },
     {
+        "humidity": 41.18,
         "sensor_id": "986",
         "temperature": 27.95
     },
     {
+        "humidity": 37.93,
         "sensor_id": "987",
         "temperature": 2.85
     },
     {
+        "humidity": 34.44,
         "sensor_id": "988",
         "temperature": 20.73
     },
     {
-        "sensor_id": "989",
-        "temperature": 16.88
-    },
-    {
+        "humidity": 42.29,
         "sensor_id": "992",
         "temperature": 2.01
     },
     {
-        "sensor_id": "994",
-        "temperature": 16.22
-    },
-    {
+        "humidity": 49.77,
         "sensor_id": "995",
         "temperature": 48.01
-    },
-    {
-        "sensor_id": "996",
-        "temperature": 27.21
-    },
-    {
-        "sensor_id": "998",
-        "temperature": 28.85
-    },
-    {
-        "sensor_id": "999",
-        "temperature": 1.91
     }
 ]

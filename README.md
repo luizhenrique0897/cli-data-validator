@@ -7,8 +7,10 @@
 
 A interactive Command Line Interface (CLI) application designed to validate and sanitize dataset streams (CSV) against dynamically generated **Pydantic V2** schemas defined in YAML or JSON.
 
-Built with a clean modular architecture separating Core Logic, I/O Operations, and Interactive Terminal UI.
-
+---
+<p align="center">
+  <img src="assets/demo.gif" alt="CLI Data Validator Demo" width="100%">
+</p>
 ---
 
 ## 🎯 Key Features
